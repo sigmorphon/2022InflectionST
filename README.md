@@ -34,7 +34,7 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 
 #### Development Languages
 
-***Add list of languages***
+*Stay tuned*
 
 | Language | Family| code | UM | Annotators  |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 
 #### Surprise Languages
 
-***ADD LIST OF LANGUAGES***
+*Stay tuned*
 
 | Language | Family| code | UM | Annotators  |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 
 
 **Stage 1: Development Phase**
-* **March 15, 2022**: Training and development splits for development languages released; we invite participants to report errors.
+* **March, 2022**: Training and development splits for development languages released; we invite participants to report errors.
 * **March 29, 2022**: Neural and non-neural baselines for development languages released.
 
 **Stage 2: Generalization Phase**
@@ -97,26 +97,17 @@ The human-like generalization part of this shared task will be evaluated as desc
 
 ### Submission Instructions 
 
-Please submit your team's results to [jordan.kodner@stonybrook.edu](jordan.kodner@stonybrook.edu) CCing your team mates by May 6, 2022. Please use "SIGMORPHON Task 0 Part 1" in your subject line.
+*Stay tuned*
 
 
 ### Baselines
 
-***UPDATE. Use last year's?***
-
-The organizers will provide one non-neural and one neural baseline for the participants’ consumption.
+*Stay tuned*
 
 
 ### Organizers
-**Task Logistics**: ***ADD NAMES***
 
-**Annotators**: ***ADD NAMES***
-
-
-
-### References
-
-***???***
+*Stay tuned*
 
 
 ## Part 2: (Automatic) Morphological Acquisition Trajectories
@@ -126,7 +117,7 @@ How exactly it is that children acquire their native morphologies and carry out 
 
 The recent success and popularity of improved neural methods has brought renewed interest in these questions from the computional linguistics and cognitive science communities. A series of papers and responses have been published in the last few years [Kirov and Cotterell (2018)](https://transacl.org/index.php/tacl/article/view/1420), [Corkery et al. (2019)](https://aclanthology.org/P19-1376/) [McCurdy et al. (2020)](https://www.aclweb.org/anthology/2020.acl-main.159/), [Belth, Payne, et al. (2021)](https://escholarship.org/uc/item/1md2p6j5), and [Dankers et al. (2021)](https://aclanthology.org/2021.conll-1.8/). [Last year's SIGMORPHON shared task](https://github.com/sigmorphon/2021Task0/) threw its hat into the ring as well, offering a subtask correlating predicted and human-wellformedness ratings for inflected forms.
 
-This year's subtask approaches the question from a different angle. Instead of predicting well-formedness of nonce word forms, systems will instead be evaluated on their ability to generalize over naturalistic low-resource inputs. We have prepared data to determine neural network learning trajectories and compare them against the wealth of data that has been collected about human learning trajectories for three famous problems: English past tense, the namesake of the Past-Tense Debate (e.g., [Marcus et al. 1992](https://www.jstor.org/stable/1166115?seq=1#metadata_info_tab_contents)), German noun plurals, a well-studied challenge case which may have a minority-default pattern ([Clahsen et al. 1992](https://www.sciencedirect.com/science/article/pii/001002779290018D), [Marcus et al. 1995](https://d1wqtxts1xzle7.cloudfront.net/30270110/Marcus_Pinker_et_al_1995_German_Inflection_Cognitive_Psychology-with-cover-page-v2.pdf?Expires=1646265841&Signature=PRNt6JeRUZYQ0KBtfJMzRH3cQPySiWtycYIZqkYPBoxn2-Y3k6zgLMpUHKLE3RFPMajxCT0ReU-~CuADL66-hk7zI9eT6pcoj-jBOTr5Yt4NbjEoHs~o4-AXB6J1sdKcKLqMLH3x6h41Dtnp-tgviym3GV42e6usK0yQyMM9O0KiEY~nWulXAqVFTeY~CL8~0PBYEHXRywsTm6ZOMI7kTZzefyg1ZLGlrGtHcZyHMV4KO0ibT7SddhQgiiuHh6j4jIlCwdxiovf~MPqu5lpJqxDdlOoJS8AktpmsCTipAw4Q2~frNXr1rJ2GM2WBUABjugH0JbBhhvB4TpLzPZ6qrA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)), and Arabic noun plurals, an even more challenging case with several competing affixal and templatic patterns ([Ravid & Farah 1999](https://journals.sagepub.com/doi/pdf/10.1177/014272379901905603?casa_token=RHoIAWxOousAAAAA:NpjamGN3dzbA43WuEpZzKbBApqyYol5jI9vqJ3C7NKGigY5nSmm5ZA18sciRfWFESETqXL21chgi), [Dawdy-Hesterberg & Pierrehumbert (2014)](https://www.tandfonline.com/doi/pdf/10.1080/23273798.2014.899377)).
+This year's subtask approaches the question from a different angle. Instead of predicting well-formedness of nonce word forms, systems will instead be evaluated on their ability to generalize over naturalistic low-resource inputs. We have prepared data to determine systems' learning trajectories and compare them against the wealth of data that has been collected about human learning trajectories for three famous problems: English past tense, the namesake of the Past-Tense Debate (e.g., [Marcus et al. 1992](https://www.jstor.org/stable/1166115?seq=1#metadata_info_tab_contents)), German noun plurals, a well-studied challenge case which may have a minority-default pattern ([Clahsen et al. 1992](https://www.sciencedirect.com/science/article/pii/001002779290018D), [Marcus et al. 1995](https://d1wqtxts1xzle7.cloudfront.net/30270110/Marcus_Pinker_et_al_1995_German_Inflection_Cognitive_Psychology-with-cover-page-v2.pdf?Expires=1646265841&Signature=PRNt6JeRUZYQ0KBtfJMzRH3cQPySiWtycYIZqkYPBoxn2-Y3k6zgLMpUHKLE3RFPMajxCT0ReU-~CuADL66-hk7zI9eT6pcoj-jBOTr5Yt4NbjEoHs~o4-AXB6J1sdKcKLqMLH3x6h41Dtnp-tgviym3GV42e6usK0yQyMM9O0KiEY~nWulXAqVFTeY~CL8~0PBYEHXRywsTm6ZOMI7kTZzefyg1ZLGlrGtHcZyHMV4KO0ibT7SddhQgiiuHh6j4jIlCwdxiovf~MPqu5lpJqxDdlOoJS8AktpmsCTipAw4Q2~frNXr1rJ2GM2WBUABjugH0JbBhhvB4TpLzPZ6qrA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)), and Arabic noun plurals, an even more challenging case with several competing affixal and templatic patterns ([Ravid & Farah 1999](https://journals.sagepub.com/doi/pdf/10.1177/014272379901905603?casa_token=RHoIAWxOousAAAAA:NpjamGN3dzbA43WuEpZzKbBApqyYol5jI9vqJ3C7NKGigY5nSmm5ZA18sciRfWFESETqXL21chgi), [Dawdy-Hesterberg & Pierrehumbert (2014)](https://www.tandfonline.com/doi/pdf/10.1080/23273798.2014.899377)).
 
 Generalization is a core task facing any morphology learner, human or otherwise, because morphological data is extremely sparse. Even for languages with moderately sized paradigms, the vast majority of possible forms will not be attested even in millions of tokens of input. These distributions are highly skewed such that a few lemmas may have mostly complete paradigms, while most lemmas will only be attested in a couple forms [Chan 2008](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.152.9420&rep=rep1&type=pdf). Due to this speakers young and old are often forced to infer inflected forms that were not well-attested in their inputs up to that point, even for known lemmas.
 
@@ -147,7 +138,7 @@ bring	brought	V;PST
 ping	pinged	V;PST
 ```
 
-Training data may be downloaded [here](https://github.com/sigmorphon/2022InflectionST/tree/main/part2). 
+Training and dev data may be downloaded [here](https://github.com/sigmorphon/2022InflectionST/tree/main/part2). 
 
 The data are in the standard UniMorph triple file format:
 
