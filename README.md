@@ -25,7 +25,7 @@ The model should be general enough to work for natural languages of any typologi
 This task will proceed in three phases: the ***Development Phase***, the ***Generalization Phase***, and the ***Evaluation Phase***. As the phases advance, more data and more languages will be released.
 
 In the ***Development Phase***, we will provide training and development splits that should be used to *develop* your system.
-We will refer to them as the *development languages*. The list of languages is below.
+We will refer to them as the *development languages*. The list of languages is below. There is a small training set for each languages and a large training set for languages with enough annotated paradigms.
 
 In the ***Generalization Phase***, we will provide training and development splits for new languages where approximately half are genetically related (belong to the same family) and half are genetically *unrelated* (are isolates or belong to a different family) to the development languages.  We will also keep the genetically unrelated language *families* a surprise, though some languages will come from the same families as those in the Development Phase.
 
@@ -93,6 +93,8 @@ bisa     mmbisa     V;PRS;HAB;NEG
 In the training data, we give all three fields. In the test phase, we omit field 2.
 
 We will provide varying amounts of labeled training data, depending on the language, to assess models’ ability to generalize to novel forms, in addition to information about each language’s family and sub-family, and WALS features which participants may optionally use. For each language, the possible inflections are taken from a finite set of morphological tags, presented in the UniMorph schema.
+
+Two training sets are provided for most languages in order to test models' behavior on smaller and larger data sets.
 
 ### Evaluation
 
@@ -185,7 +187,6 @@ Please submit your team's results to [jordan.kodner@stonybrook.edu](jordan.kodne
 
 * Jordan Kodner (Stony Brook University)
 * Salam Khalifa (Stony Brook University)
-* *and more on the way*
 
 
 ### References
