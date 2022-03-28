@@ -1,4 +1,4 @@
-# SIGMORPHON–UniMorph Shared Task on Generalization in Morphological Inflection Generation
+# SIGMORPHON–UniMorph Shared Task on Typologically Diverse and Acquisition-Inspired Morphological Inflection Generation
 
 SIGMORPHON’s seventh installment of its inflection generation shared task will be divided into two parts:
 
