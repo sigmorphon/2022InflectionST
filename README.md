@@ -7,7 +7,7 @@ SIGMORPHON’s seventh installment of its inflection generation shared task will
 
 Please join our [Google Group](https://groups.google.com/g/sigmorphon2022-sharedtask0) to stay up to date.
 
-Click here to [register for the task](https://forms.gle/Wf1m5nAPzjVhzDLb7)!
+***Click here to [register for the task](https://forms.gle/Wf1m5nAPzjVhzDLb7)!***
 
 
 ## Part 1: Typologically Diverse Morphological (Re-)Inflection
@@ -123,7 +123,7 @@ The human-like generalization part of this shared task will be evaluated as desc
 
 ### Organizers
 
-**Task Logistics**: Jordan Kodner, Salam Khalifa, Khuyagbaatar Batsuren, Ekaterina Vylomova, Maria Ryskina, Omer Goldman, Ryan Cotterell, Mans Hulden, Garret Nicolai, David Yarowsky
+**Task Logistics**: Jordan Kodner, Salam Khalifa, Khuyagbaatar Batsuren, Ekaterina Vylomova, Maria Ryskina, Omer Goldman, Jeffrey Heinz, Ryan Cotterell, Mans Hulden, Garret Nicolai, David Yarowsky
 
 **Annotators**: Antonios Anastasopoulos, Aryaman Arora, Khuyagbaatar Batsuren, Omer Goldman, Nizar Habash, Salam Khalifa, Elena Klyachko, Maria Nepomniashchaya, Ritvan Karahodja, Daria Rodionova, Anastasia Yemelina
 
