@@ -34,11 +34,27 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 
 #### Development Languages
 
-*Stay tuned*
+*More coming soon*
 
 | Language | Family| code | UM | Annotators  |
 |---|---|---|---|---|
-
+| English, Old | Germanic (Indo-European) | ang | https://github.com/unimorph/ang/ | (English Wiktionary) |
+| Arabic, Modern Standard | Semitic (Afro-Asiatic) | ara | https://github.com/unimorph/ara/ | Salam Khalifa, Nizar Habash |
+| Assamese | Indic (Indo-European) | asm | https://github.com/unimorph/asm/ | Khuyagbaatar Batsuren, Aryaman Arora |
+| Evenki | Tungusic | evn | https://github.com/unimorph/evn/ | Elena Klyachko |
+| German, Old High | Germanic (Indo-European) | goh | https://github.com/unimorph/goh/ | (English Wiktionary) |
+| Gothic | Germanic (Indo-European) | got | https://github.com/unimorph/got/ | (English Wiktionary) |
+| Gujarati | Indic (Indo-European) | guj | https://github.com/unimorph/got/ | Aryaman Arora, Khuyaagbaatar Batsuren |
+| Hebrew | Semitic (Afro-Asiatic) | heb | https://github.com/unimorph/heb/ | Omer Goldman |
+| Mongolian, Khalkha | Mongolic | khk | https://github.com/unimorph/khk/ | Khuyagbaatar Batsuren |
+| Korean | Koreanic | kor | https://github.com/unimorph/kor/ | Maria Nepomniashchaya, Daria Rodionova, Anastasia Yemelina |
+| Karelian | Finnic (Uralic) | krl | https://github.com/unimorph/krl/ | (Wiktionary, [VepKar](http://dictorpus.krc.karelia.ru/en)) |
+| Ludian | Finnic (Uralic) | lud | https://github.com/unimorph/lud/ | ([VepKar](http://dictorpus.krc.karelia.ru/en)) |
+| German, Middle Low | Germanic (Indo-European) | nds | https://github.com/unimorph/nds/ | (English Wiktionary) |
+| Norse, Old | Germanic (Indo-European) | non | https://github.com/unimorph/non/ | (English Wiktionary) |
+| Pomak | Slavic (Indo-European) | poma| https://github.com/unimorph/poma/ | Ritvan Karahodja, Antonios Anastasopoulos |
+| Xibe | Tungusic | sjo | https://github.com/unimorph/sjo/ | Elena Klyachko |
+| Veps | Finnic (Uralic) | vep | https://github.com/unimorph/vep/ | ([VepKar](http://dictorpus.krc.karelia.ru/en)) |
 
 #### Surprise Languages
 
@@ -51,7 +67,7 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 
 
 **Stage 1: Development Phase**
-* **March, 2022**: Training and development splits for development languages released; we invite participants to report errors.
+* **March 29, 2022**: Training and development splits for development languages released; we invite participants to report errors.
 * **March 29, 2022**: Neural and non-neural baselines for development languages released.
 
 **Stage 2: Generalization Phase**
@@ -107,7 +123,10 @@ The human-like generalization part of this shared task will be evaluated as desc
 
 ### Organizers
 
-*Stay tuned*
+**Task Logistics**: Jordan Kodner, Salam Khalifa, Khuyagbaatar Batsuren, Ekaterina Vylomova, Maria Ryskina, Omer Goldman, Ryan Cotterell, Mans Hulden, Garret Nicolai, David Yarowsky
+
+**Annotators**: Antonios Anastasopoulos, Aryaman Arora, Khuyagbaatar Batsuren, Omer Goldman, Nizar Habash, Salam Khalifa, Elena Klyachko, Maria Nepomniashchaya, Ritvan Karahodja, Daria Rodionova, Anastasia Yemelina
+
 
 
 ## Part 2: (Automatic) Morphological Acquisition Trajectories
