@@ -36,7 +36,7 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 
 *More coming soon*
 
-| Language | Family| code | UM | Annotators  |
+| Language | Family| code | UM | Contributors |
 |---|---|---|---|---|
 | English, Old | Germanic (Indo-European) | ang | https://github.com/unimorph/ang/ | Jeremiah Young |
 | Arabic, Modern Standard | Semitic (Afro-Asiatic) | ara | https://github.com/unimorph/ara/ | Salam Khalifa, Nizar Habash |
@@ -46,14 +46,20 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 | Gothic | Germanic (Indo-European) | got | https://github.com/unimorph/got/ | Jeremiah Young |
 | Gujarati | Indic (Indo-European) | guj | https://github.com/unimorph/got/ | Aryaman Arora, Khuyaagbaatar Batsuren |
 | Hebrew | Semitic (Afro-Asiatic) | heb | https://github.com/unimorph/heb/ | Omer Goldman |
+| Kholosi | Indic (Indo-European) | hsi | https://github.com/unimorph/hsi/ | Aryaman Arora |
+| Hungarian | Ugric (Uralic) | hun | https://github.com/unimorph/hun/ | Judit Ács, Khuyagbaatar Batsuren, Gábor Bella, Ryan Cotterell, Christo Kirov |
+| Georgian | Kartvelian | kat | https://github.com/unimorph/kat/ | Simon Guriel, Silvia Guriel-Agiashvili & Nona Atanelov |
 | Mongolian, Khalkha | Mongolic | khk | https://github.com/unimorph/khk/ | Khuyagbaatar Batsuren |
 | Korean | Koreanic | kor | https://github.com/unimorph/kor/ | Maria Nepomniashchaya, Daria Rodionova, Anastasia Yemelina |
 | Karelian | Finnic (Uralic) | krl | https://github.com/unimorph/krl/ | (Wiktionary, [VepKar](http://dictorpus.krc.karelia.ru/en)) |
 | Ludian | Finnic (Uralic) | lud | https://github.com/unimorph/lud/ | ([VepKar](http://dictorpus.krc.karelia.ru/en)) |
 | German, Middle Low | Germanic (Indo-European) | nds | https://github.com/unimorph/nds/ | Jeremiah Young |
 | Norse, Old | Germanic (Indo-European) | non | https://github.com/unimorph/non/ | Jeremiah Young |
+| Polish | Slavic (Indo-European) | pol | https://github.com/unimorph/pol/ | Marcin Woliński, Zygmunt Saloni, Robert Wołosz, Włodzimierz Gruszczyński, Danuta Skowrońska, Zbigniew Bronk, Witold Kieraś |
 | Pomak | Slavic (Indo-European) | poma| https://github.com/unimorph/poma/ | Ritvan Karahodja, Antonios Anastasopoulos |
 | Xibe | Tungusic | sjo | https://github.com/unimorph/sjo/ | Elena Klyachko |
+| Slovak | Slavic (Indo-European) | slk | https://github.com/unimorph/slk/ | Jan Hajič, Jan Hric, Witold Kieraś |
+| Turkish | Turkic | tur | https://github.com/unimorph/tur/ | Omer Goldman, Duygu Ataman |
 | Veps | Finnic (Uralic) | vep | https://github.com/unimorph/vep/ | ([VepKar](http://dictorpus.krc.karelia.ru/en)) |
 
 #### Surprise Languages
