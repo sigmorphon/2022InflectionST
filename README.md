@@ -38,20 +38,20 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 
 | Language | Family| code | UM | Annotators  |
 |---|---|---|---|---|
-| English, Old | Germanic (Indo-European) | ang | https://github.com/unimorph/ang/ | (English Wiktionary) |
+| English, Old | Germanic (Indo-European) | ang | https://github.com/unimorph/ang/ | Jeremiah Young |
 | Arabic, Modern Standard | Semitic (Afro-Asiatic) | ara | https://github.com/unimorph/ara/ | Salam Khalifa, Nizar Habash |
 | Assamese | Indic (Indo-European) | asm | https://github.com/unimorph/asm/ | Khuyagbaatar Batsuren, Aryaman Arora |
 | Evenki | Tungusic | evn | https://github.com/unimorph/evn/ | Elena Klyachko |
-| German, Old High | Germanic (Indo-European) | goh | https://github.com/unimorph/goh/ | (English Wiktionary) |
-| Gothic | Germanic (Indo-European) | got | https://github.com/unimorph/got/ | (English Wiktionary) |
+| German, Old High | Germanic (Indo-European) | goh | https://github.com/unimorph/goh/ | Jeremiah Young |
+| Gothic | Germanic (Indo-European) | got | https://github.com/unimorph/got/ | Jeremiah Young |
 | Gujarati | Indic (Indo-European) | guj | https://github.com/unimorph/got/ | Aryaman Arora, Khuyaagbaatar Batsuren |
 | Hebrew | Semitic (Afro-Asiatic) | heb | https://github.com/unimorph/heb/ | Omer Goldman |
 | Mongolian, Khalkha | Mongolic | khk | https://github.com/unimorph/khk/ | Khuyagbaatar Batsuren |
 | Korean | Koreanic | kor | https://github.com/unimorph/kor/ | Maria Nepomniashchaya, Daria Rodionova, Anastasia Yemelina |
 | Karelian | Finnic (Uralic) | krl | https://github.com/unimorph/krl/ | (Wiktionary, [VepKar](http://dictorpus.krc.karelia.ru/en)) |
 | Ludian | Finnic (Uralic) | lud | https://github.com/unimorph/lud/ | ([VepKar](http://dictorpus.krc.karelia.ru/en)) |
-| German, Middle Low | Germanic (Indo-European) | nds | https://github.com/unimorph/nds/ | (English Wiktionary) |
-| Norse, Old | Germanic (Indo-European) | non | https://github.com/unimorph/non/ | (English Wiktionary) |
+| German, Middle Low | Germanic (Indo-European) | nds | https://github.com/unimorph/nds/ | Jeremiah Young |
+| Norse, Old | Germanic (Indo-European) | non | https://github.com/unimorph/non/ | Jeremiah Young |
 | Pomak | Slavic (Indo-European) | poma| https://github.com/unimorph/poma/ | Ritvan Karahodja, Antonios Anastasopoulos |
 | Xibe | Tungusic | sjo | https://github.com/unimorph/sjo/ | Elena Klyachko |
 | Veps | Finnic (Uralic) | vep | https://github.com/unimorph/vep/ | ([VepKar](http://dictorpus.krc.karelia.ru/en)) |
