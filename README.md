@@ -127,7 +127,7 @@ The human-like generalization part of this shared task will be evaluated as desc
 
 **Task Logistics**: Jordan Kodner, Salam Khalifa, Khuyagbaatar Batsuren, Ekaterina Vylomova, Maria Ryskina, Omer Goldman, Jeffrey Heinz, Ryan Cotterell, Mans Hulden, Garret Nicolai, David Yarowsky
 
-**Annotators**: Antonios Anastasopoulos, Aryaman Arora, Khuyagbaatar Batsuren, Omer Goldman, Nizar Habash, Salam Khalifa, Elena Klyachko, Maria Nepomniashchaya, Ritvan Karahodja, Daria Rodionova, Anastasia Yemelina
+**Annotators**: Antonios Anastasopoulos, Aryaman Arora, Khuyagbaatar Batsuren, Omer Goldman, David Guriel, Nizar Habash, Salam Khalifa, Elena Klyachko, Maria Nepomniashchaya, Ritvan Karahodja, Daria Rodionova, Anastasia Yemelina, Jeremiah Young 
 
 
 
