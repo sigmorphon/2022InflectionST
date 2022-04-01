@@ -38,29 +38,37 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 
 | Language | Family| code | UM | Contributors |
 |---|---|---|---|---|
-| English, Old | Germanic (Indo-European) | ang | https://github.com/unimorph/ang/ | Jeremiah Young |
-| Arabic, Modern Standard | Semitic (Afro-Asiatic) | ara | https://github.com/unimorph/ara/ | Salam Khalifa, Nizar Habash |
+
+| Arabic, Modern Standard | Semitic (Afro-Asiatic) | ara | https://github.com/unimorph/ara/ara_atb | Salam Khalifa, Nizar Habash |
 | Assamese | Indic (Indo-European) | asm | https://github.com/unimorph/asm/ | Khuyagbaatar Batsuren, Aryaman Arora |
+| Braj | Indic (Indo-European) | bra | https://github.com/unimorph/bra/ | Shyam Ratan, Ritesh Kumar |
+| Chukchi | Chukotko-Kamchatkan | ckt | https://github.com/unimorph/ckt/ | Karina Sheifer, Marina Ryskina |
+| English, Old | Germanic (Indo-European) | ang | https://github.com/unimorph/ang/ | Jeremiah Young |
 | Evenki | Tungusic | evn | https://github.com/unimorph/evn/ | Elena Klyachko |
+| Georgian | Kartvelian | kat | https://github.com/unimorph/kat/ | Simon Guriel, Silvia Guriel-Agiashvili & Nona Atanelov |
+| German, Low | Germanic (Indo-European) | nds | https://github.com/unimorph/nds/ | Jeremiah Young |
+| German, Middle Low | Germanic (Indo-European) | nds | https://github.com/unimorph/gml/ | Jeremiah Young |
 | German, Old High | Germanic (Indo-European) | goh | https://github.com/unimorph/goh/ | Jeremiah Young |
 | Gothic | Germanic (Indo-European) | got | https://github.com/unimorph/got/ | Jeremiah Young |
 | Gujarati | Indic (Indo-European) | guj | https://github.com/unimorph/got/ | Aryaman Arora, Khuyaagbaatar Batsuren |
 | Hebrew | Semitic (Afro-Asiatic) | heb | https://github.com/unimorph/heb/ | Omer Goldman |
-| Kholosi | Indic (Indo-European) | hsi | https://github.com/unimorph/hsi/ | Aryaman Arora |
 | Hungarian | Ugric (Uralic) | hun | https://github.com/unimorph/hun/ | Judit Ács, Khuyagbaatar Batsuren, Gábor Bella, Ryan Cotterell, Christo Kirov |
-| Georgian | Kartvelian | kat | https://github.com/unimorph/kat/ | Simon Guriel, Silvia Guriel-Agiashvili & Nona Atanelov |
-| Mongolian, Khalkha | Mongolic | khk | https://github.com/unimorph/khk/ | Khuyagbaatar Batsuren |
-| Korean | Koreanic | kor | https://github.com/unimorph/kor/ | Maria Nepomniashchaya, Daria Rodionova, Anastasia Yemelina |
+| Itelmen | Chukotko-Kamchatkan | itl | https://github.com/unimorph/itl/ | Karina Sheifer, Sofya Ganieva, Matvey Plugaryov |
 | Karelian | Finnic (Uralic) | krl | https://github.com/unimorph/krl/ | (Wiktionary, [VepKar](http://dictorpus.krc.karelia.ru/en)) |
+| Ket | Yeneisan | ket | https://github.com/unimorph/ket/ | Elena Budianskaya, Polina Mashkovtseva, Alexandra Serova |
+| Kholosi | Indic (Indo-European) | hsi | https://github.com/unimorph/hsi/ | Aryaman Arora |
+| Korean | Koreanic | kor | https://github.com/unimorph/kor/ | Maria Nepomniashchaya, Daria Rodionova, Anastasia Yemelina |
 | Ludian | Finnic (Uralic) | lud | https://github.com/unimorph/lud/ | ([VepKar](http://dictorpus.krc.karelia.ru/en)) |
-| German, Middle Low | Germanic (Indo-European) | nds | https://github.com/unimorph/nds/ | Jeremiah Young |
+| Magahi | Indic (Indo-European) | mag | https://github.com/unimorph/mag/ | Mohit Raj, Ritesh Kumar |
+| Mongolian, Khalkha | Mongolic | khk | https://github.com/unimorph/khk/ | Khuyagbaatar Batsuren |
 | Norse, Old | Germanic (Indo-European) | non | https://github.com/unimorph/non/ | Jeremiah Young |
-| Polish | Slavic (Indo-European) | pol | https://github.com/unimorph/pol/ | Marcin Woliński, Zygmunt Saloni, Robert Wołosz, Włodzimierz Gruszczyński, Danuta Skowrońska, Zbigniew Bronk, Witold Kieraś |
+| Polish | Slavic (Indo-European) | pol | https://github.com/unimorph/pol/ | Marcin Woliński, Zygmunt Saloni, Robert Wołosz, Włodzimierz Gruszczyński, Danuta Skowrońska, Zigniew Bronk, Witold Kieraś |
 | Pomak | Slavic (Indo-European) | poma| https://github.com/unimorph/poma/ | Ritvan Karahodja, Antonios Anastasopoulos |
-| Xibe | Tungusic | sjo | https://github.com/unimorph/sjo/ | Elena Klyachko |
 | Slovak | Slavic (Indo-European) | slk | https://github.com/unimorph/slk/ | Jan Hajič, Jan Hric, Witold Kieraś |
+| Sorbian, Upper | Slavic (Indo-European) | hsb | https://github.com/unimorph/hsb/ | Taras Andrushko, Igor Marchenko |
 | Turkish | Turkic | tur | https://github.com/unimorph/tur/ | Omer Goldman, Duygu Ataman |
 | Veps | Finnic (Uralic) | vep | https://github.com/unimorph/vep/ | ([VepKar](http://dictorpus.krc.karelia.ru/en)) |
+| Xibe | Tungusic | sjo | https://github.com/unimorph/sjo/ | Elena Klyachko |
 
 #### Surprise Languages
 
@@ -133,7 +141,7 @@ The human-like generalization part of this shared task will be evaluated as desc
 
 **Task Logistics**: Jordan Kodner, Salam Khalifa, Khuyagbaatar Batsuren, Ekaterina Vylomova, Maria Ryskina, Omer Goldman, Jeffrey Heinz, Ryan Cotterell, Mans Hulden, Garret Nicolai, David Yarowsky
 
-**Annotators**: Antonios Anastasopoulos, Aryaman Arora, Khuyagbaatar Batsuren, Omer Goldman, David Guriel, Nizar Habash, Salam Khalifa, Elena Klyachko, Maria Nepomniashchaya, Ritvan Karahodja, Daria Rodionova, Anastasia Yemelina, Jeremiah Young 
+**Annotators**: Antonios Anastasopoulos, Taras Andrushko, Aryaman Arora, Duygu Ataman, Nona Atanelov, Khuyagbaatar Batsuren, Zigniew Bronk, Elena Budianskaya, Sofya Ganieva, Omer Goldman, Włodzimierz Gruszczyński, Simor Guriel, Silvia Guriel-Agiashvili, David Guriel, Nizar Habash, Jan Hajič, Jan Hric, Salam Khalifa, Witold Kieraś, Elena Klyachko, Ritesh Kumar, Ritvan Karahodja, Igor Marchenko, Polina Mashkovtseva, Maria Nepomniashchaya, Matvey Plugaryov, Mohit Raj, Shyam Ratan, Daria Rodionova, Marina Ryskina, Zygmunt Saloni, Alexadra Serova, Karina Sheifer, Danuta Skowrońska, Marcin Woliński, Robert Wołosz, Anastasia Yemelina, Jeremiah Young 
 
 
 
