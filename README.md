@@ -38,7 +38,6 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 
 | Language | Family| code | UM | Contributors |
 |---|---|---|---|---|
-
 | Arabic, Modern Standard | Semitic (Afro-Asiatic) | ara | https://github.com/unimorph/ara/ara_atb | Salam Khalifa, Nizar Habash |
 | Assamese | Indic (Indo-European) | asm | https://github.com/unimorph/asm/ | Khuyagbaatar Batsuren, Aryaman Arora |
 | Braj | Indic (Indo-European) | bra | https://github.com/unimorph/bra/ | Shyam Ratan, Ritesh Kumar |
