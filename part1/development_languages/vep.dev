@@ -379,7 +379,6 @@ bordovic	bordovicannopäi	N;AT+ABL;SG
 pezetez	pezetesehe	N;IN+ALL;SG
 vac	vacoihepäi	N;PRP;PL
 hihitada	ei hihitanuiži	V;IPFV;COND;SG;3;NEG;PST
-ribu	ribuihe	N;IN+ALL;PL
 hiim	hiimoho	N;IN+ALL;SG
 humalzuda	olen humalzunu	V;PRF;IND;SG;1;POS;PRS
 kalatuzaig	kalatuzaigahasai	N;TERM;SG
@@ -472,10 +471,8 @@ kafe	kafeidme	N;PROL;PL
 nürkutada	nürkutam	V;IND;PL;1;POS;PRS
 märaita	märainuižim	V;IPFV;COND;PL;1;POS;PST
 kaurig	kaurigoiš	N;IN+ESS;PL
-kazda	emai kaznugoi	V;IPFV;IND;PL;1;NEG;PST
 mecanholitai	mecanholitajanno	N;APPRX;SG
 päzundmaks	päzundmaksuin	N;FRML;PL
-paraine	paraižilesai	ADJ;TERM;PL
 uhring	uhringoile	N;AT+ALL;PL
 gazreig	gazreiguidenno	N;APPRX;PL
 voukta	en olend vougnu	V;PRF;IND;SG;1;NEG;PST
@@ -910,7 +907,6 @@ Saksanma	Saksanmahapäi	PROPN;PRP;SG
 kärdäs	oma kärnus	V;PRF;IND;PL;3;POS;PRS;REFL
 huikteltas	huiktelgahas	V;IMP;SG;3;POS;REFL
 haududas	haudumoi	V;IND;SG;1;POS;PRS;REFL
-sobdas	etai olet sobnusoi	V;PRF;IND;PL;2;NEG;PST;REFL
 ozutadas	ozutihe	V;IPFV;IND;PL;3;POS;PST;REFL
 minä	minuhusai	PRO;TERM;SG
 tactas	tacimoi	V;IND;SG;1;POS;PRS;REFL
@@ -934,7 +930,6 @@ ruštas	et rušižihe	V;COND;PL;2;NEG;PRS;REFL
 pestas	olid peznuze	V;PRF;IND;PL;2;POS;PST;REFL
 mitte-ni	miččiš-ni	PRO;IN+ESS;PL
 Anglia	Anglia	PROPN;NOM;SG
-pestas	olid’ peznus	V;PRF;IND;SG;2;POS;PST;REFL
 pestas	olem peznuze	V;PRF;IND;PL;1;POS;PRS;REFL
 mitte	miččiš	PRO;IN+ESS;PL
 ozutadas	olit ozutanus	V;PRF;IND;PL;2;POS;PST;REFL

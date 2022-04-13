@@ -98,7 +98,6 @@
 새콤하다	새콤하시기	V.MSDR;NFIN;ELEV;PRS
 맡기다	맡깁니다	V;FIN;DECL;FORM+POL;PRS
 보잘것없다	보잘것없으셨음	V.MSDR;NFIN;ELEV;PST
-포옹하다	포옹하였음	V.MSDR;PST
 날다	나시겠다	V;FIN;DECL;FORM+ELEV;FUT
 겁나다	겁나	V;FIN;INT;INFM;PRS
 서늘하다	서늘하신다	V;FIN;DECL;FORM+ELEV;PRS
@@ -260,7 +259,6 @@
 불륜하다	불륜했어요	V;FIN;INT;INFM+POL;PST
 먹히다	먹히겠습니다	V;FIN;DECL;FORM+POL;FUT
 출발하다	출발하였기	V.MSDR;PST
-논쟁하다	논쟁하시기	V.MSDR;ELEV;PRS
 뽑다	뽑는데	V.CVB;NFIN
 움찔하다	움찔하셨어	V;FIN;DECL;INFM+ELEV;PST
 낚다	낚으시겠다	V;FIN;DECL;FORM+ELEV;FUT
@@ -326,7 +324,6 @@
 꿰다	꿰셨습니까	V;FIN;INT;FORM+POL+ELEV;PST
 대하다	대하겠어요	V;FIN;DECL;INFM+POL;FUT
 휘다	휘시지만	V.CVB;NFIN;ELEV
-눈뜨다	눈뜨더니	V.CVB;NFIN
 잘하다	잘하세요	V;FIN;INT;INFM+POL+ELEV;PRS
 요구되다	요구되세요	V;FIN;DECL;INFM+POL+ELEV;PRS
 선호하다	선호해야	V.CVB;NFIN;COND
@@ -363,7 +360,6 @@
 비싸다	비싸겠습니다	ADJ;FIN;DECL;FORM+POL;FUT
 낭독하다	낭독했느냐	V;FIN;INT;FORM;PST
 다부지다	다부지냐	ADJ;FIN;INT;FORM;PRS
-공사하다	공사하는데	V.CVB;NFIN
 파렴치하다	파렴치하여서	V.CVB;NFIN;CAUS
 경계하다	경계하고	V.CVB;NFIN;LGSPEC01
 기약하다	기약하셨느냐	V;FIN;INT;FORM+ELEV;PST
@@ -468,7 +464,6 @@
 성장하다	성장합니까	V;FIN;INT;FORM+POL;PRS
 권투하다	권투해	V;FIN;DECL;INFM;PRS
 날아오르다	날아오른	V.PTCP;PST
-발달하다	발달했기	V.MSDR;PST
 진출하다	진출하셨어	V;FIN;DECL;INFM+ELEV;PST
 출생하다	출생하십시오	V;FIN;IMP;2;FORM+POL+ELEV
 드러내다	드러내셨어	V;FIN;INT;INFM+ELEV;PST
@@ -612,7 +607,6 @@
 발음하다	발음했어요	V;FIN;INT;INFM+POL;PST
 재현하다	재현합니다	V;FIN;DECL;FORM+POL;PRS
 이러다	이러는데	V.CVB;NFIN
-헤어지다	헤어지었기	V.MSDR;PST
 달려오다	달려오시느냐	V;FIN;INT;FORM+ELEV;PRS
 기다리다	기다리겠습니다	V;FIN;DECL;FORM+POL;FUT
 수음하다	수음하셔야	V.CVB;NFIN;COND;ELEV
@@ -632,7 +626,6 @@
 얼어붙다	얼어붙으시기	V.MSDR;ELEV;PRS
 가라앉다	가라앉아야	V.CVB;NFIN;COND
 파괴되다	파괴되시고	V.CVB;NFIN;ELEV;LGSPEC01
-건지다	건졌음	V.MSDR;PST
 발가벗다	발가벗고	V.CVB;NFIN;LGSPEC01
 가동되다	가동돼서	V.CVB;NFIN;CAUS
 묻히다	묻히십니다	V;FIN;DECL;FORM+POL+ELEV;PRS
@@ -646,7 +639,6 @@
 공정하다	공정하시지만	V.CVB;NFIN;ELEV
 찌그러지다	찌그러지셨다	V;FIN;DECL;FORM+ELEV;PST
 구류하다	구류하셨기	V.MSDR;ELEV;PST
-뽑히다	뽑혔음	V.MSDR;PST
 날씬하다	날씬하시냐	ADJ;FIN;INT;FORM+ELEV;PRS
 충실하다	충실하셨습니다	ADJ;FIN;DECL;FORM+POL+ELEV;PST
 옹졸하다	옹졸하냐	ADJ;FIN;INT;FORM;PRS
@@ -680,7 +672,6 @@
 관대하다	관대하니까	V.CVB;NFIN;CAUS
 알맞다	알맞으시니까	V.CVB;NFIN;ELEV;CAUS
 감명되다	감명되겠어요	V;FIN;DECL;INFM+POL;FUT
-같이하다	같이하면	V.CVB;NFIN;COND
 어그러지다	어그러질	V.PTCP;FUT
 얇다	얇으십니까	ADJ;FIN;INT;FORM+POL+ELEV;PRS
 부적절하다	부적절하셨냐	ADJ;FIN;INT;FORM+ELEV;PST
@@ -700,7 +691,6 @@
 투항하다	투항하셨습니다	V;FIN;DECL;FORM+POL+ELEV;PST
 실종되다	실종되시니까	V.CVB;NFIN;ELEV;CAUS
 바보스럽다	바보스럽겠다	ADJ;FIN;DECL;FORM;FUT
-졸리다	졸리었음	V.MSDR;PST
 끊이다	끊이니	V.CVB;NFIN;CAUS
 간질거리다	간질거리셨다	V;FIN;DECL;FORM+ELEV;PST
 예절바르다	예절바르시겠어	ADJ;FIN;INFM+ELEV;FUT
@@ -811,7 +801,6 @@
 맞이하다	맞이하셔	V.CVB;NFIN;ELEV;CAUS
 지명하다	지명합니까	V;FIN;INT;FORM+POL;PRS
 돌려주다	돌려주신다	V;FIN;DECL;FORM+ELEV;PRS
-새우다	새웠음	V.MSDR;PST
 건설하다	건설하신	V.PTCP;ELEV;PST
 추천하다	추천하느냐	V;FIN;INT;FORM;PRS
 박다	박았음	V.MSDR;PST
@@ -907,7 +896,6 @@
 세수하다	세수하세요	V;FIN;IMP;2;INFM+POL+ELEV
 클릭하다	클릭하시겠습니다	V;FIN;DECL;FORM+POL+ELEV;FUT
 뛰어가다	뛰어가셨음	V.MSDR;ELEV;PST
-설레다	설레지만	V.CVB;NFIN
 떳떳하다	떳떳하실	V.PTCP;NFIN;ELEV;FUT
 성대하다	성대해	V.CVB;NFIN;CAUS
 파괴하다	파괴하셔요	V;FIN;INT;INFM+POL+ELEV;PRS
@@ -964,7 +952,6 @@
 금지하다	금지하셨습니다	V;FIN;DECL;FORM+POL+ELEV;PST
 뵈다	봬라	V;FIN;IMP;2;FORM
 휴식하다	휴식하셔	V;FIN;INT;INFM+ELEV;PRS
-틀리다	틀려야	V.CVB;NFIN;COND
 스며들다	스며든	V.PTCP;PST
 갹출하다	갹출하셨음	V.MSDR;ELEV;PST
 물들다	물드시니	V.CVB;NFIN;ELEV;CAUS

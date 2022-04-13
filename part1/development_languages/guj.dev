@@ -90,7 +90,6 @@
 નિપાળો	નિપાળે	N;LOC;MASC;PL
 રમવું	રમવું હોવું	V;OPT
 નાચવું	નાચશે	V;IND;SG;2;POS;FUT
-જહાજવાડો	જહાજવાડા	N;NOM;MASC;PL
 તરવું	ન તર!	V;IMP;SG;2;NEG
 વાવાઝોડું	વાવાઝોડા	N;VOC;NEUT;SG
 ભાળવું	ભાળે છે	V;PROG;IND;SG;2;POS;PRS
@@ -101,7 +100,6 @@
 નચવૈયો	નચવૈયે	N;LOC;MASC;SG
 ગમવું	ન ગમે	V;COND;SG;2;NEG
 સર્જવું	સર્જીશ	V;IND;SG;1;POS;FUT
-ડાઘો	ડાઘા	N;NOM;MASC;PL
 બોલવું	બોલે	V;IND;SG+PL;3;POS;PRS
 ગમવું	ગમે	V;IND;SG;2;POS;PRS
 ઈંટવાડો	ઈંટવાડો	N;NOM;MASC;SG
@@ -186,7 +184,6 @@
 પૂછવું	પૂછીશ	V;IND;SG;1;POS;FUT
 શીખવું	નથી શીખતું	V;PROG;IND;NEG;PRS
 શીખવું	શીખું	V;COND;SG;1;POS
-જીભડો	જીભડાઓ	N;NOM;MASC;PL
 વધવું	નહીં વધો	V;IND;PL;2;NEG;FUT
 રીઝવું	રીઝો છો	V;PROG;IND;PL;2;POS;PRS
 અપાડવું	અપાડજે	V;IMP;SG;2;POS;POL;PRS
@@ -309,7 +306,6 @@
 ભાળવું	ભાળે	V;COND;SG;2;POS
 જીવડું	જીવડાંએ	N;INS;NEUT;PL
 નડવું	નડજે	V;IMP;SG;2;POS;POL;PRS
-કોપરું	કોપરાંઓ	N;NOM;NEUT;PL
 લખવું	નહીં લખે	V;IND;SG;2;NEG;FUT
 જન્મવું	જન્મું છું	V;PROG;IND;SG;1;POS;PRS
 રંગરખું	રંગરખાંઓ	N;NOM;NEUT;PL
@@ -412,7 +408,6 @@
 સાહિત્યચોરવું	સાહિત્યચોરજો	V;IMP;PL;2;POS;POL;PRS
 નરગોટો	નરગોટે	N;LOC;MASC;PL
 વહેરવું	નહોતું વહેર્યું	V;IND;NEG;PST
-આવકવેરો	આવકવેરા	N;NOM;MASC;PL
 પડવું	પડતું હતું	V;PROG;IND;POS;PST
 મારદડો	મારદડાએ	N;INS;MASC;PL
 લખવું	લખો છો	V;PROG;IND;PL;2;POS;PRS
@@ -487,7 +482,6 @@
 વર્તવું	વર્તે	V;IND;SG;2;POS;PRS
 પૂછવું	પૂછશો	V;IND;PL;2;POS;FUT
 થૂંકવું	થૂંકો	V;COND;PL;2;POS
-સ્વવીમો	સ્વવીમા	N;NOM;MASC;PL
 બગડવું	નથી બગડતું	V;PROG;IND;NEG;PRS
 ઝઘડવું	નથી ઝઘડતું	V;PROG;IND;NEG;PRS
 હણવું	હણજે	V;IMP;SG;2;POS;POL;PRS
@@ -506,7 +500,6 @@
 હંકારવું	હંકારે	V;IND;SG+PL;3;POS;PRS
 વિલાયતી મીઠું	વિલાયતી મીઠે	N;INS;NEUT;SG
 તાકવું	તાક!	V;IMP;SG;2;POS;PRS
-ઝઘડવું	ઝઘડશે	V;IND;SG;2;POS;FUT
 વર્તવું	ન વર્તે	V;COND;SG;2;NEG
 ઝઘડવું	ઝઘડે	V;IND;SG;2;POS;PRS
 સમજાવવું	સમજાવતું હોવું	V;SBJV;POS;PRS
@@ -557,7 +550,6 @@
 હૈયાબળાપો	હૈયાબળાપે	N;LOC;MASC;PL
 વાવવું	વાવું	V;COND;SG;1;POS
 સામો	સામાએ	N;INS;MASC;PL
-હીંચકો	હીંચકાઓ	N;NOM;MASC;PL
 ચાલવું	નહીં ચાલું	V;IND;SG;1;NEG;FUT
 શોધવું	શોધીએ!	V;IMP;PL;1;POS;PRS
 હૈયું	હૈયાં	N;NOM;NEUT;PL
@@ -589,13 +581,11 @@
 મરવું	મરશો	V;IND;PL;2;POS;FUT
 બગડવું	બગડ્યું	V;IND;POS;PST
 અણુધડાકો	અણુધડાકા	N;VOC;MASC;SG
-તારો	તારા	N;NOM;MASC;PL
 શેકવું	શેક્યું	V;IND;POS;PST
 બોલવું	બોલો	V;COND;PL;2;POS
 જન્મવું	જન્મીશ	V;IND;SG;2;POS;FUT
 તાકવું	ન તાકો	V;COND;PL;2;NEG
 મરવું	મરજે	V;IMP;SG;2;POS;POL;PRS
-ઉપાડવું	ઉપાડીશ	V;IND;SG;2;POS;FUT
 ધિરાણ વીમો	ધિરાણ વીમે	N;INS;MASC;SG
 બરફગોળો	બરફગોળો	N;NOM;MASC;SG
 સમજવું	સમજવાનું	V.MSDR
@@ -620,7 +610,6 @@
 અટકવું	અટકી શકવું	V;POT
 થૂંકવું	ન થૂંકે	V;COND;SG;2;NEG
 હોવાપણું	હોવાપણા	N;VOC;NEUT;SG
-રીઝવું	રીઝશે	V;IND;SG;2;POS;FUT
 સૂંઘવું	સૂંઘાય	V;PASS
 બબડવું	બબડું	V;IND;SG;1;POS;PRS
 કરિયાતું	કરિયાતે	N;LOC;NEUT;SG
@@ -654,7 +643,6 @@
 વામવું	વામું છું	V;PROG;IND;SG;1;POS;PRS
 નડવું	નહીં નડીએ	V;IND;PL;1;NEG;FUT
 દાતરડું	દાતરડે	N;LOC;NEUT;SG
-છૂંદો	છૂંદા	N;NOM;MASC;PL
 ચાડિયો	ચાડિયે	N;LOC;MASC;SG
 બબડવું	બબડાય	V;PASS
 ફુગાવો	ફુગાવે	N;INS;MASC;SG
@@ -711,7 +699,6 @@
 લખવું	લખવું હોવું	V;OPT
 તાકવું	ન તાકું	V;COND;SG;1;NEG
 વચ્ચે આવવું	વચ્ચે આવતું હોવું	V;SBJV;POS;PRS
-કૂવો	કૂવા	N;NOM;MASC;PL
 સ્વીકારવું	સ્વીકારો છો	V;PROG;IND;PL;2;POS;PRS
 બોલવું	બોલું	V;IND;SG;1;POS;PRS
 પથ્થરમારો	પથ્થરમારાઓ	N;VOC;MASC;PL
@@ -723,7 +710,6 @@
 બચવું	ન બચું	V;COND;SG;1;NEG
 કારેલું	કારેલાંઓ	N;VOC;NEUT;PL
 ખરીદવું	ખરીદું છું	V;PROG;IND;SG;1;POS;PRS
-આડું પડવું	આડું પડશે	V;IND;SG;2;POS;FUT
 ચૂંઈ	ચૂંઈઓએ	N;INS;FEM;PL
 લાવવું	લાવે	V;COND;SG+PL;3;POS
 રડવું	રડતું હોવું	V;PROG;IND;POS;FUT
@@ -794,11 +780,8 @@
 હકાલવું	હકાલજે	V;IMP;SG;2;POS;POL;PRS
 ઘસિયો	ઘસિયા	N;NOM;MASC;PL
 કારેલું	કારેલાં	N;NOM;NEUT;PL
-નિપાળો	નિપાળા	N;NOM;MASC;PL
 ભાંભરવું	ભાંભરું છું	V;PROG;IND;SG;1;POS;PRS
 ધ્રૂજવું	ધ્રૂજીને	V;LGSPEC02
-પથ્થરમારો	પથ્થરમારા	N;NOM;MASC;PL
-નાચવું	નાચીશ	V;IND;SG;2;POS;FUT
 બોલવું	બોલશે	V;IND;SG+PL;3;POS;FUT
 ડૂબવું	ડૂબે	V;IND;SG;2;POS;PRS
 મરવું	મરો!	V;IMP;PL;2;POS;PRS
@@ -810,7 +793,6 @@
 બચવું	બચું	V;COND;SG;1;POS
 જવું	જઓ!	V;IMP;PL;2;POS;PRS
 પીયો	પીયાઓ	N;NOM;MASC;PL
-પરોણો	પરોણા	N;NOM;MASC;PL
 ચાલવું	ન ચાલીએ	V;COND;PL;1;NEG
 કોળું	કોળે	N;LOC;NEUT;SG
 પીંછું	પીંછાંએ	N;INS;NEUT;PL
@@ -885,7 +867,6 @@
 અટકવું	અટકવું હોવું	V;OPT
 રમવું	રમો	V;COND;PL;2;POS
 અપાડવું	અપાડે	V;COND;SG+PL;3;POS
-બરફગોળો	બરફગોળા	N;NOM;MASC;PL
 દોરવું	નહીં દોરો	V;IND;PL;2;NEG;FUT
 કોતરવું	કોતરતું હતું	V;PROG;IND;POS;PST
 નૈયું	નૈયાંઓ	N;NOM;NEUT;PL

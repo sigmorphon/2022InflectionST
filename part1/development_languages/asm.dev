@@ -3,7 +3,6 @@
 কোদাল	কোদালসমূহে	N;ERG;DEF;PL;FORM;LGSPEC09
 জীউ	জীউবোৰৰ	N;GEN;DEF;PL;INFM;LGSPEC09
 হালুৱা	হালুৱাখিনিত	N;LOC;DEF;SG;LGSPEC08
-পৰ	পৰখিনিৰে	N;INS;DEF;SG;LGSPEC08
 বাঁহপাতী	বাঁহপাতীকেইটালৈ	N;DAT;DEF;MASC;PL;LGSPEC08
 জেব্ৰা	জেব্ৰাবিলাকৰ	N;GEN;DEF;PL;LGSPEC09
 চা	চালা	V;IND;SG+PL;2;POS;PST;LGSPEC02
@@ -249,7 +248,6 @@
 কন্দুৱা	নকন্দুৱাৱ	V;INDF;IND;SG+PL;2;NEG;COL;PRS
 যুঁজ	যুঁজবিলাকত	N;LOC;DEF;PL;LGSPEC09
 যুঁজাৰু বিমান	যুঁজাৰু বিমানসমূহ	N;ABS;DEF;PL;FORM;LGSPEC09
-উতলা	উতলা	V;NFIN;POS
 পিটিকা	নিপিটিকিছোঁ	V;IPFV;IND;SG+PL;1;NEG;PRS;LGSPEC01
 কিন	নিকিন	V;INDF;IND;SG+PL;2;NEG;COL;PRS
 চাজ	চাজিবৰ	V;GEN;NFIN;POS
@@ -577,7 +575,6 @@
 দাঙা	নাদাঙ	V;INDF;IND;SG+PL;2;NEG;COL;PRS
 ডিচেম্বৰ	ডিচেম্বৰটোৱে	N;ERG;DEF;SG;LGSPEC08
 ধৰ	নধৰি	V;NEG;LGSPEC03
-চা	নাচা	V;NFIN;NEG
 কোকলোঙা চৰাই	কোকলোঙা চৰাইজনীৰ	N;GEN;DEF;FEM;SG;LGSPEC08
 আৰ্চি	আৰ্চিকেইখনে	N;ERG;DEF;PL;LGSPEC08
 জাপ	জাপবিলাকলৈকে	N;TERM;DEF;PL;LGSPEC09
@@ -661,7 +658,6 @@
 চেলেক	নেচেলেকুৰা	V;MASC;NEG;INFM;LGSPEC05
 বটল	বটলকেইটাৰ	N;GEN;DEF;PL;LGSPEC08
 নিশাহ	নিশাহলৈ	N;DAT;INDF;SG
-বিষ	বিষবিলাকৰ	N;GEN;DEF;PL;LGSPEC09
 নামা	নানামিছিলোঁ	V;IPFV;IND;SG+PL;1;NEG;PST
 ছিগা	নিছিগুৰা	V;MASC;NEG;INFM;LGSPEC05
 আঁচোৰ	আঁচোৰিলে	V;IND;SG+PL;3;POS;PST

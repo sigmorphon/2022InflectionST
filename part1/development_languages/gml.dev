@@ -18,7 +18,6 @@ drinken	drinke	V;SBJV;SG;1;PRS
 vorgēten	vorgēten	V.MSDR
 wrîten	wrîten	V;SBJV;PL;PRS
 vorswinden	vorswinden	V;SBJV;PL;PRS
-wölteren	wölterent	V.MSDR
 schrîven	tô schrîvende	V.MSDR
 drinken	drinken	V;IND;PL;PRS
 beschrîven	beschrêf	V;IND;SG;1;PST
@@ -75,13 +74,11 @@ brûken	tô brûkene	V.MSDR
 kleine	kleineme	ADJ;DAT;MASC;SG;LGSPEC02
 vâren	vâren	V;SBJV;PL;PRS
 anvechten	anvechtent	V.MSDR
-anvechten	anvechten	V.MSDR
 krossen	krossen	V.MSDR
 snorren	snorrest	V;SBJV;SG;2;PRS
 spö̂den	spö̂den	V;IND;PL;PRS
 drinken	drinkent	V.MSDR
 andrêpen	andrêpe	V;IND;SG;1;PRS
-vâren	vârent	V.MSDR
 wrîten	wrîten	V.MSDR
 anvechten	vechte an	V;IND;SG;1;PRS
 kleine	kleine	ADJ;ACC;PL;LGSPEC02
@@ -89,7 +86,6 @@ spö̂den	spö̂det	V;SBJV;SG;3;PRS
 krossen	krosse	V;IND;SG;1;PRS
 andrücken	an tô drückene	V.MSDR
 stîgen	stîgen	V;IND;PL;PRS
-beschrîven	beschrîven	V.MSDR
 andrücken	drückest an	V;SBJV;SG;2;PRS
 sûpen	tô sûpende	V.MSDR
 ôlt	ôlder	ADJ;GEN;FEM;SG;LGSPEC02
@@ -104,10 +100,8 @@ schö̂ne	schö̂nere	ADJ;GEN;FEM;SG;LGSPEC02
 vrisch	vrischen	ADJ;ACC;MASC;SG;LGSPEC02
 binden	binden	V.MSDR
 schrîven	schrîvet	V;SBJV;SG;3;PRS
-andrêpen	drêpe an	V;IND;SG;1;PRS
 âvent	âvendes	N;GEN;SG
 drêpen	tô drêpende	V.MSDR
-jāgen	tô jāgende	V.MSDR
 vorsûpen	vorsȫpen	V;SBJV;PL;PST
 nēmen	tô nēmende	V.MSDR
 wrîten	wrîtet	V;SBJV;SG;3;PRS
@@ -123,27 +117,19 @@ wölteren	wöltere	V;IND;SG;1;PRS
 vö̂gen	vö̂gede	V;IND;SG;1;PST
 ôlt	ôlde	ADJ;ACC;NEUT;SG;LGSPEC01
 krossen	krossen	V;IND;PL;PRS
-nēmen	nēmen	V.MSDR
 lēven	lēvende	V.PTCP;PRS
 drinken	drinkende	V.PTCP;PRS
 vâren	vâre	V;SBJV;SG;1;PRS
 drêpen	drôp	V;IND;SG;1;PST
 vorgēten	vorgētende	V.PTCP;PRS
 stîgen	tô stîgende	V.MSDR
-kleine	kleinem	ADJ;DAT;MASC;SG;LGSPEC02
 kleine	kleinen	ADJ;ACC;MASC;SG;LGSPEC02
 kleine	kleinere	ADJ;GEN;FEM;SG;LGSPEC02
 spö̂den	spö̂den	V;SBJV;PL;PRS
-wrîten	tô wrîtene	V.MSDR
 gēven	tô gēvende	V.MSDR
 kôlt	kôldem	ADJ;DAT;MASC;SG;LGSPEC02
 vâren	vôr	V;IND;SG;1;PST
-anvechten	an tô vechtende	V.MSDR
-drêpen	drêpent	V.MSDR
-afwölteren	af tô wölterende	V.MSDR
 wāter	wāteres	N;DAT;SG
-sûpen	tô sûpene	V.MSDR
-nēmen	tô nēmene	V.MSDR
 jāgen	jāgede	V;SBJV;SG;3;PST
 wölteren	wölteret	V;SBJV;SG;3;PRS
 vrîe	vrîere	ADJ;GEN;FEM;SG;LGSPEC02
@@ -152,37 +138,28 @@ wrîten	wrēte	V;SBJV;SG;3;PST
 andrêpen	drôp an	V;IND;SG;1;PST
 afwâschen	afwâschen	V.MSDR
 wrîten	wrîte	V;SBJV;SG;1;PRS
-lēven	lēvent	V.MSDR
 wölteren	wölterest	V;SBJV;SG;2;PRS
 vorgēten	vorgēte	V;IND;SG;1;PRS
-lēven	lēven	V.MSDR
 andrücken	drücke an	V;IND;SG;1;PRS
 rîden	rîde	V;SBJV;SG;1;PRS
-jāgen	jāgen	V.MSDR
 anvechten	vacht an	V;IND;SG;1;PST
 andrücken	drücken	V;IND;PL;PRS
 bedrîven	bedrîvest	V;SBJV;SG;2;PRS
-wrîten	wrîtent	V.MSDR
 tellen	tellent	V.MSDR
 vorgēten	vorgête	V;SBJV;SG;3;PST
 snorren	snorre	V;IND;SG;1;PRS
 wāren	wāren	V;SBJV;PL;PRS
-tellen	tellen	V.MSDR
-lēven	tô lēvene	V.MSDR
 helpen	hülpen	V;SBJV;PL;PST
 bedrîven	bedrîve	V;IND;SG;1;PRS
 wāren	wārest	V;SBJV;SG;2;PRS
 spö̂den	spö̂dent	V.MSDR
 wāren	wāret	V;SBJV;SG;3;PRS
-sûgen	tô sûgende	V.MSDR
 schö̂ne	schö̂nen	ADJ;NOM;PL;LGSPEC01
 vö̂gen	vö̂get	V;SBJV;SG;3;PRS
 spö̂den	spö̂de	V;SBJV;SG;1;PRS
 jāgen	jāget	V;SBJV;SG;3;PRS
 vö̂gen	vö̂gest	V;SBJV;SG;2;PRS
 lēven	lēve	V;IND;SG;1;PRS
-sûpen	sûpen	V.MSDR
-krossen	tô krossende	V.MSDR
 kôlt	kôlde	ADJ;ACC;FEM;SG;LGSPEC02
 andrücken	drücken an	V;SBJV;PL;PRS
 jachteren	jachtere	V;SBJV;SG;1;PRS
@@ -193,7 +170,6 @@ schrîven	schrîve	V;IND;SG;1;PRS
 rîden	rîdent	V.MSDR
 schrîven	schrêf	V;IND;SG;1;PST
 andrücken	drücke an	V;SBJV;SG;1;PRS
-spö̂den	spö̂den	V.MSDR
 vorgēten	vorgētest	V;SBJV;SG;2;PRS
 schrîven	schrîvest	V;SBJV;SG;2;PRS
 afwâschen	wö̂schen af	V;SBJV;PL;PST
@@ -208,57 +184,40 @@ schrîven	schrîven	V;IND;PL;PRS
 jachteren	jachteret	V;SBJV;SG;3;PRS
 vechten	vüchte	V;SBJV;SG;3;PST
 stîgen	stîgen	V;SBJV;PL;PRS
-dunker	dunkerere	ADJ;GEN;FEM;SG;LGSPEC02
-stîgen	stîgent	V.MSDR
 vrisch	vrische	ADJ;NOM;SG;LGSPEC01
 êwich	êwige	ADJ;ACC;FEM;SG;LGSPEC02
 dunker	dunkeren	ADJ;ACC;FEM;SG;LGSPEC01
 helpen	helpen	V;IND;PL;PRS
 sûgen	sûgende	V.PTCP;PRS
-vechten	tô vechtene	V.MSDR
-jachteren	jachterent	V.MSDR
 drêpen	drêpe	V;SBJV;SG;1;PRS
 werden	werdet	V;SBJV;SG;3;PRS
 brûken	brûkede	V;IND;SG;1;PST
 afwölteren	afwölteren	V;IND;PL;PRS
 andrêpen	andrêpen	V;SBJV;PL;PRS
 vorgēten	vorgēte	V;SBJV;SG;1;PRS
-sûgen	sûgen	V.MSDR
 sûpen	sûpen	V;IND;PL;PRS
-anvechten	anvüchten	V;SBJV;PL;PST
 sûpen	sôp	V;IND;SG;1;PST
-drêpen	drêpen	V.MSDR
-rîden	rîden	V.MSDR
 afwâschen	wö̂sche af	V;SBJV;SG;3;PST
 schö̂ne	schö̂ne	ADJ;NOM;SG;LGSPEC01
-andrücken	an tô drückende	V.MSDR
 nēmen	nêmen	V;SBJV;PL;PST
-andrêpen	an tô drêpende	V.MSDR
 nēmen	nam	V;IND;SG;1;PST
 helpen	hülpe	V;SBJV;SG;3;PST
-afwölteren	afwölteren	V;SBJV;PL;PRS
 valsch	valschen	ADJ;DAT;LGSPEC01
 wāren	wārede	V;SBJV;SG;3;PST
 vrisch	vrische	ADJ;ACC;PL;LGSPEC02
 achten	achte	V;SBJV;SG;1;PRS
 krossen	krossede	V;IND;SG;1;PST
 vorswinden	vorswindende	V.PTCP;PRS
-vâren	vâren	V.MSDR
 kleine	kleinen	ADJ;NOM;PL;LGSPEC01
-afwâschen	afwâschest	V;SBJV;SG;2;PRS
 spö̂den	spö̂deden	V;SBJV;PL;PST
 afwölteren	afwölterede	V;SBJV;SG;3;PST
 schö̂ne	schö̂ne	ADJ;ACC;FEM;SG;LGSPEC02
-nēmen	nēment	V.MSDR
 binden	binde	V;SBJV;SG;1;PRS
-afwölteren	wölterede af	V;SBJV;SG;3;PST
 vâren	vâret	V;SBJV;SG;3;PRS
-rîden	tô rîdende	V.MSDR
 ôlt	ôlde	ADJ;NOM;SG;LGSPEC01
 valsch	valschem	ADJ;DAT;MASC;SG;LGSPEC02
 vrisch	vrischeme	ADJ;DAT;MASC;SG;LGSPEC02
 mûre	mûren	N;GEN;SG
-afwölteren	wöltere af	V;SBJV;SG;1;PRS
 drinken	drünke	V;SBJV;SG;3;PST
 werden	werdende	V.PTCP;PRS
 vö̂gen	vö̂gen	V;IND;PL;PRS

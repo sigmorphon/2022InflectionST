@@ -84,7 +84,6 @@ tuhat	tuhat	NUM;NOM;SG
 priimida	priimida	V;NFIN
 särgie	särgie	V;NFIN
 appe	appe	N;NOM;SG
-miel’	miel't	N;PRT;SG
 olda	ei ole	V;IND;SG;3;NEG;PRS
 pičukuine	pičukuine	ADJ;ACC;SG
 niem	niem	N;ACC;SG
@@ -290,7 +289,6 @@ kaži	kažiis	N;IN+ESS;PL
 mela	mela	N;NOM;SG
 tuska	tuska	N;ACC;SG
 vaumištada	vaumištada	V;NFIN
-hištorijahine	hištorijahine	ADJ;ACC;SG
 kibistiä	kibistiä	V;NFIN
 ujuo	ujuo	V;NFIN
 halgaitta	halgaitta	V;NFIN
@@ -606,7 +604,6 @@ hebočču	hebočču	N;ACC;SG
 kündäi	kündäi	V;NFIN
 kazvua	kazvua	V;NFIN
 oppie	oppie	V;NFIN
-häi	hänel	PRO;AT+ESS;SG
 kourišk	kourišk	N;ACC;SG
 salat’t’i	salat’t’i	N;NOM;SG
 kuuž	kuuž	N;NOM;SG
@@ -639,7 +636,6 @@ busad	busad	N;NOM;SG
 kezrätä	kezrätä	V;NFIN
 pideltä	pidelöy	V;IND;SG;3;POS;PRS;REFL
 komš	komš	N;NOM;SG
-mečče	mečäspiäi	N;IN+ABL;SG
 löitä	löitä	V;NFIN
 nordie	nordie	ADJ;NOM;SG
 viihtäi	viihtäi	V;NFIN
@@ -661,7 +657,6 @@ astuda	astu	V;IMP;SG;2;POS
 tagoda	tagoda	V;NFIN
 kiirehtäi	kiirehtäi	V;NFIN
 külbeda	külbeda	V;NFIN
-ruadai	ruadajad	N;NOM;PL
 šeižoda	šeižoda	V;NFIN
 kuulda	kuulin	V;IPFV;IND;SG;1;POS;PST
 lekuttada	lekuttada	V;NFIN
@@ -954,14 +949,11 @@ astuda	oližin astunu	V;PRF;COND;SG;1;POS;PST
 astuda	en oliš astunu	V;PRF;COND;SG;1;NEG;PRS
 astuda	astugatte	V;IMP;PL;2;POS
 astuda	olen astunu	V;PRF;IND;SG;1;POS;PRS
-mečče	mečin	N;INS;PL
 astuda	oližimme astunu	V;PRF;COND;PL;1;POS;PRS
 astuda	emme liene astunu	V;PRF;POT;PL;1;NEG;PRS
 olda	ei olnuiš	V;IPFV;COND;SG;3;NEG;PST
 astuda	oldih astuttu	V;PRF;IND;PL;3;POS;PST
-astuda	astugat	V;IMP;PL;2;POS
 astuda	astuttava	V.PTCP;PST;ACT
-mečče	mecači	N;PROL;SG
 astuda	ette astunu	V;IPFV;IND;PL;2;NEG;PST
 olda	et ole	V;IPFV;IND;SG;2;NEG;PST
 olda	olnu	V.PTCP;PST;ACT
@@ -990,7 +982,6 @@ astuda	ei liene astuttu	V;PRF;POT;PL;3;NEG;PRS
 astuda	et astunu	V;IPFV;IND;SG;2;NEG;PST
 astuda	et astune	V;POT;SG;2;NEG;PRS
 astuda	oližitte astunu	V;PRF;COND;PL;2;POS;PST
-mečče	mecin	N;INS;PL
 d’atkada	d’atkettih	V;IPFV;IND;PL;3;POS;PST;REFL
 astuda	astunette	V;POT;PL;2;POS;PRS
 astuda	et ole astunu	V;PRF;IND;SG;2;NEG;PRS

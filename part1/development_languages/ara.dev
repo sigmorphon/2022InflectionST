@@ -18,7 +18,6 @@
 عَصْرِيّ	العَصْرِيَّ	ADJ;ACC;DEF;MASC;SG
 نَهَش	نَهَشْتُم	V;PFV;MASC;IND;PL;2;ACT
 مُتَأَكِّد	مُتَأَكِّدَتَيْنِ	N;NHUM;GEN;INDF;FEM;DU
-أَثَر	أَثَرَيْنِ	N;NHUM;ACC;SPEC;MASC;DU
 قاصِم	قاصِمَيْ	ADJ;ACC;MASC;DU;PSSD
 مُحْرَق	المُحْرَقِي	N;NHUM;GEN;DEF;MASC;PL
 شاطَر	نُشاطِرُ	V;IPFV;IND;PL;1;ACT
@@ -334,7 +333,6 @@
 ضالِع	الضّالِعَة	ADJ;DEF;FEM;SG
 مُتَوَخَّى	مُتَوَخَّياتٍ	ADJ;ACC;INDF;MASC;PL
 خَشَب	خَشَباتِ	N;NHUM;GEN;SPEC;FEM;PL
-مَصِير	مَصايِر	N;NHUM;INDF;MASC;PL
 أُوكرانِيّ	الأُوكرانِيَّةُ	ADJ;NOM;DEF;FEM;SG
 تَدَفُّق	التَّدَفُّقَيْنِ	N;NHUM;ACC;DEF;MASC;DU
 سُوفْيِتِيّ	السُّوفْياتِيَّ	N;HUM;ACC;DEF;MASC;SG
@@ -516,7 +514,6 @@
 أَبْرَز	الأَبْرَزَيْ	ADJ;ACC;CMPR;DEF;FEM;PL
 ناشِط	ناشِطُونَ	N;HUM;NOM;INDF;MASC;PL
 مُرَشَّح	مُرَشَّحاتِ	N;HUM;GEN;FEM;PL;PSSD
-أَبْسَط	أَبْسَطَ	ADJ;ACC;CMPR;SPEC;FEM;SG
 أَسْبَق	أَسْبَقَ	ADJ;GEN;CMPR;INDF;FEM;SG
 أَحَقّ	الأَحَقَّيْنِ	ADJ;ACC;CMPR;DEF;MASC;DU
 مُتَعاطِف	مُتَعاطِفُونَ	N;HUM;NOM;INDF;MASC;PL
@@ -534,7 +531,6 @@
 نَزِيل	نَزِيلَة	N;HUM;SPEC;FEM;SG
 غالِبِيَّة	غالِبِيَّةَ	N;ACC;SPEC;FEM;SG
 أَكْثَر	الأَكْثَرَيْنِ	N;ACC;DEF;FEM;PL
-أَقَلّ	أَقَلَّيْ	ADJ;GEN;CMPR;MASC;SG;PSSD
 غالِبِيَّة	غالِبِيَّةَ	N;ACC;SPEC;FEM;PL
 قاصِم	القَواصِم	ADJ;DEF;MASC;PL
 ٱِسْتَحَقّ	تُسْتَحَقِّينَ	V;IPFV;FEM;IND;SG;2;PASS
@@ -558,7 +554,6 @@
 مُشَغَّل	مُشَغَّلِي	N;HUM;GEN;MASC;PL;PSSD
 وَزِير	وُزَراءُ	N;HUM;NOM;INDF;MASC;PL
 جَرَح	جُرِحْتِ	V;PFV;FEM;IND;SG;2;PASS
-تِسْعُمِائَة	التِّسْعَمِائَة	ADJ;MASC;PL;PSSD
 مُفَرِّق	المُفَرِّقَةُ	N;HUM;NOM;DEF;FEM;SG
 مُؤَلِّف	مُؤَلِّفُونَ	N;HUM;NOM;INDF;MASC;PL
 مُثَمِّن	مُثَمِّنَة	N;HUM;SPEC;FEM;SG
@@ -820,7 +815,6 @@
 أَنْدَر	أَنْدَرانِ	ADJ;NOM;CMPR;SPEC;MASC;SG
 مُدَخِّن	مُدَخِّنَة	N;HUM;SPEC;FEM;SG
 أَوْخَم	أَوْخَمَيْنِ	ADJ;GEN;CMPR;SPEC;MASC;PL
-أَوْسَع	أَوْسَعِ	ADJ;GEN;CMPR;MASC;SG;PSSD
 أَحَرّ	أَحَرُّ	ADJ;NOM;CMPR;SPEC;MASC;PL
 مُلّا	مَلالِي	N;HUM;INDF;MASC;PL
 بَرَّر	تُبَرَّرُ	V;IPFV;MASC;IND;SG;2;PASS
@@ -836,7 +830,6 @@
 أَوْضَح	الأَوْضَحِ	ADJ;GEN;CMPR;FEM;SG;PSSD
 أَمْسَك	يُمْسَكُوا	V;IPFV;MASC;PL;3;PASS
 أَسِير	الأَسِيرَةُ	N;HUM;NOM;DEF;FEM;SG
-أَبْلَغ	الأَبْلَغُ	ADJ;NOM;CMPR;MASC;PL;PSSD
 آخِر	الآخِرَتَيْنِ	ADJ;ACC;CMPR;INDF;FEM;DU
 سُوفْيِتِيّ	السُّوفْيِت	ADJ;DEF;MASC;PL
 باحِث	باحِثَةَ	N;HUM;ACC;SPEC;FEM;SG
@@ -846,7 +839,6 @@
 مُحَرِّر	المُحَرِّرَةُ	N;HUM;NOM;DEF;FEM;SG
 أَوْسَع	أَوْسَعانِ	ADJ;NOM;CMPR;SPEC;MASC;PL
 أَبْسَط	الأَبْسَطا	ADJ;NOM;CMPR;DEF;FEM;SG
-أَحَبّ	الأَحَبَّيْ	ADJ;ACC;CMPR;DEF;MASC;PL
 مُخاطِب	المُخاطِبات	N;HUM;DEF;FEM;PL
 أَسْرَع	أَسْرَعُ	ADJ;NOM;CMPR;FEM;PL;PSSD
 مُعْطِي	مُعْطِياتِ	N;HUM;ACC;SPEC;FEM;PL
@@ -862,7 +854,6 @@
 أَوْسَع	أَوْسَعانِ	ADJ;NOM;CMPR;SPEC;MASC;SG
 مَغْرِبِيّ	مَغْرِبِيَّيْنِ	N;HUM;GEN;INDF;MASC;DU
 أَرْفَع	أَرْفَعا	ADJ;NOM;CMPR;MASC;PL;PSSD
-أَبْرَع	الأَبْرَعانِ	ADJ;NOM;CMPR;DEF;FEM;SG
 مُتَطَوِّع	المُتَطَوِّعات	N;HUM;DEF;FEM;PL
 أَعْذَب	أَعْذَبَيْنِ	ADJ;GEN;CMPR;SPEC;MASC;DU
 صَحافِيّ	صَحافِيُّونَ	N;HUM;NOM;INDF;MASC;PL
@@ -880,7 +871,6 @@
 ٱِفْتَرَض	تُفْتَرَضِينَ	V;IPFV;FEM;IND;SG;2;PASS
 أَدْنَى	أَدْنَيا	ADJ;NOM;CMPR;SPEC;MASC;DU
 مُحْتَرِف	المُحْتَرِفاتِ	N;HUM;ACC;DEF;FEM;PL
-أَبْرَز	الأَبْرَزانِ	ADJ;NOM;CMPR;DEF;FEM;SG
 أَقْدَم	الأَقْدَم	ADJ;CMPR;MASC;PL;PSSD
 أَصْدَق	الأَصْدَقِ	ADJ;GEN;CMPR;DEF;FEM;PL
 أَعْمَق	الأَعْمَقَيْ	ADJ;GEN;CMPR;MASC;SG;PSSD
@@ -933,7 +923,6 @@
 أَحَبّ	الأَحَبِّ	ADJ;GEN;CMPR;DEF;FEM;PL
 أَقْرَب	الأَقْرَب	ADJ;CMPR;MASC;PL;PSSD
 فَقِير	فُقَراء	N;HUM;INDF;MASC;PL
-جَمِيع	جَمِيعَ	N;ACC;MASC;SG;PSSD
 أَفْغانِيّ	أَفْغانِيَّتانِ	N;HUM;NOM;SPEC;FEM;DU
 أَقَلّ	الأَقَلَّيْ	ADJ;GEN;CMPR;DEF;FEM;PL
 ناقَش	نُوقِشْتُما	V;PFV;MASC;IND;DU;2;PASS
@@ -964,7 +953,6 @@
 مُحْتَرِف	مُحْتَرِفاتِ	N;HUM;ACC;SPEC;FEM;PL
 سَيِّد	سادَةٌ	N;HUM;NOM;INDF;MASC;PL
 رُبُع	رُبُعَيْنِ	N;GEN;INDF;FEM;SG
-أَوْسَع	أَوْسَعَيْ	ADJ;GEN;CMPR;MASC;SG;PSSD
 أَحْسَن	أَحْسَنَيْ	ADJ;ACC;CMPR;SPEC;MASC;SG
 أَعْمَق	أَعْمَقَيْنِ	ADJ;ACC;CMPR;SPEC;MASC;SG
 مُتَقاعِد	مُتَقاعِداتِ	N;HUM;ACC;SPEC;FEM;PL

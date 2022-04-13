@@ -441,7 +441,6 @@ vitr	vitrari	ADJ;DAT;CMPR;FEM;SG
 bitinn	bitna	V.PTCP;ACC;NEUT;SG;LGSPEC02
 dalr	dalinum	N;DAT;DEF;MASC;SG
 brezkr	brezkar	ADJ;NOM;FEM;PL;LGSPEC01
-dǫggva	dǫgði	V;SBJV;PL;3;PST;ACT;LGSPEC02
 berbeinn	berbeinu	ADJ;ACC;NEUT;PL;LGSPEC02
 œgja	œgisk	V;IND;SG;2;PRS;MID+PASS;LGSPEC02
 úalinn	úalnir	ADJ;NOM;MASC;PL;LGSPEC01
@@ -774,7 +773,6 @@ deigr	deigari	ADJ;GEN;CMPR;FEM;SG
 teigr	teigum	N;DAT;INDF;PL
 lægri	lægra	ADJ;GEN;MASC;SG
 betri	betra	ADJ;ACC;NEUT;SG
-hníga	hneig	V;IND;SG;1;PST;ACT;LGSPEC01
 búandi	búandi	V.PTCP;NOM;FEM;PL
 krjúpandi	krjúpanda	V.PTCP;GEN;NEUT;SG
 yngri	yngri	ADJ;ACC;FEM;PL
@@ -855,7 +853,6 @@ búandi	búandi	V.PTCP;NOM;MASC;SG
 kunnigr	kunnigra	ADJ;GEN;MASC;SG
 lesa	las	V;IND;SG;1;PST;ACT;LGSPEC01
 gjalda	guldu	V;IND;PL;3;PST;ACT;LGSPEC01
-þungr	þungari	ADJ;GEN;CMPR;FEM;SG
 sofandi	sofandi	V.PTCP;GEN;FEM;PL
 minnigr	minnigari	ADJ;GEN;CMPR;FEM;SG
 stœrri	stœrra	ADJ;GEN;NEUT;SG
@@ -872,7 +869,6 @@ galinn	galnast	V.PTCP;ACC;SPRL;NEUT;SG;LGSPEC01
 lægri	lægrum	ADJ;DAT;MASC;PL
 saltandi	saltandi	V.PTCP;NOM;MASC;PL
 hvína	hvína	V;SBJV;SG;1;PRS;ACT;LGSPEC01
-myrkr	myrkvari	ADJ;GEN;CMPR;FEM;SG
 sitja	sat	V;IND;SG;1;PST;ACT;LGSPEC01
 sofandi	sofanda	V.PTCP;ACC;NEUT;SG
 stórr	stœrri	ADJ;GEN;CMPR;FEM;SG
@@ -882,7 +878,6 @@ stœrri	stœrri	ADJ;GEN;FEM;SG
 hlaupa	hlaupa	V;SBJV;SG;1;PRS;ACT;LGSPEC01
 þjóta	þjóta	V;SBJV;SG;1;PRS;ACT;LGSPEC01
 beinn	beinari	ADJ;GEN;CMPR;FEM;SG
-róa	rera	V;IND;SG;1;PST;ACT;LGSPEC01
 fjǫlmennari	fjǫlmennari	ADJ;ACC;FEM;PL
 hittandi	hittandi	V.PTCP;NOM;NEUT;PL
 ellri	ellri	ADJ;ACC;NEUT;PL
@@ -903,11 +898,9 @@ hǫfugr	hǫfgari	ADJ;GEN;CMPR;FEM;SG
 rísa	reis	V;IND;SG;1;PST;ACT;LGSPEC01
 falr	falari	ADJ;GEN;CMPR;FEM;SG
 ríða	ríða	V;SBJV;SG;1;PRS;ACT;LGSPEC01
-flýja	fló	V;IND;SG;1;PST;ACT;LGSPEC01
 galinn	gǫlnurum	V.PTCP;DAT;CMPR;FEM;PL
 strjúka	strauk	V;IND;SG;1;PST;ACT;LGSPEC01
 gína	ginu	V;IND;PL;3;PST;ACT;LGSPEC01
-nýr	nýjari	ADJ;GEN;CMPR;FEM;SG
 stríðr	stríðari	ADJ;GEN;CMPR;FEM;SG
 kennandi	kennanda	V.PTCP;ACC;MASC;SG
 róa	reru	V;IND;PL;3;PST;ACT;LGSPEC01
@@ -933,7 +926,6 @@ ganga	gingu	V;IND;PL;3;PST;ACT;LGSPEC01
 skafa	skafa	V;SBJV;SG;1;PRS;ACT;LGSPEC01
 skjalla	skjalla	V;SBJV;SG;1;PRS;ACT;LGSPEC01
 vinda	vatt	V;IND;SG;1;PST;ACT;LGSPEC01
-kjósa	kaus	V;IND;SG;1;PST;ACT;LGSPEC01
 nýrri	nýrri	ADJ;NOM;MASC;SG
 bíta	bíta	V;SBJV;SG;1;PRS;ACT;LGSPEC01
 tuttugundi	tuttugunda	ADJ;GEN;NEUT;SG

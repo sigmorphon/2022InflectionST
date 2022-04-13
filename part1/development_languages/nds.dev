@@ -12,7 +12,6 @@ wrümpeln	wrümpeln	V;NFIN
 dootmaken	möken doot	V;IND;PL;PST
 kennen	kennst	V;IND;SG;2;PST
 klook	de klöökste	ADJ;NOM;SPRL;DEF;FEM;SG
-düppen	düppen	V;IND;PL;PRS
 afsteken	afsteken	V.PTCP;PRS
 stauen	staut	V;IND;PL;PRS
 klook	he is de Klöökste	ADJ;SPRL;MASC;SG;LGSPEC01
@@ -33,7 +32,6 @@ annulleren	geannulleert	V.PTCP;PST
 eten	eten	V;IND;PL;PST
 wreilen	wreilst	V;IND;SG;2;PRS
 wies	en wieseste	ADJ;NOM;SPRL;INDF;FEM;SG
-annulleren	eannulleert	V.PTCP;PST
 söken	söchen	V;IND;PL;PST
 lustig	en lustiger	ADJ;ACC+DAT+GEN;CMPR;INDF;NEUT;SG
 wunnerbor	keen wunnerboren	ADJ;ACC+DAT+GEN;INDF;PL
@@ -70,7 +68,6 @@ traag	allens träger	ADJ;PRT;CMPR;PL
 nuddelig	en nuddelige	ADJ;NOM;INDF;MASC;SG
 lippen	lipp	V;IND;SG;1;PST
 laat	laat	ADJ;NOM;NEUT;SG
-dwingen	dwingen	V;IND;PL;PRS
 drapen	edrapen	V.PTCP;PST
 torüchkamen	kümmt torüch	V;IND;SG;3;PRS
 impen	impt	V;IND;SG;3;PRS
@@ -127,9 +124,6 @@ dootsteken	stoken doot	V;IND;PL;PST
 binnen	binnen	V.PTCP;PRS
 fallen	fallen	V.PTCP;PRS
 gammelig	gammeliget	ADJ;NOM;INDF;NEUT;SG
-slapen	slaapen	V;IND;PL;PRS
-wesen	sind	V;IND;PL;PRS
-möten	mööt	V.PTCP;PST
 torüchkamen	kemen torüch	V;IND;PL;PST
 fluttern	flutter	V;IMP;SG;PRS
 dääglich	dääglichste	ADJ;NOM;SPRL;MASC;SG
@@ -138,7 +132,6 @@ rieden	riddt	V;IND;SG;3;PRS
 witt	keen wittern	ADJ;ACC+DAT+GEN;CMPR;INDF;PL
 ebben	geebbt	V.PTCP;PST
 beden	beed	V;IND;SG;1;PRS
-hangen	gehungen/hangen	V.PTCP;PST
 oppurren	oppurr	V;IND;SG;1;PST;LGSPEC02
 wrachten	wracht	V;IMP;SG;PRS
 goot	betere	ADJ;ACC+DAT+GEN;CMPR;PL
@@ -157,8 +150,6 @@ grau	en graue	ADJ;NOM;INDF;MASC;SG
 steken	steekt	V;IND;PL;PRS
 interesseren	einteresseert	V.PTCP;PST
 gegenkamen	kaam gegen	V;IND;SG;1;PRS
-dootsteken	stookst doot	V;IND;SG;2;PST
-bugen	ebagen	V.PTCP;PST
 röken	röökt	V;IND;PL;PRS
 nuddelig	nuddelige	ADJ;ACC+DAT+GEN;PL
 vörkamen	kaam vör	V;IMP;SG;PRS
@@ -284,7 +275,6 @@ dringen	edrungen	V.PTCP;PST
 torüchkamen	torüchkümmt	V;IND;SG;3;PRS;LGSPEC02
 doot	doden	ADJ;ACC+DAT+GEN;MASC;SG
 wählen	wählst	V;IND;SG;2;PST
-köpen	geköfft	V.PTCP;PST
 reken	erekent	V.PTCP;PST
 goot	en beste	ADJ;NOM;SPRL;INDF;FEM;SG
 drinken	drinkt	V;IMP;PL;PRS
@@ -316,9 +306,7 @@ rieden	ereden	V.PTCP;PST
 achterangahn	geihst achteran	V;IND;SG;2;PRS
 hooch	hööchste	ADJ;NOM;SPRL;PL
 schuckeln	schuckeln	V;NFIN
-ünnergahn	ünnergangen	V.PTCP;PST
 hooch	se sünd höger	ADJ;CMPR;PL;LGSPEC01
-smuusterlachen	smuusterlachen	V;IND;PL;PRS
 slackern	slacker	V;IMP;SG;PRS
 gammlig	dat gammlige	ADJ;ACC+DAT+GEN;DEF;NEUT;SG
 gammlig	en gammligen	ADJ;ACC+DAT+GEN;INDF;MASC;SG
@@ -327,7 +315,6 @@ doof	en dövere	ADJ;ACC+DAT+GEN;CMPR;INDF;FEM;SG
 fallen	fall	V;IND;SG;1;PRS
 doof	döövste	ADJ;NOM;SPRL;PL
 lustig	wat lustigs	ADJ;PRT;NEUT;SG
-evakueren	geevakueert	V.PTCP;PST
 regen	regen	V;IND;SG;3;PST
 rüken	eraken	V.PTCP;PST
 opwecken	weckt op	V;IND;PL;PRS
@@ -386,7 +373,6 @@ achterangahn	achterangahn	V.PTCP;PST
 dootfreren	froor doot	V;IND;SG;3;PST
 grau	graue	ADJ;ACC+DAT+GEN;PL
 krepen	kreept	V;IMP;PL;PRS
-wreilen	wreilt	V;IND;PL;PRS
 vergeten	vergeet	V;IND;PL;PRS
 lustig	de lustige	ADJ;NOM;DEF;MASC;SG
 traag	een traags	ADJ;PRT;MASC;SG
@@ -423,7 +409,6 @@ striepig	de striepigen	ADJ;ACC+DAT+GEN;DEF;PL
 wies	de wiese	ADJ;ACC+DAT+GEN;DEF;FEM;SG
 goot	de beste	ADJ;ACC+DAT+GEN;SPRL;DEF;FEM;SG
 gluustern	gluusterst	V;IND;SG;2;PST
-schölen	schölen	V.PTCP;PRS
 kamen	gekamen	V.PTCP;PST
 dregen	dreeg	V;IMP;SG;PRS
 winken	winken	V;NFIN
@@ -464,7 +449,6 @@ striepig	striepiger	ADJ;NOM;CMPR;NEUT;SG
 schrieven	schriev	V;IMP;SG;PRS
 tellen	tellen	V;NFIN
 begraven	begraav	V;IND;SG;1;PRS
-nehmen	nehmt	V;IND;PL;PRS
 lüüstern	lüüstern	V;NFIN
 denken	denkt	V;IMP;PL;PRS
 boen	bo	V;IND;SG;1;PRS
@@ -505,12 +489,10 @@ bedüden	bedüüde	V;IMP;SG;PRS
 opwecken	opweckt	V.PTCP;PST
 wribbeln	wribbeln	V;NFIN
 töögsam	de töögsamen	ADJ;ACC+DAT+GEN;DEF;PL
-splieten	spliet	V;IMP;SG;PRS
 traag	traag	ADJ;NOM;NEUT;SG
 swart	dat swärtste	ADJ;NOM;SPRL;DEF;NEUT;SG
 groot	gröttste	ADJ;NOM;SPRL;PL
 grau	en grau	ADJ;NOM;INDF;NEUT;SG
-stehlen	estahlen	V.PTCP;PST
 friewen	freewst	V;IND;SG;2;PST
 dootscheten	schütst doot	V;IND;SG;2;PRS
 knudeln	knudelen	V;IND;PL;PRS
@@ -521,7 +503,6 @@ blieven	gebleven	V.PTCP;PST
 gammlig	de gammligen	ADJ;ACC+DAT+GEN;DEF;PL
 evakueren	evakueerst	V;IND;SG;2;PRS
 slaan	slogen	V;IND;PL;PST
-böten	böött	V;IND;PL;PRS
 ümkamen	ümkeem	V;IND;SG;1;PST;LGSPEC02
 slaan	slaan	V.PTCP;PRS
 töögsam	töögsamsten	ADJ;ACC+DAT+GEN;SPRL;MASC;SG
@@ -576,9 +557,7 @@ holen	hoolt	V;IND;PL;PRS
 wahr	dat wahrere	ADJ;ACC+DAT+GEN;CMPR;DEF;NEUT;SG
 verkrunkeln	verkrunkel	V;IND;SG;1;PST
 kesen	kees	V;IMP;SG;PRS
-flegen	eflagen	V.PTCP;PST
 schölen	schöölt	V;IND;PL;PRS
-nuddelig	nuddeliget	ADJ;NOM;INDF;NEUT;SG
 wölven	wölvst	V;IND;SG;2;PRS
 fechten	fechten	V;NFIN
 breken	breken	V;NFIN
@@ -590,22 +569,18 @@ wunnerbor	wunnerborer	ADJ;NOM;CMPR;NEUT;SG
 smölten	smölt	V;IND;SG;3;PST
 sitten	eseten	V.PTCP;PST
 utkamen	keem ut	V;IND;SG;3;PST
-kamen	ekamen	V.PTCP;PST
 evenen	evenst	V;IND;SG;2;PST
 verswinnen	verswunn	V;IND;SG;3;PST
 doof	wat doovs	ADJ;PRT;NEUT;SG
 smüüstern	smüüster	V;IMP;SG;PRS
 gammlig	gammlig	ADJ;NOM;NEUT;SG
 slapen	slöppst	V;IND;SG;2;PRS
-passeren	passeert	V;IND;PL;PRS
 rüken	rook	V;IND;SG;3;PST
 waggeln	waggelst	V;IND;SG;2;PRS
 schrieven	schriev	V;IND;SG;1;PRS
-liggen	liggen	V;IND;PL;PRS
 vergeten	vergeten	V;NFIN
 wenken	wenken	V;IND;PL;PRS
 oppurren	oppurrt	V.PTCP;PST
-teken	etekent	V.PTCP;PST
 bringen	bringen	V;NFIN
 lustig	keen lustigern	ADJ;ACC+DAT+GEN;CMPR;INDF;PL
 könen	könen	V;NFIN
@@ -626,7 +601,6 @@ winken	gewinkt	V.PTCP;PST
 verswinnen	verswinnt	V;IND;PL;PRS
 wabbeln	wabbel	V;IND;SG;3;PST
 striepig	he is striepig	ADJ;MASC;SG;LGSPEC01
-töögsam	töögsamet	ADJ;NOM;INDF;NEUT;SG
 strieken	striek	V;IMP;SG;PRS
 ümkamen	kemen üm	V;IND;PL;PST
 hebben	harren	V;IND;PL;PST
@@ -667,7 +641,6 @@ befehlen	befohl	V;IND;SG;1;PST
 wabbeln	wabbelt	V;IND;PL;PRS
 root	de röödste	ADJ;ACC+DAT+GEN;SPRL;DEF;FEM;SG
 achterangahn	achterangüng	V;IND;SG;1;PST;LGSPEC02
-visenteren	evisenteert	V.PTCP;PST
 grau	graue	ADJ;NOM;MASC;SG
 düüster	de düüsterste	ADJ;NOM;SPRL;DEF;FEM;SG
 dumm	en dümmst	ADJ;NOM;SPRL;INDF;NEUT;SG
@@ -677,7 +650,6 @@ hooch	hoge	ADJ;ACC+DAT+GEN;FEM;SG
 wahr	den wahren	ADJ;ACC+DAT+GEN;DEF;MASC;SG
 hooch	hööchste	ADJ;ACC+DAT+GEN;SPRL;FEM;SG
 tohoopkleien	tohoopkleit	V.PTCP;PST
-knudeln	knudelt	V;IND;PL;PRS
 wribbeln	wribbelt	V.PTCP;PST
 nuddelig	en nuddeligere	ADJ;NOM;CMPR;INDF;MASC;SG
 root	keen roden	ADJ;NOM;INDF;PL
@@ -729,10 +701,8 @@ wunnerbor	wunnerborere	ADJ;NOM;CMPR;PL
 swabbeln	swabbel	V;IND;SG;1;PST
 nuddelig	he is nuddelig	ADJ;MASC;SG;LGSPEC01
 smullen	smullst	V;IND;SG;2;PRS
-gahn	gahen	V;IND;PL;PRS
 korrigeren	korrigeren	V.PTCP;PRS
 warrn	warrn	V.PTCP;PRS
-wesen	sin	V;IND;PL;PRS
 wreet	wredere	ADJ;ACC+DAT+GEN;CMPR;PL
 wahr	en wahrere	ADJ;NOM;CMPR;INDF;MASC;SG
 möten	mööt	V;IMP;PL;PRS
@@ -778,10 +748,8 @@ striepig	striepiger	ADJ;ACC+DAT+GEN;CMPR;NEUT;SG
 verköpen	verköff	V;IND;SG;3;PST
 fresen	freest	V;IMP;PL;PRS
 klook	en klöökste	ADJ;NOM;SPRL;INDF;MASC;SG
-spreken	spreekt	V;IND;PL;PRS
 swart	de swärtste	ADJ;ACC+DAT+GEN;SPRL;DEF;FEM;SG
 smuustergrienen	smuustergrienen	V;IND;PL;PST
-möten	musst	V;IND;SG;2;PRS
 dootblieven	bliev doot	V;IMP;SG;PRS
 spekeleren	spekeleren	V;IND;PL;PST
 langsam	langsamste	ADJ;ACC+DAT+GEN;SPRL;PL
@@ -795,7 +763,6 @@ wanken	ewankt	V.PTCP;PST
 dootfallen	dootfallt	V;IND;PL;PRS;LGSPEC02
 swanken	swanke	V;IMP;SG;PRS
 torüchkamen	torüchkamen	V.PTCP;PST
-möten	möttst	V;IND;SG;2;PST
 evakueren	evakueert	V;IND;SG;3;PRS
 verdummen	verdummen	V;IND;PL;PST
 wrangen	wrangt	V;IMP;PL;PRS
@@ -817,7 +784,6 @@ wriggen	wrigge	V;IMP;SG;PRS
 tohoopleggen	tohooplegg	V;IND;SG;1;PRS;LGSPEC02
 achterangahn	güng achteran	V;IND;SG;3;PST
 schütten	schütt	V;IMP;PL;PRS
-aten	aten	V;IND;PL;PST
 singen	sing	V;IND;SG;1;PRS
 lopen	löppst	V;IND;SG;2;PRS
 gammelig	se sünd de Gammeligsten	ADJ;SPRL;PL;LGSPEC01
@@ -938,14 +904,12 @@ opwecken	opwecken	V;NFIN
 verkrünkeln	verkrünkel	V;IND;SG;1;PRS
 dumm	dümmste	ADJ;ACC+DAT+GEN;SPRL;PL
 grienen	grien	V;IND;SG;1;PRS
-ünnergahn	eünnergahn	V.PTCP;PST
 egen	egen	V.PTCP;PRS
 nuddelig	den nuddeligsten	ADJ;ACC+DAT+GEN;SPRL;DEF;MASC;SG
 swanken	swankst	V;IND;SG;2;PST
 wunnerbor	keen wunnerborsten	ADJ;NOM;SPRL;INDF;PL
 dootblieven	dootbliev	V;IND;SG;1;PRS;LGSPEC02
 wanneln	wannelt	V;IND;SG;3;PRS
-warken	gewarkt	V.PTCP;PST
 gammelig	allens gammeliger	ADJ;PRT;CMPR;PL
 schöön	schönere	ADJ;ACC+DAT+GEN;CMPR;PL
 gammlig	de gammligere	ADJ;NOM;CMPR;DEF;FEM;SG
@@ -986,7 +950,6 @@ düüster	düüster	ADJ;ACC+DAT+GEN;NEUT;SG
 sennen	senne	V;IMP;SG;PRS
 schöön	wat schöners	ADJ;PRT;CMPR;NEUT;SG
 bidden	ebeden	V.PTCP;PST
-sien	west	V.PTCP;PST
 smölen	smööl	V;IND;SG;3;PST
 opkamen	opkaamt	V;IND;PL;PRS;LGSPEC02
 striepig	wat striepigers	ADJ;PRT;CMPR;NEUT;SG

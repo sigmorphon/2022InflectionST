@@ -5,7 +5,6 @@ folkwīg	folkwīga	N;ACC;MASC;PL
 stantan	stantemes	V;SBJV;PL;1;PRS
 arlōsen	arlōstos	V;IND;SG;2;PST
 satanās	satanāse	N;DAT;MASC;SG
-līh	līhi	N;ACC;PL
 fallan	fallen	V;SBJV;PL;3;PRS
 folgēn	folget	V;IMP;PL;PRS
 grintil	grintila	N;ACC;MASC;PL
@@ -59,7 +58,6 @@ skaz	skazo	N;GEN;MASC;PL
 faran	fuor	V;IND;SG;3;PST
 selihof	selihofes	N;GEN;MASC;SG
 wolfbizzo	wolfbizzo	N;NOM;MASC;SG
-kweman	kwāmum	V;IND;PL;1;PST
 ellan	ellan	N;NOM;NEUT;PL
 zittarōn	zittaro	V;SBJV;SG;3;PRS
 fuolen	fuole	V;SBJV;SG;1;PRS
@@ -107,7 +105,6 @@ fogal	fogala	N;ACC;MASC;PL
 strūz	strūze	N;DAT;MASC;SG
 wesan	wārum	V;IND;PL;1;PST
 selah	selaho	N;GEN;MASC;PL
-bintan	buntumes	V;IND;PL;1;PST
 weraltfuristo	weraltfuristen	N;DAT;MASC;SG
 denken	denket	V;SBJV;PL;2;PRS
 flēhan	flēh	V;IMP;SG;PRS
@@ -259,7 +256,6 @@ afterreif	afterreifes	N;GEN;MASC;SG
 fogalōn	fogalotos	V;IND;SG;2;PST
 garotag	garotages	N;GEN;MASC;SG
 sahhan	sahhen	V;SBJV;PL;3;PRS
-glītan	glītemes	V;SBJV;PL;1;PRS
 uoba	uoba	N;ACC;SG
 meinen	meinitut	V;IND;PL;2;PST
 brestan	brestemes	V;IND;PL;1;PRS
@@ -356,7 +352,6 @@ firkoufling	firkouflinga	N;NOM;MASC;PL
 lebēn	lebe	V;SBJV;SG;3;PRS
 eindrucchen	eindrucchet	V;IMP;PL;PRS
 nasa	nasā	N;ACC;FEM;PL
-stantan	stantem	V;SBJV;PL;1;PRS
 wolfbizzo	wolfbizzon	N;NOM;MASC;PL
 borgēn	borgen	V;SBJV;PL;3;PRS
 sëhan	sāhim	V;SBJV;PL;1;PST
@@ -542,7 +537,6 @@ gibūr	gibūre	N;DAT;MASC;SG
 bīzan	bīzen	V;SBJV;PL;3;PRS
 unholda	unholdun	N;ACC;FEM;PL
 fastēn	fastenti	V.PTCP;PRS
-geban	gābum	V;IND;PL;1;PST
 siodan	sudin	V;SBJV;PL;3;PST
 garotag	garotagum	N;DAT;MASC;PL
 slāfan	slāfen	V;SBJV;PL;3;PRS
@@ -628,7 +622,6 @@ wīsen	wīstut	V;IND;PL;2;PST
 ganzida	ganzidōno	N;GEN;FEM;PL
 dolēn	doletum	V;IND;PL;1;PST
 wuntarōn	wuntarōn	V;NFIN
-irrōn	irromes	V;SBJV;PL;1;PRS
 fogat	fogata	N;ACC;MASC;PL
 lernēn	lernetis	V;SBJV;SG;2;PST
 weralthēriro	weralthēriro	N;NOM;MASC;SG
@@ -703,7 +696,6 @@ hazzōn	hazzo	V;SBJV;SG;3;PRS
 sluzzil	sluzziles	N;GEN;MASC;SG
 flinsstein	flinssteines	N;GEN;MASC;SG
 agatstein	agatsteinum	N;DAT;MASC;PL
-dreskan	dreskemes	V;SBJV;PL;1;PRS
 swert	swert	N;ACC;NEUT;SG
 stehhan	stehhe	V;SBJV;SG;1;PRS
 fiurstein	fiurstein	N;NOM;MASC;SG
@@ -735,7 +727,6 @@ stantan	gistantan	V.PTCP;PST
 sinnan	sinne	V;SBJV;SG;3;PRS
 borgēn	borges	V;SBJV;SG;2;PRS
 wizzo	wizzōno	N;GEN;MASC;PL
-zellen	zaltumes	V;IND;PL;1;PST
 brestan	brestet	V;IND;PL;2;PRS
 lōh	lōhu	N;INS;SG
 mëtod	mëtod	N;ACC;MASC;SG
@@ -759,7 +750,6 @@ backo	backon	N;ACC;MASC;PL
 reichen	reichta	V;IND;SG;1;PST
 wānen	wānen	V;SBJV;PL;3;PRS
 kunni	kunno	N;GEN;NEUT;PL
-garawen	garawem	V;IND;PL;1;PRS
 weraltrehtwīso	weraltrehtwīsen	N;DAT;MASC;SG
 scūr	scūr	N;ACC;MASC;SG
 dolēn	dole	V;SBJV;SG;1;PRS
@@ -836,7 +826,6 @@ sagēn	saget	V;IND;PL;2;PRS
 ezzan	āzin	V;SBJV;PL;3;PST
 corunga	corungā	N;NOM;FEM;PL
 hērro	hērren	N;GEN;MASC;SG
-firsahhan	firsahhem	V;SBJV;PL;1;PRS
 heffan	heffemes	V;IND;PL;1;PRS
 habēn	habetimes	V;SBJV;PL;1;PST
 siohtuom	siohtuomo	N;GEN;MASC;PL
@@ -927,7 +916,6 @@ bīzan	bīze	V;SBJV;SG;1;PRS
 friosan	friosanti	V.PTCP;PRS
 betōn	betota	V;IND;SG;1;PST
 gomo	gomen	N;DAT;MASC;SG
-sellen	saltim	V;SBJV;PL;1;PST
 drucchen	druhtun	V;IND;PL;3;PST
 drucchen	drucchen	V;SBJV;PL;3;PRS
 biogan	bugut	V;IND;PL;2;PST
@@ -961,7 +949,6 @@ wīsen	wīsi	V;IMP;SG;PRS
 dankōn	dankotis	V;SBJV;SG;2;PST
 lernēn	lernet	V;SBJV;PL;2;PRS
 frosk	frosku	N;INS;MASC;SG
-hangēn	hangetum	V;IND;PL;1;PST
 fastēn	fastetit	V;SBJV;PL;2;PST
 slahan	slahet	V;SBJV;PL;2;PRS
 būr	būres	N;GEN;MASC;SG
@@ -974,7 +961,6 @@ zunga	zungōno	N;GEN;FEM;PL
 suohhen	suohhe	V;SBJV;SG;1;PRS
 segal	segalu	N;INS;MASC;SG
 wort	wort	N;ACC;NEUT;PL
-nioʐan	nioʐem	V;SBJV;PL;1;PRS
 nāda	nādōno	N;GEN;FEM;PL
 gisahhan	gisuohhi	V;SBJV;SG;1;PST
 trinkan	trunki	V;IND;SG;2;PST
