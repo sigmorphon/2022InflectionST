@@ -74,7 +74,9 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 *Stay tuned*
 
 | Language | Family| code | UM | Annotators  |
-|---|---|---|---|---|
+| Armenian | Indo-European | hye | https://github.com/unimorph/hye/ | Hossep Dolatian, Khuyagbaatar Batsuren, Ryan Cotterell |
+| Kazakh | Turkic | kaz | https://github.com/unimorph/kaz/ | Eleanor Chodroff, Khuyagbaatar Batsuren |
+| Lamahalot | Austronesian | slp |  |  |
 
 ### Timeline
 
@@ -84,7 +86,7 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 * **March 29, 2022**: Neural and non-neural baselines for development languages released.
 
 **Stage 2: Generalization Phase**
-* **April 15, 2022**: Training and development splits for surprise languages released.
+* **April 17, 2022**: Training and development splits for surprise languages released.
 (This is not a zero-shot learning task. Participants will be given training data for all languages.)
 
 **Stage 3: Evaluation Phase**
@@ -140,7 +142,7 @@ The human-like generalization part of this shared task will be evaluated as desc
 
 **Task Logistics**: Jordan Kodner, Salam Khalifa, Khuyagbaatar Batsuren, Ekaterina Vylomova, Maria Ryskina, Omer Goldman, Jeffrey Heinz, Ryan Cotterell, Mans Hulden, Garret Nicolai, David Yarowsky
 
-**Annotators**: Antonios Anastasopoulos, Taras Andrushko, Aryaman Arora, Duygu Ataman, Nona Atanelov, Khuyagbaatar Batsuren, Zigniew Bronk, Elena Budianskaya, Sofya Ganieva, Omer Goldman, Włodzimierz Gruszczyński, Simor Guriel, Silvia Guriel-Agiashvili, David Guriel, Nizar Habash, Jan Hajič, Jan Hric, Salam Khalifa, Witold Kieraś, Elena Klyachko, Ritesh Kumar, Ritvan Karahodja, Igor Marchenko, Polina Mashkovtseva, Maria Nepomniashchaya, Matvey Plugaryov, Mohit Raj, Shyam Ratan, Daria Rodionova, Marina Ryskina, Zygmunt Saloni, Alexadra Serova, Karina Sheifer, Danuta Skowrońska, Marcin Woliński, Robert Wołosz, Anastasia Yemelina, Jeremiah Young 
+**Data Preparation**: Antonios Anastasopoulos, Taras Andrushko, Aryaman Arora, Duygu Ataman, Nona Atanelov, Khuyagbaatar Batsuren, Zigniew Bronk, Elena Budianskaya, Hossep Dolatian, Sofya Ganieva, Omer Goldman, Włodzimierz Gruszczyński, Simor Guriel, Silvia Guriel-Agiashvili, David Guriel, Nizar Habash, Jan Hajič, Jan Hric, Salam Khalifa, Witold Kieraś, Elena Klyachko, Ritesh Kumar, Ritvan Karahodja, Igor Marchenko, Polina Mashkovtseva, Maria Nepomniashchaya, Matvey Plugaryov, Mohit Raj, Shyam Ratan, Daria Rodionova, Marina Ryskina, Zygmunt Saloni, Alexadra Serova, Karina Sheifer, Danuta Skowrońska, Marcin Woliński, Robert Wołosz, Anastasia Yemelina, Jeremiah Young 
 
 
 
