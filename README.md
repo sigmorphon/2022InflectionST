@@ -70,7 +70,6 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 #### Surprise Languages
 | Language | Family| code | UM | Contributors |
 |---|---|---|---|---|
-| Language | Family| code | UM | Annotators  |
 | Armenian | Indo-European | hye | https://github.com/unimorph/hye/ | Hossep Dolatian, Khuyagbaatar Batsuren, Ryan Cotterell |
 | Kazakh | Turkic | kaz | https://github.com/unimorph/kaz/ | Eleanor Chodroff, Khuyagbaatar Batsuren |
 | Lamahalot | Austronesian | slp |  |  |
