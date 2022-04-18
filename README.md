@@ -34,8 +34,6 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 
 #### Development Languages
 
-*More coming soon*
-
 | Language | Family| code | UM | Contributors |
 |---|---|---|---|---|
 | Arabic, Modern Standard | Semitic (Afro-Asiatic) | ara | https://github.com/unimorph/ara/ara_atb | Salam Khalifa, Nizar Habash |
@@ -70,9 +68,8 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 | Xibe | Tungusic | sjo | https://github.com/unimorph/sjo/ | Elena Klyachko |
 
 #### Surprise Languages
-
-*Stay tuned*
-
+| Language | Family| code | UM | Contributors |
+|---|---|---|---|---|
 | Language | Family| code | UM | Annotators  |
 | Armenian | Indo-European | hye | https://github.com/unimorph/hye/ | Hossep Dolatian, Khuyagbaatar Batsuren, Ryan Cotterell |
 | Kazakh | Turkic | kaz | https://github.com/unimorph/kaz/ | Eleanor Chodroff, Khuyagbaatar Batsuren |
