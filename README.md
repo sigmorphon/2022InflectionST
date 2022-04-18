@@ -72,7 +72,7 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 |---|---|---|---|---|
 | Armenian | Indo-European | hye | https://github.com/unimorph/hye/ | Hossep Dolatian, Khuyagbaatar Batsuren, Ryan Cotterell |
 | Kazakh | Turkic | kaz | https://github.com/unimorph/kaz/ | Eleanor Chodroff, Khuyagbaatar Batsuren |
-| Lamahalot | Austronesian | slp |  |  |
+| Lamahalot | Austronesian | slp |  | Yustinus Ghanggo Ate |
 
 ### Timeline
 
@@ -126,12 +126,34 @@ The human-like generalization part of this shared task will be evaluated as desc
 
 ### Submission Instructions 
 
-*Stay tuned*
+Please submit your team's results to jordan.kodner@stonybrook.edu CCing your team mates by May 6th, 2022.
 
 
 ### Baselines
 
-*Stay tuned*
+
+The organizers will provide one non-neural and one neural baseline for the participants’ consumption.
+Its use is optional and is provided to help the participants develop their own models faster.
+The neural baseline is a multilingual transformer ([Vaswani et al., 2017](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)). The version of this model adopted for character-level tasks currently holds the state-of-the-art on the 2017 SIGMORPHON shared task data. The transformer takes the lemma and morphological tags as input and outputs the target inflection. Given the low-resource setup, a single model will be trained on all languages. Additionally, we consider the data augmentation technique used by [Anastasopoulos and Neubig (2019)](https://www.aclweb.org/anthology/D19-1091/) as another baseline.
+
+To run the non-neural baseline use command:
+```bash
+$ python baselines/nonneural/baseline.py --path part1/development_languages/
+```
+
+To run the neural baseline first download and augment [(Anastasopoulos and Neubig, 2019)](https://arxiv.org/abs/1908.05838) the data
+```bash
+$ mkdir part1/original
+$ cp part1/development_languages/* part1/original
+
+$ bash baselines/neural/example/sigmorphon2021-shared-tasks/augment.sh
+$ python baselines/neural/example/sigmorphon2021-shared-tasks/task0-build-dataset.py all
+```
+
+Then, to run the transducer [(Wu et al, 2021)](https://arxiv.org/abs/2005.10213), one model per language.
+```bash
+$ bash baselines/neural/example/sigmorphon2021-shared-tasks/task0-launch.sh
+```
 
 
 ### Organizers
