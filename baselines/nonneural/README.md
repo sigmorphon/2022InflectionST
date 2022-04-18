@@ -6,7 +6,7 @@ This is a very simple Python 3 baseline algorithm for solving task 0 without ext
 
 When run with the `-o` option, the program writes its outputs into files.  The default behavior is to just run the algorithm on all tasks and languages and print out accuracy on the dev set.
 
-The default relative path to the train/dev files language family directory (`./../../task0-data/`) can be changed with the `-p` flag. The system is also tested with PyPy and runs significantly faster.
+The default relative path to the train/dev files language family directory (`./../../part1/`) can be changed with the `-p` flag. The system is also tested with PyPy and runs significantly faster.
 
 To run:
 
@@ -14,7 +14,7 @@ To run:
 python baseline.py
 ```
 
-This assumes the data is found in `./../../task0-data/`.
+This assumes the data is found in `./../../part1/`.
 
 ## Details: learning
 

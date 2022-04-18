@@ -171,7 +171,7 @@ def main(argv):
             path = arg
 
     if HELP:
-            print("\n*** Baseline for the SIGMORPHON 2020 shared task ***\n")
+            print("\n*** Baseline for the SIGMORPHON 2022 shared task ***\n")
             print("By default, the program runs all languages only evaluating accuracy.")
             print("To create output files, use -o")
             print("The training and dev-data are assumed to live in ./part1/development_languages/")
@@ -233,7 +233,7 @@ def main(argv):
         num_seenlemma_guesses, num_seenmsd_guesses, num_seenneither_guesses = 0, 0, 0
         numcorrect, numguesses = 0, 0
         if OUTPUT:
-            outfile = open(path + lang + "-out", "w")
+            outfile = open(lang + ".dev", "w")
         for l in devlines:
             lemma, correct, msd, = l.split(u'\t')
 #                    lemma, msd, = l.split(u'\t')
