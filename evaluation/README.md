@@ -1,5 +1,12 @@
 
-### Evaluation Script
+# Evaluation Script
+
+## Reports Five Scores
+- Accuracy on all evaluation (either dev or test) data
+- "Both" accuracy on test pairs for which both the lemma and features are attested somewhere in training
+- "Lemma" accuracy on test pairs whose lemma was attested in training but feature bundle was not
+- "Feats" accuracy on test pairs whose feature bundle was attested somewhere in training but lemma was not
+- "Unseen" accuracy on test pairs totally unattested in training
 
 ## Usage
 ```
@@ -36,9 +43,3 @@ $ python3 evaluate.py my_predictions ../../part1/development_languages/ --evalty
 ```
 
 
-## Reports 5 scores
-- Accuracy on all evaluation (either dev or test) data
-- "Both" accuracy on test pairs for which both the lemma and features are attested somewhere in training
-- "Lemma" accuracy on test pairs whose lemma was attested in training but feature bundle was not
-- "Feats" accuracy on test pairs whose feature bundle was attested somewhere in training but lemma was not
-- "Unseen" accuracy on test pairs totally unattested in training

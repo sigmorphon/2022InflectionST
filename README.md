@@ -109,6 +109,8 @@ Two training sets are provided for most languages in order to test models' behav
 
 ### Evaluation
 
+***Evaluation script available here https://github.com/sigmorphon/2022InflectionST/tree/main/evaluation***
+
 The language generalization evaluation is extended from previous years' design. We will simultaneously evaluate models for both the Development languages, whose training and development sets will be available for an elongated period of time, and the Surprise languages, whose training and development sets will only be available for a short time prior to submission, which precludes extensive tuning. To be officially ranked, you must submit results for **all** evaluation languages. Thus, to succeed, your class of models (e.g. neural sequence-to-sequence models or weighted finite-state transducers with hand-crafted features) must generalize well to the group of Surprise languages that are typologically distinct from the Development languages you performed model selection on. To repeat: This is not a zero-shot learning task, but rather our evaluation set-up is designed to test the inherent inductive bias in the participants' chosen model class.
 
 Evaluation is designed to provide insights into performance over typologically distinct languages. Accuracy on held out forms will be evaluated separately for three classes of languages:
@@ -131,6 +133,7 @@ Please submit your team's results to jordan.kodner@stonybrook.edu CCing your tea
 
 ### Baselines
 
+***Baseline results available here https://github.com/sigmorphon/2022InflectionST/tree/main/evaluation***
 
 The organizers will provide one non-neural and one neural baseline for the participants’ consumption.
 Its use is optional and is provided to help the participants develop their own models faster.
