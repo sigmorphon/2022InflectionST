@@ -32,9 +32,9 @@ optional arguments:
 
 ## Example Usage
 
-Evaluates performance on dev for all languaegs
+Evaluates performance on dev for all part1 development languages
 ```
-$ python3 evaluate.py my_predictions ../../part1/development_languages/ --evaltype dev > eval_dev_unsort.txt
+$ python3 evaluate.py my_predictions ../../part1/development_languages/ --evaltype dev --partition _small _large
 ```
 
 Evaluates performance on test for just goh_small

@@ -5,7 +5,7 @@ Non-neural baseline system for the SIGMORPHON 2022 Shared Task 0.
 Author: Mans Hulden
 Modified by: Tiago Pimentel
 Modified by: Jordan Kodner
-Last Update: 29/03/2022
+Last Update: 22/04/2022
 """
 
 import sys, os, getopt, re
@@ -160,11 +160,13 @@ def numtrailingsyms(s, symbol):
 
 
 def main(argv):
-    options, remainder = getopt.gnu_getopt(argv[1:], 'ohp:', ['output','help','path='])
-    OUTPUT, HELP, path = False, False, '../../part1/development_languages/'
+    options, remainder = getopt.gnu_getopt(argv[1:], 'othp:', ['output','test','help','path='])
+    TEST, OUTPUT, HELP, path = False,False, False, '../../part1/development_languages/'
     for opt, arg in options:
         if opt in ('-o', '--output'):
             OUTPUT = True
+        if opt in ('-t', '--test'):
+            TEST = True
         elif opt in ('-h', '--help'):
             HELP = True
         elif opt in ('-p', '--path'):
@@ -176,6 +178,7 @@ def main(argv):
             print("To create output files, use -o")
             print("The training and dev-data are assumed to live in ./part1/development_languages/")
             print("Options:")
+            print(" -t         evaluate on test instead of dev")
             print(" -o         create output files with guesses (and don't just evaluate)")
             print(" -p [path]  data files path. Default is ./part1/development_languages/")
             quit()
@@ -228,13 +231,18 @@ def main(argv):
                     allsrules[msd][(r[0],r[1])] = 1
 
         # Run eval on dev
-        devlines = [line.strip() for line in open(path + lang.split("_")[0] + ".dev", "r") if line != '\n']
+        evallines = [line.strip() for line in open(path + lang.split("_")[0] + ".dev", "r") if line != '\n']
+        if TEST:
+            evallines = [line.strip() for line in open(path + lang.split("_")[0] + ".gold", "r") if line != '\n']
         num_seenlemma_correct, num_seenmsd_correct, num_seenneither_correct = 0, 0, 0
         num_seenlemma_guesses, num_seenmsd_guesses, num_seenneither_guesses = 0, 0, 0
         numcorrect, numguesses = 0, 0
         if OUTPUT:
-            outfile = open(lang + ".dev", "w")
-        for l in devlines:
+            if not TEST:
+                outfile = open(lang + ".dev", "w")
+            else:
+                outfile = open(lang + ".test", "w")
+        for l in evallines:
             lemma, correct, msd, = l.split(u'\t')
 #                    lemma, msd, = l.split(u'\t')
             if prefbias > suffbias:

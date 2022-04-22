@@ -24,6 +24,8 @@ def read_eval(evalfname):
     evalfeats = []
     with open(evalfname, "r") as feval:
         for line in feval:
+            if not line.strip():
+                continue
             lemma, infl, feats = line.split("\t")
             evallemmas.append(lemma.strip())
             evalinfls.append(infl.strip())
@@ -70,7 +72,7 @@ def evaluate(lang, predfname, trainfname, evalfname):
     return total_acc, seenboth_acc,seenlemma_acc, seenfeats_acc, unseen_acc, len(predictions), len(seenboth_preds), len(seenlemma_preds), len(seenfeats_preds), len(unseen_preds), predictions, seenboth_preds,seenlemma_preds, seenfeats_preds, unseen_preds
 
 
-def evaluate_all(predfnames, trainfnames, evalfnames):
+def evaluate_all(predfnames, trainfnames, evalfnames, partitions):
 
     def rnd(num):
         return round(100*num, 3)
@@ -81,6 +83,12 @@ def evaluate_all(predfnames, trainfnames, evalfnames):
     allpreds_lemma = []
     allpreds_feats = []
     allpreds_unseen = []
+    part_predictions = {part:[] for part in partitions}
+    part_preds_both = {part:[] for part in partitions}
+    part_preds_lemma = {part:[] for part in partitions}
+    part_preds_feats = {part:[] for part in partitions}
+    part_preds_unseen = {part:[] for part in partitions}
+
     for lang, predfname in predfnames.items():
         try:
             trainfname = trainfnames[lang]
@@ -91,11 +99,26 @@ def evaluate_all(predfnames, trainfnames, evalfnames):
             allpreds_lemma.extend(seenlemma_preds)
             allpreds_feats.extend(seenfeats_preds)
             allpreds_unseen.extend(unseen_preds)
+            for part in partitions:
+                if part in lang:
+                    part_predictions[part].extend(predictions)
+                    part_preds_both[part].extend(seenboth_preds)
+                    part_preds_lemma[part].extend(seenlemma_preds)
+                    part_preds_feats[part].extend(seenfeats_preds)
+                    part_preds_unseen[part].extend(unseen_preds)
             if num_predictions == 0:
                 continue
             print("%s\t%s\t%s\t%s\t%s\t%s\t\t%s\t%s\t%s\t%s\t%s" % (lang, rnd(total_acc), rnd(seenboth_acc), rnd(seenlemma_acc), rnd(seenfeats_acc), rnd(unseen_acc), num_predictions, num_seenboth, num_seenlemma_preds, num_seenfeats_preds, num_unseen_preds))
         except KeyError:
             print("ORIGINAL DATA FOR %s NOT FOUND. SKIPPING..." % lang)
+
+    for part in partitions:
+        total_acc = get_acc(part_predictions[part])
+        seenboth_acc = get_acc(part_preds_both[part])
+        seenlemma_acc = get_acc(part_preds_lemma[part])
+        seenfeats_acc = get_acc(part_preds_feats[part])
+        unseen_acc = get_acc(part_preds_unseen[part])
+        print("%s\t\t%s\t%s\t%s\t%s\t%s" % (part.upper(), rnd(total_acc), rnd(seenboth_acc), rnd(seenlemma_acc), rnd(seenfeats_acc), rnd(unseen_acc)))
 
     total_acc = get_acc(allpredictions)
     seenboth_acc = get_acc(allpreds_both)
@@ -113,6 +136,7 @@ if __name__ == "__main__":
     parser.add_argument("outfname", nargs="?", help="Filename to write outputs to")
     parser.add_argument("--evaltype", type=str, help="evaluate [dev] predictions or [test] predictions", default="test")
     parser.add_argument("--language", nargs="?", type=str, help="Evaluate a specific language. Will run on all languages in preddir if omitted", default="")
+    parser.add_argument("--partition", nargs="+", help="List of partitions over which to calculate aggregate scores. Example --partition _large _small", default=[])
 
     args = parser.parse_args()
 
@@ -124,4 +148,4 @@ if __name__ == "__main__":
     lang_to_trainfname = read_dir(args.datadir, "train", args.language)
     evaltype = evaltype if evaltype == "dev" else "gold"
     lang_to_evalfname = read_dir(args.datadir, evaltype, args.language.split("_")[0])
-    evaluate_all(lang_to_predfname, lang_to_trainfname, lang_to_evalfname)
+    evaluate_all(lang_to_predfname, lang_to_trainfname, lang_to_evalfname, args.partition)
