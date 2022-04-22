@@ -37,9 +37,14 @@ Evaluates performance on dev for all part1 development languages
 $ python3 evaluate.py my_predictions ../../part1/development_languages/ --evaltype dev --partition _small _large
 ```
 
+Evaluates performance on dev for all part2 languages
+```
+evaluate.py ../baselines/nonneural/ ../../2022InflectionST/part2/ --evaltype dev --partition ara eng deu
+```
+
 Evaluates performance on test for just goh_small
 ```
-$ python3 evaluate.py my_predictions ../../part1/development_languages/ --evaltype test --language goh_small > eval_dev_unsort.txt
+$ python3 evaluate.py my_predictions ../../part1/development_languages/ --evaltype test --language goh_small
 ```
 
 
