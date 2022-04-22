@@ -39,7 +39,7 @@ $ python3 evaluate.py my_predictions ../../part1/development_languages/ --evalty
 
 Evaluates performance on dev for all part2 languages
 ```
-evaluate.py ../baselines/nonneural/ ../../2022InflectionST/part2/ --evaltype dev --partition ara eng deu
+evaluate.py my_predictions ../../part2/ --evaltype dev --partition ara eng deu
 ```
 
 Evaluates performance on test for just goh_small
