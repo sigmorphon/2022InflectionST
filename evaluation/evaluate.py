@@ -48,8 +48,8 @@ def evaluate(lang, predfname, trainfname, evalfname):
     predlemmas, predinfls, predfeats = read_eval(predfname)
 
     if len(predlemmas) != len(evallemmas):
-        print("PREDICTION (%d) AND EVAL (%d) FILES HAVE DIFFERENT LENGTHS. SKIPPING %s..." % (len(predictions), len(evallemmas), lang))
-        return -1,-1,-1,-1, -1,-1,-1,-1
+        print("PREDICTION (%d) AND EVAL (%d) FILES HAVE DIFFERENT LENGTHS. SKIPPING %s..." % (len(predlemmas), len(evallemmas), lang))
+        return -1,-1,-1,-1,-1,-1,-1,-1,-1,-1,[],[],[],[],[]
 
     predictions = [int(pred==gold) for pred, gold in zip(predinfls, evalinfls)]
 
