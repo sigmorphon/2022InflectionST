@@ -3,7 +3,7 @@ from os import listdir
 from os.path import join
 
 def read_dir(datadir, split, language):
-    return {fname.split(".")[0]:join(datadir,fname) for fname in listdir(datadir) if ("."+split in fname and language in fname)}
+    return {fname.split(".")[0]:join(datadir,fname) for fname in sorted(listdir(datadir)) if ("."+split in fname and language in fname)}
 
 
 def read_train(trainfname):
