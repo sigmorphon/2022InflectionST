@@ -87,7 +87,7 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 
 **Stage 3: Evaluation Phase**
 * **April 22, 2022**: Test splits for all languages (both development and surprise) released.
-* **May ~~6~~ 13, 2022**: Participants submit test predictions on all languages.
+* **May ~~6~~ 17, 2022**: Participants submit test predictions on all languages.
 
 **Stage 4: Write-up Phase**
 * **June 3, 2022**: Participants’ system description papers due.
@@ -128,7 +128,7 @@ The human-like generalization part of this shared task will be evaluated as desc
 
 ### Submission Instructions 
 
-Please submit your team's results to jordan.kodner@stonybrook.edu CCing your team mates by May 6th, 2022.
+Please submit your team's results to jordan.kodner@stonybrook.edu CCing your team mates by May ~~6th~~ 17th, 2022.
 
 
 ### Baselines
