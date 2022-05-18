@@ -1,6 +1,7 @@
 import argparse
 from os import listdir
 from os.path import join
+import unicodedata
 
 def read_dir(datadir, split, language):
     return {fname.split(".")[0]:join(datadir,fname) for fname in sorted(listdir(datadir)) if ("."+split in fname and language in fname)}
@@ -51,7 +52,7 @@ def evaluate(lang, predfname, trainfname, evalfname):
         print("PREDICTION (%d) AND EVAL (%d) FILES HAVE DIFFERENT LENGTHS. SKIPPING %s..." % (len(predlemmas), len(evallemmas), lang))
         return -1,-1,-1,-1,-1,-1,-1,-1,-1,-1,[],[],[],[],[]
 
-    predictions = [int(pred==gold) for pred, gold in zip(predinfls, evalinfls)]
+    predictions = [int(unicodedata.normalize("NFC",pred)==unicodedata.normalize("NFC",gold)) for pred, gold in zip(predinfls, evalinfls)]
 
     seenlemma_preds = [pred for pred, lemma, feats in zip(predictions, evallemmas, evalfeats) if (lemma in trainlemmas and feats not in trainfeats)]
     seenfeats_preds = [pred for pred, lemma, feats in zip(predictions, evallemmas, evalfeats) if (lemma not in trainlemmas and feats in trainfeats)]
