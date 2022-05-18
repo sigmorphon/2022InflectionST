@@ -210,7 +210,7 @@ The data are in the standard UniMorph triple file format:
 * **March 15, 2022**: Training data for English, German, and Arabic are released. We invite participants to report errors.
 * **March 29, 2022**: Neural and non-neural baselines for English, German, and Arabic are released.
 * **April 22, 2022**: Test splits for all languages (both development and surprise) released.
-* **May ~~6~~ 13, 2022**: Participants submit test predictions on all languages.
+* **May ~~6~~ ~~13~~ 17, 2022**: Participants submit test predictions on all languages.
 * **June 3, 2022**: Participants’ system description papers due.
 
 
