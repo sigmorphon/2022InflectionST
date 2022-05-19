@@ -1,5 +1,17 @@
 # Preliminary Results for Shared Task 0
 
+## Systems and Teams
+
+| **Systems** | **Institution** | **Team Members** |
+|---|---|---|
+| **CLUZH** | Universität Zürich | Simon Clematide, Peter Makarov, Silvan Wehrli |
+| **HeiMorph** | Heinrich-Heine-Universität Düsseldorf | Akhilesh Kakolu Ramarao, Yulia Zinova, Kevin Tang, Ruben van de Vijver |
+| **OSU** | Ohio State University | Micha Elsner, Sara Court |
+| **TüMorph Main, FST** | Eberhard Karls Universität Tübingen | Leander Girrbach, Jingwen Li, Tatiana Merzhevich, Nkonye Gbadegoye, Ryan Soh-Eun Shim |
+| **UBC** | University of British Columbia | Changbing Yang, Ray Yhang, Farhan Samir, Garrett Nicolai, Miikka Silfverberg |
+
+Baseline systems are identical to the 2021 iteration of the shared task. Neural Base was a SOTA system when originally deployed.
+
 ## Part 1
 
 ### Test Data Partitions
@@ -342,6 +354,8 @@ Partial Submissions
 
 
 ## Part 2
+
+Analysis of learning trajectories as well as by-inflectional pattern breakdowns to follow.
 
 | **Team** | **Language** | **Average** | **100** | **200** | **300** | **400** | **500** | **600** | **700** | **800** | **900** | **1000** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
