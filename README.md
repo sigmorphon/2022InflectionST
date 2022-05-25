@@ -39,7 +39,7 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 | Arabic, Modern Standard | Semitic (Afro-Asiatic) | ara | https://github.com/unimorph/ara/ara_atb | Salam Khalifa, Nizar Habash |
 | Assamese | Indic (Indo-European) | asm | https://github.com/unimorph/asm/ | Khuyagbaatar Batsuren, Aryaman Arora |
 | Braj | Indic (Indo-European) | bra | https://github.com/unimorph/bra/ | Shyam Ratan, Ritesh Kumar |
-| Chukchi | Chukotko-Kamchatkan | ckt | https://github.com/unimorph/ckt/ | Karina Sheifer, Marina Ryskina |
+| Chukchi | Chukotko-Kamchatkan | ckt | https://github.com/unimorph/ckt/ | Karina Sheifer, Maria Ryskina |
 | English, Old | Germanic (Indo-European) | ang | https://github.com/unimorph/ang/ | Jeremiah Young |
 | Evenki | Tungusic | evn | https://github.com/unimorph/evn/ | Elena Klyachko |
 | Georgian | Kartvelian | kat | https://github.com/unimorph/kat/ | Simon Guriel, Silvia Guriel-Agiashvili & Nona Atanelov |
@@ -163,7 +163,7 @@ $ bash baselines/neural/example/sigmorphon2021-shared-tasks/task0-launch.sh
 
 **Task Logistics**: Jordan Kodner, Salam Khalifa, Khuyagbaatar Batsuren, Ekaterina Vylomova, Maria Ryskina, Omer Goldman, Jeffrey Heinz, Ryan Cotterell, Mans Hulden, Garret Nicolai, David Yarowsky
 
-**Data Preparation**: Antonios Anastasopoulos, Taras Andrushko, Aryaman Arora, Duygu Ataman, Nona Atanelov, Khuyagbaatar Batsuren, Zigniew Bronk, Elena Budianskaya, Hossep Dolatian, Sofya Ganieva, Omer Goldman, Włodzimierz Gruszczyński, Simor Guriel, Silvia Guriel-Agiashvili, David Guriel, Nizar Habash, Jan Hajič, Jan Hric, Salam Khalifa, Witold Kieraś, Elena Klyachko, Ritesh Kumar, Ritvan Karahodja, Igor Marchenko, Polina Mashkovtseva, Maria Nepomniashchaya, Matvey Plugaryov, Mohit Raj, Shyam Ratan, Daria Rodionova, Marina Ryskina, Zygmunt Saloni, Alexadra Serova, Karina Sheifer, Danuta Skowrońska, Marcin Woliński, Robert Wołosz, Anastasia Yemelina, Jeremiah Young 
+**Data Preparation**: Antonios Anastasopoulos, Taras Andrushko, Aryaman Arora, Duygu Ataman, Nona Atanelov, Khuyagbaatar Batsuren, Zigniew Bronk, Elena Budianskaya, Hossep Dolatian, Sofya Ganieva, Omer Goldman, Włodzimierz Gruszczyński, Simor Guriel, Silvia Guriel-Agiashvili, David Guriel, Nizar Habash, Jan Hajič, Jan Hric, Salam Khalifa, Witold Kieraś, Elena Klyachko, Ritesh Kumar, Ritvan Karahodja, Igor Marchenko, Polina Mashkovtseva, Maria Nepomniashchaya, Matvey Plugaryov, Mohit Raj, Shyam Ratan, Daria Rodionova, Maria Ryskina, Zygmunt Saloni, Alexadra Serova, Karina Sheifer, Danuta Skowrońska, Marcin Woliński, Robert Wołosz, Anastasia Yemelina, Jeremiah Young 
 
 
 
