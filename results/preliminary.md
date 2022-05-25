@@ -9,7 +9,9 @@
 | **OSU** | Ohio State University | Micha Elsner, Sara Court |
 | **TüMorph Main, FST** | Eberhard Karls Universität Tübingen | Leander Girrbach, Jingwen Li, Tatiana Merzhevich, Nkonye Gbadegoye, Ryan Soh-Eun Shim |
 | **UBC** | University of British Columbia | Changbing Yang, Ray Yhang, Farhan Samir, Garrett Nicolai, Miikka Silfverberg |
-" **UMelb** | University of Melbourne | Andreas Shcherbakov |
+| **UMelb** *| University of Melbourne | Andreas Shcherbakov |
+
+* UMelb is a non-neural submission
 
 Baseline systems are identical to the 2021 iteration of the shared task. Neural Base was a SOTA system when originally deployed.
 
