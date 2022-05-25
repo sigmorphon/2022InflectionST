@@ -9,6 +9,7 @@
 | **OSU** | Ohio State University | Micha Elsner, Sara Court |
 | **TüMorph Main, FST** | Eberhard Karls Universität Tübingen | Leander Girrbach, Jingwen Li, Tatiana Merzhevich, Nkonye Gbadegoye, Ryan Soh-Eun Shim |
 | **UBC** | University of British Columbia | Changbing Yang, Ray Yhang, Farhan Samir, Garrett Nicolai, Miikka Silfverberg |
+" **UMelb** | University of Melbourne | Andreas Shcherbakov |
 
 Baseline systems are identical to the 2021 iteration of the shared task. Neural Base was a SOTA system when originally deployed.
 
@@ -50,6 +51,7 @@ Full Submissions
 |---|---|---|---|---|---|
 | **CLUZH** | 56.871 | 77.308 | 31.269 | **77.966** * | 43.255 |
 | **UBC** | **74.759** | **81.636** | **72.912** | 77.535 | **70.874** |
+| **UMelb** | 34.406 | 59.503 | 6.39 | 61.616 | 14.562 |
 | *Neural Base* | 47.626 | 65.027 | 24.929 | 66.539 | 35.601 |
 | *NonNeur Base* | 33.321 | 58.475 | 5.566 | 59.969 | 14.431 |
 
@@ -243,6 +245,7 @@ Partial Submissions
 | **CLUZH** | **67.853** | **90.991** | 41.425 | **87.171** | **60.3** |
 | **OSU** | 46.734 | 89.565 | 4.843 | 85.308 | 16.768 |
 | **TüMorph Main** | 57.627 | 77.995 | 34.916 | 76.009 | 48.72 |
+| **UMelb** | 38.243 | 66.846 | 4.985 | 73.007 | 21.337 |
 | *Neural Base* | 62.391 | 80.462 | **42.166** | 77.627 | 55.563 |
 | *NonNeur Base* | 37.583 | 67.434 | 4.843 | 72.283 | 16.768 |
 
