@@ -7,19 +7,21 @@ def read_dir(datadir, split, language):
     return {fname.split(".")[0]:join(datadir,fname) for fname in sorted(listdir(datadir)) if ("."+split in fname and language in fname)}
 
 
-def read_train(trainfname):
+def read_train(trainfname, pos):
     trainlemmas = set()
     trainfeats = set()
     trainpairs = set()
     with open(trainfname, "r") as ftrain:
         for line in ftrain:
             lemma, infl, feats = line.split("\t")
+            if pos.strip() and pos not in feats.split(";"):
+                continue
             trainlemmas.add(lemma.strip())
             trainfeats.add(feats.strip())
             trainpairs.add((lemma.strip(), feats.strip()))
     return trainlemmas, trainfeats, trainpairs
 
-def read_eval(evalfname):
+def read_eval(evalfname, pos):
     evallemmas = []
     evalinfls = []
     evalfeats = []
@@ -28,6 +30,8 @@ def read_eval(evalfname):
             if not line.strip():
                 continue
             lemma, infl, feats = line.split("\t")
+            if pos.strip() and pos not in feats.split(";"):
+                continue
             evallemmas.append(lemma.strip())
             evalinfls.append(infl.strip())
             evalfeats.append(feats.strip())
@@ -42,11 +46,11 @@ def get_acc(preds):
 
 
 
-def evaluate(lang, predfname, trainfname, evalfname):
+def evaluate(lang, predfname, trainfname, evalfname, pos):
 
-    trainlemmas, trainfeats, trainpairs = read_train(trainfname)
-    evallemmas, evalinfls, evalfeats = read_eval(evalfname)
-    predlemmas, predinfls, predfeats = read_eval(predfname)
+    trainlemmas, trainfeats, trainpairs = read_train(trainfname, pos)
+    evallemmas, evalinfls, evalfeats = read_eval(evalfname, pos)
+    predlemmas, predinfls, predfeats = read_eval(predfname, pos)
 
     if len(predlemmas) != len(evallemmas):
         print("PREDICTION (%d) AND EVAL (%d) FILES HAVE DIFFERENT LENGTHS. SKIPPING %s..." % (len(predlemmas), len(evallemmas), lang))
@@ -73,7 +77,7 @@ def evaluate(lang, predfname, trainfname, evalfname):
     return total_acc, seenboth_acc,seenlemma_acc, seenfeats_acc, unseen_acc, len(predictions), len(seenboth_preds), len(seenlemma_preds), len(seenfeats_preds), len(unseen_preds), predictions, seenboth_preds,seenlemma_preds, seenfeats_preds, unseen_preds
 
 
-def evaluate_all(predfnames, trainfnames, evalfnames, partitions):
+def evaluate_all(predfnames, trainfnames, evalfnames, partitions, pos):
 
     def rnd(num):
         return round(100*num, 3)
@@ -94,7 +98,7 @@ def evaluate_all(predfnames, trainfnames, evalfnames, partitions):
         try:
             trainfname = trainfnames[lang]
             evalfname = evalfnames[lang.split("_")[0]]
-            total_acc, seenboth_acc, seenlemma_acc, seenfeats_acc, unseen_acc, num_predictions, num_seenboth, num_seenlemma_preds, num_seenfeats_preds, num_unseen_preds, predictions, seenboth_preds, seenlemma_preds, seenfeats_preds, unseen_preds = evaluate(lang, predfname, trainfname, evalfname)
+            total_acc, seenboth_acc, seenlemma_acc, seenfeats_acc, unseen_acc, num_predictions, num_seenboth, num_seenlemma_preds, num_seenfeats_preds, num_unseen_preds, predictions, seenboth_preds, seenlemma_preds, seenfeats_preds, unseen_preds = evaluate(lang, predfname, trainfname, evalfname, pos)
             allpredictions.extend(predictions)
             allpreds_both.extend(seenboth_preds)
             allpreds_lemma.extend(seenlemma_preds)
@@ -138,6 +142,7 @@ if __name__ == "__main__":
     parser.add_argument("--evaltype", type=str, help="evaluate [dev] predictions or [test] predictions", default="test")
     parser.add_argument("--language", nargs="?", type=str, help="Evaluate a specific language. Will run on all languages in preddir if omitted", default="")
     parser.add_argument("--partition", nargs="+", help="List of partitions over which to calculate aggregate scores. Example --partition _large _small", default=[])
+    parser.add_argument("--pos", nargs = "?", help="Only evaluate for a given POS extracted from the tags. Evaluates everything if arg is omitted")
 
     args = parser.parse_args()
 
@@ -149,4 +154,4 @@ if __name__ == "__main__":
     lang_to_trainfname = read_dir(args.datadir, "train", args.language)
     evaltype = evaltype if evaltype == "dev" else "gold"
     lang_to_evalfname = read_dir(args.datadir, evaltype, args.language.split("_")[0])
-    evaluate_all(lang_to_predfname, lang_to_trainfname, lang_to_evalfname, args.partition)
+    evaluate_all(lang_to_predfname, lang_to_trainfname, lang_to_evalfname, args.partition, args.pos)
