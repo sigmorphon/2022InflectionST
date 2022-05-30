@@ -62,7 +62,6 @@ def evaluate(lang, predfname, trainfname, evalfname, pos):
     seenfeats_preds = [pred for pred, lemma, feats in zip(predictions, evallemmas, evalfeats) if (lemma not in trainlemmas and feats in trainfeats)]
     seenboth_preds = [pred for pred, lemma, feats in zip(predictions, evallemmas, evalfeats) if (feats in trainfeats and lemma in trainlemmas)]
     unseen_preds = [pred for pred, lemma, feats in zip(predictions, evallemmas, evalfeats) if (feats not in trainfeats and lemma not in trainlemmas)]
-
     bad_preds = [(pred, lemma, feats) for pred, lemma, feats in zip(predictions, evallemmas, evalfeats) if (lemma, feats) in trainpairs]
     if len(bad_preds) > 0:
         print(len(bad_preds), "(LEMMA, FEATS) IN TRAIN AND EVAL.")# SKIPPING %s" % lang)
@@ -101,6 +100,11 @@ def evaluate_all(predfnames, trainfnames, evalfnames, partitions, pos):
     part_preds_unseen = {part:[] for part in partitions}
 
     for lang, predfname in predfnames.items():
+#        agglutinative = False
+#        for agg in ("ckt", "evn", "kat", "hun", "itl", "krl", "ket", "kaz", "kor", "lud", "khk", "tur", "vep", "sjo"):
+#            agglutinative = agglutinative or agg in lang
+#        if not agglutinative:
+#            continue
         try:
             trainfname = trainfnames[lang]
             evalfname = evalfnames[lang.split("_")[0]]
