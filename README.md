@@ -47,7 +47,7 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 | German, Middle Low | Germanic (Indo-European) | nds | https://github.com/unimorph/gml/ | Jeremiah Young |
 | German, Old High | Germanic (Indo-European) | goh | https://github.com/unimorph/goh/ | Jeremiah Young |
 | Gothic | Germanic (Indo-European) | got | https://github.com/unimorph/got/ | Jeremiah Young |
-| Gujarati | Indic (Indo-European) | guj | https://github.com/unimorph/got/ | Aryaman Arora, Khuyaagbaatar Batsuren |
+| Gujarati | Indic (Indo-European) | guj | https://github.com/unimorph/guj/ | Aryaman Arora, Khuyaagbaatar Batsuren |
 | Hebrew | Semitic (Afro-Asiatic) | heb | https://github.com/unimorph/heb/ | Omer Goldman |
 | Hungarian | Ugric (Uralic) | hun | https://github.com/unimorph/hun/ | Judit Ács, Khuyagbaatar Batsuren, Gábor Bella, Ryan Cotterell, Christo Kirov |
 | Itelmen | Chukotko-Kamchatkan | itl | https://github.com/unimorph/itl/ | Karina Sheifer, Sofya Ganieva, Matvey Plugaryov |
@@ -72,7 +72,7 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 |---|---|---|---|---|
 | Armenian | Indo-European | hye | https://github.com/unimorph/hye/ | Hossep Dolatian, Khuyagbaatar Batsuren, Ryan Cotterell |
 | Kazakh | Turkic | kaz | https://github.com/unimorph/kaz/ | Eleanor Chodroff, Khuyagbaatar Batsuren |
-| Lamahalot | Austronesian | slp |  | Yustinus Ghanggo Ate |
+| Lamahalot | Austronesian | slp | https://github.com/unimorph/slp  | Yustinus Ghanggo Ate |
 
 ### Timeline
 
