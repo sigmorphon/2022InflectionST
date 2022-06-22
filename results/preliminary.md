@@ -8,7 +8,7 @@
 | **HeiMorph** | Heinrich-Heine-Universität Düsseldorf | Akhilesh Kakolu Ramarao, Yulia Zinova, Kevin Tang, Ruben van de Vijver |
 | **OSU** | Ohio State University | Micha Elsner, Sara Court |
 | **TüMorph Main, FST** | Eberhard Karls Universität Tübingen | Leander Girrbach, Jingwen Li, Tatiana Merzhevich, Nkonye Gbadegoye, Ryan Soh-Eun Shim |
-| **UBC** | University of British Columbia | Changbing Yang, Ray Yhang, Farhan Samir, Garrett Nicolai, Miikka Silfverberg |
+| **UBC** | University of British Columbia | Changbing Yang, Ray Yang, Farhan Samir, Garrett Nicolai, Miikka Silfverberg |
 | **UMelb** *| University of Melbourne | Andreas Shcherbakov |
 
 * UMelb is a non-neural submission
