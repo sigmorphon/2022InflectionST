@@ -1,9 +1,9 @@
 փտել	չփտեցին	V;IND;PL;3;NEG;PST
 եպերել	եպերեմ	V;SBJV;SG;1;FUT
-վայրկենաչափ	վայրկենաչափերին	N;DAT;DEF;PL
+վայրկենաչափ	վայրկենաչափներին	N;DAT;DEF;PL
 արեւելք	արեւելքից	N;ABL;SG
 խռմփացնել	խռմփացնում են	V;IND;PL;3;PRS
-գուն	գուներում	N;LOC;PL
+գուն	գուններում	N;LOC;PL
 արդուկել	չարդուկող	V;V.PTCP;SUB;NEG
 խռթալ	չենք խռթալու	V;IND;PL;1;NEG;FUT
 տկլոր	տկլորներիս	ADJ;DAT;PL;PSS1S
@@ -12,7 +12,7 @@
 երդվյալ	երդվյալիս	N;DAT;SG;PSS1S
 մնացյալ	մնացյալի	ADJ;DAT;SG
 ընթերցում	ընթերցումներս	N;NOM;PL;PSS1S
-թթենի	թթենով	N;INS;SG
+թթենի	թթենիով	N;INS;SG
 աննպաստ	աննպաստի	ADJ;DAT;SG
 արկանել	չի արկանել	V;PRF;IND;SG;3;NEG;PRS
 պոլոճիկ	պոլոճիկներովդ	N;INS;PL;PSS2S
@@ -31,7 +31,7 @@
 բարեկամություն	բարեկամություններում	N;LOC;PL
 ազդվել	կազդվեք	V;COND;PL;2;FUT
 ածք	ածքերը	N;NOM;DEF;PL
-հարսնացնել	հարսնացնվել	V;PASS
+հարսնացնել	հարսնացվել	V;PASS
 լեհերեն	լեհերենումս	N;LOC;SG;PSS1S
 ժանգ	ժանգեր	N;NOM;PL
 շրջվել	շրջվում է	V;IND;SG;3;PRS
@@ -78,7 +78,7 @@
 հորդել	հորդեինք	V;PRF;SBJV;PL;1;FUT
 չաղանալ	չաղացել էիք	V;PRF;IND;PL;2;PST
 բուսնել	չէիք բուսնելու	V;PRF;IND;PL;2;NEG;FUT
-ընդոստնել	չես ընդոստնել	V;PRF;IND;SG;2;NEG;PRS
+ընդոստնել	չես էնդոստնել	V;PRF;IND;SG;2;NEG;PRS
 լքյալ	լքյալի	ADJ;DAT;SG
 բանալ	չբանաք	V;SBJV;PL;2;NEG;FUT
 հարսնանալ	հարսնացե՛ք	V;IMP;PL;2
@@ -93,7 +93,7 @@
 ներքինանալ	ներքինանալու	V.CVB;FUT;LGSPEC02
 ծովախորշ	ծովախորշումս	N;LOC;SG;PSS1S
 զայրուց	զայրուցների	N;DAT;PL
-արգելել	չի արգելել	V;PRF;IND;SG;3;NEG;PRS
+արգելել	չի արգել	V;PRF;IND;SG;3;NEG;PRS
 յուղալավաշ	յուղալավաշիդ	N;DAT;SG;PSS2S
 ուռենի	ուռենիովս	N;INS;SG;PSS1S
 մարտնչել	կմարտնչի	V;COND;SG;3;FUT
@@ -129,23 +129,23 @@
 տեսարան	տեսարաններին	N;DAT;DEF;PL
 օդատեսիլ	օդատեսիլ	N;NOM;SG
 գահասրահ	գահասրահներում	N;LOC;PL
-սեւ	սեւերով	ADJ;INS;PL
+սեւ	սեւներով	ADJ;INS;PL
 քյամանչա	քյամանչայիս	N;DAT;SG;PSS1S
 առեղ	առեղովս	N;INS;SG;PSS1S
-սորալ	չի սորա	V;COND;SG;3;NEG;FUT
+սորալ	չի սորայի	V;COND;SG;3;NEG;FUT
 ուսանել	չեմ ուսանել	V;PRF;IND;SG;1;NEG;PRS
 հորեղբայր	հորեղբայրովս	N;INS;SG;PSS1S
 փարթամություն	փարթամություններում	N;LOC;PL
 խթանել	չէիր խթանելու	V;PRF;IND;SG;2;NEG;FUT
 թերասնում	թերասնումիդ	N;DAT;SG;PSS2S
-որբություն	որբությանդ	N;DAT;SG;PSS2S
+որբություն	որբությանիդ	N;DAT;SG;PSS2S
 ապահովանալ	չես ապահովանա	V;COND;SG;2;NEG;FUT
 բառարան	բառարանները	N;NOM;DEF;PL
 կերտել	կերտեմ	V;SBJV;SG;1;FUT
 ալեւոր	ալեւորիս	N;DAT;SG;PSS1S
 չափահաս	չափահասից	N;ABL;SG
 մացառուտ	մացառուտումդ	N;LOC;SG;PSS2S
-տրամաչափ	տրամաչափներս	N;NOM;PL;PSS1S
+տրամաչափ	տրամաչափերս	N;NOM;PL;PSS1S
 ուժգին	ուժգինը	ADJ;NOM;DEF;SG
 ապացուցել	չէիք ապացուցել	V;PRF;IND;PL;2;NEG;PST
 բնագիր	բնագիրումս	N;LOC;SG;PSS1S
@@ -159,10 +159,10 @@
 համեղ	համեղների	ADJ;DAT;PL
 աղբանոց	աղբանոցներիդ	N;DAT;PL;PSS2S
 շամփուր	շամփուրումս	N;LOC;SG;PSS1S
-ուզենալ	չուզեցան	V;IND;PL;3;NEG;PST
+ուզենալ	չուզենացին	V;IND;PL;3;NEG;PST
 ներկայացնել	ներկայացնել եք	V;PRF;IND;PL;2;PRS
 մեղմ	մեղմի	ADJ;DAT;SG
-կապտուկ	կապտկներին	N;DAT;DEF;PL
+կապտուկ	կապտուկներին	N;DAT;DEF;PL
 ծնկոսկր	ծնկոսկրից	N;ABL;SG
 քարփիջ	քարփիջով	N;INS;SG
 սամարիում	սամարիումումդ	N;LOC;SG;PSS2S
@@ -190,7 +190,7 @@
 հուսահատեցնել	հուսահատեցնեմ	V;SBJV;SG;1;FUT
 վաճառել	վաճառեցիր	V;IND;SG;2;PST
 կոճկեն	կոճկեններով	ADJ;INS;PL
-թթու	թթում	ADJ;LOC;PL
+թթու	թթուներում	ADJ;LOC;PL
 ապաշխարել	չեն ապաշխարելու	V;IND;PL;3;NEG;FUT
 էակ	էակից	N;ABL;SG
 հայտնագործություն	հայտնագործությունումդ	N;LOC;SG;PSS2S
@@ -226,7 +226,7 @@
 կարծր	կարծրներովդ	ADJ;INS;PL;PSS2S
 մարթել	մարթելու էի	V;PRF;IND;SG;1;FUT
 ստինք	ստինքները	N;NOM;DEF;PL
-ֆունտ_ստերլինգ	ֆունտ ստերլինգներիդ	N;DAT;PL;PSS2S
+ֆունտ ստերլինգ	ֆունտ ստերլինգ	N;DAT;PL;PSS2S
 հնձան	հնձան	N;NOM;SG
 դեղոտ	դեղոտիս	ADJ;DAT;SG;PSS1S
 արեւադարձ	արևադարձիդ	N;DAT;SG;PSS2S
@@ -242,7 +242,7 @@
 պերճ	պերճս	ADJ;NOM;SG;PSS1S
 արարք	արարքովս	N;INS;SG;PSS1S
 խռմփալ	խռմփալու էի	V;PRF;IND;SG;1;FUT
-արագ	արագներով	ADJ;INS;PL
+արագ	արագերով	ADJ;INS;PL
 նպաստ	նպաստներիցս	N;ABL;PL;PSS1S
 հատ	հատերիցս	N;ABL;PL;PSS1S
 կենտրոն	կենտրոններիցս	N;ABL;PL;PSS1S
@@ -279,7 +279,7 @@
 աջակցել	չէր աջակցում	V;IPFV;IND;SG;3;NEG
 ֆոսֆոր	ֆոսֆորումս	N;LOC;SG;PSS1S
 բեկտել	բեկտել էր	V;PRF;IND;SG;3;PST
-փենջաբի	փենջաբիիդ	N;DAT;SG;PSS2S
+փենջաբի	փենջաբիդ	N;DAT;SG;PSS2S
 հալել	կհալի	V;COND;SG;3;FUT
 տարամիտել	չտարամիտես	V;SBJV;SG;2;NEG;FUT
 հեյզեր	հեյզեր	N;NOM;SG
@@ -313,12 +313,12 @@
 մոռացոնք	մոռացոնքից	N;ABL;SG
 քցել	չքցեի	V;PRF;SBJV;SG;1;NEG;FUT
 միտ	միտով	N;INS;SG
-ջղայնացնել	ջղայնացնելիք	V.CVB;FUT;LGSPEC03
+ջղայնացնել	ջղայնացնելու	V.CVB;FUT;LGSPEC03
 քրտնել	քրտնում եք	V;IND;PL;2;PRS
 աշխատակազմ	աշխատակազմներիս	N;DAT;PL;PSS1S
 ստախոս	ստախոսներովդ	ADJ;INS;PL;PSS2S
 խածատել	չխածատեին	V;PRF;SBJV;PL;3;NEG;FUT
-կետչուպ	կետչուպներովդ	N;INS;PL;PSS2S
+կետչուպ	կետչուպերովդ	N;INS;PL;PSS2S
 առերեսում	առերեսումներովդ	N;INS;PL;PSS2S
 ագրեսիվ	ագրեսիվների	ADJ;DAT;PL
 ղսմաթ	ղսմաթումս	N;LOC;SG;PSS1S
@@ -332,14 +332,14 @@
 կթել	կկթեիր	V;PRF;COND;SG;2;FUT
 անհրաժեշտ	անհրաժեշտներից	ADJ;ABL;PL
 խղճալ	խղճալու էինք	V;PRF;IND;PL;1;FUT
-բաղձալ	չենք բաղձալ	V;PRF;IND;PL;1;NEG;PRS
+բաղձալ	չենք բաղձացել	V;PRF;IND;PL;1;NEG;PRS
 զով	զովումդ	N;LOC;SG;PSS2S
 կանոն	կանոն	N;NOM;SG
 երասան	երասաններ	N;NOM;PL
 առաջավոր	առաջավորումդ	ADJ;LOC;SG;PSS2S
 ծաղկաման	ծաղկաման	N;NOM;SG
 գոյանալ	չէիք գոյանալու	V;PRF;IND;PL;2;NEG;FUT
-կենսագրություն	կենսագրությանդ	N;DAT;SG;PSS2S
+կենսագրություն	կենսագրությանս	N;DAT;SG;PSS2S
 զեռալ	չես զեռալու	V;IND;SG;2;NEG;FUT
 խուզել	խուզելու	V.CVB;FUT;LGSPEC02
 պարտատոմս	պարտատոմսիդ	N;DAT;SG;PSS2S
@@ -355,7 +355,7 @@
 հյուսն	հյուսններիցս	N;ABL;PL;PSS1S
 զգուշացում	զգուշացումով	N;INS;SG
 թլփատել	չենք թլփատել	V;PRF;IND;PL;1;NEG;PRS
-փայլունանալ	չէիր փայլունացել	V;PRF;IND;SG;2;NEG;PST
+փայլունանալ	չէիր փայլունալ	V;PRF;IND;SG;2;NEG;PST
 ծավի	ծավիովդ	ADJ;INS;SG;PSS2S
 որջ	որջերիս	N;DAT;PL;PSS1S
 էտել	էտում եք	V;IND;PL;2;PRS
@@ -386,7 +386,7 @@
 պագել	չենք պագի	V;COND;PL;1;NEG;FUT
 կոշկակար	կոշկակարով	N;INS;SG
 սպունգ	սպունգիդ	N;DAT;SG;PSS2S
-մերձենալ	չես մերձեցել	V;PRF;IND;SG;2;NEG;PRS
+մերձենալ	չես մերձենալ	V;PRF;IND;SG;2;NEG;PRS
 լքնել	չէր լքնելու	V;PRF;IND;SG;3;NEG;FUT
 զեռալ	զեռացել ես	V;PRF;IND;SG;2;PRS
 վեհ	վեհիս	ADJ;DAT;SG;PSS1S
@@ -405,7 +405,7 @@
 աղոթել	չաղոթեցինք	V;IND;PL;1;NEG;PST
 բանեցնել	չէր բանեցնելու	V;PRF;IND;SG;3;NEG;FUT
 ոստնել	կոստնեին	V;PRF;COND;PL;3;FUT
-մահկանացու	մահկանացուիս	N;DAT;SG;PSS1S
+մահկանացու	մահկանացուս	N;DAT;SG;PSS1S
 խրթել	չէիք խրթել	V;PRF;IND;PL;2;NEG;PST
 էջ	էջերովս	N;INS;PL;PSS1S
 խեթկել	չենք խեթկում	V;IND;PL;1;NEG;PRS
@@ -433,7 +433,7 @@
 մարդաշատ	մարդաշատովդ	ADJ;INS;SG;PSS2S
 կոպեկ	կոպեկներիցս	N;ABL;PL;PSS1S
 կարմրել	կարմրել էի	V;PRF;IND;SG;1;PST
-տեղի	տեղիերում	N;LOC;PL
+տեղի	տեղիներում	N;LOC;PL
 խոպոպացվել	չեն խոպոպացվել	V;PRF;IND;PL;3;NEG;PRS
 գեջ	գեջերի	ADJ;DAT;PL
 եզակի	եզակիներից	ADJ;ABL;PL
@@ -443,14 +443,14 @@
 վոլֆրամ	վոլֆրամներում	N;LOC;PL
 ճողոպրել	չճողոպրես	V;SBJV;SG;2;NEG;FUT
 տարմահավ	տարմահավից	N;ABL;SG
-քաղդեացի	քաղդեացուց	N;ABL;SG
+քաղդեացի	քաղդեացիից	N;ABL;SG
 նքողակ	նքողակների	N;DAT;PL
 խնչել	խնչեինք	V;PRF;SBJV;PL;1;FUT
 կցել	չի կցի	V;COND;SG;3;NEG;FUT
 ճանդարի	ճանդարիներին	N;DAT;DEF;PL
 սուզել	սուզելու էիք	V;PRF;IND;PL;2;FUT
 երաշխավորում	երաշխավորումներում	N;LOC;PL
-խորհ	խորհների	N;DAT;PL
+խորհ	խորհերի	N;DAT;PL
 սարյակ	սարյակներիդ	N;DAT;PL;PSS2S
 երաժշտություն	երաժշտությունները	N;NOM;DEF;PL
 նավահանգիստ	նավահանգիստումս	N;LOC;SG;PSS1S
@@ -479,8 +479,8 @@
 հանրագիտարան	հանրագիտարանիս	N;DAT;SG;PSS1S
 կալել	կկալի	V;COND;SG;3;FUT
 գրադարձել	գրադարձել էր	V;PRF;IND;SG;3;PST
-ձելկվա_բոխատերեւ	ձելկվա բոխատերեները	N;NOM;DEF;PL
-ֆունտ_ստերլինգ	ֆունտ ստերլինգներիս	N;DAT;PL;PSS1S
+ձելկվա բոխատերեւ	ձելկվա բոխատերեւ	N;NOM;DEF;PL
+ֆունտ ստերլինգ	ֆունտ ստերլինգներիս	N;DAT;PL;PSS1S
 ցարական	ցարական	ADJ;NOM;SG
 տգետ	տգետովդ	ADJ;INS;SG;PSS2S
 շնորհ	շնորհներում	N;LOC;PL
@@ -510,10 +510,10 @@
 հարգել	չհարգեցիք	V;IND;PL;2;NEG;PST
 ստրկացնել	չէիք ստրկացնելու	V;PRF;IND;PL;2;NEG;FUT
 ուկրաինական	ուկրաինականի	ADJ;DAT;SG
-հին_անգլերեն	հինեանգլերենումդ	ADJ;LOC;SG;PSS2S
+հին անգլերեն	հին անգլերենումդ	ADJ;LOC;SG;PSS2S
 առակ	առակումդ	N;LOC;SG;PSS2S
 ծղոտե	ծղոտեներով	ADJ;INS;PL
-ջին	ջիներովս	N;INS;PL;PSS1S
+ջին	ջիններովս	N;INS;PL;PSS1S
 երկայնք	երկայնքներ	N;NOM;PL
 անհատ	անհատներիցս	N;ABL;PL;PSS1S
 գանգրվել	չգանգրվեին	V;PRF;SBJV;PL;3;NEG;FUT
@@ -562,30 +562,30 @@
 տանուտեր	տանուտերներս	N;NOM;PL;PSS1S
 հիրել	կհիրեին	V;PRF;COND;PL;3;FUT
 ածք	ածք	N;NOM;SG
-պատանեկիկ	պատանեկնոջիդ	N;DAT;SG;PSS2S
+պատանեկիկ	պատանեկիկիդ	N;DAT;SG;PSS2S
 ծայրահեղական	ծայրահեղական	ADJ;NOM;SG
 սպանել	սպանեիք	V;PRF;SBJV;PL;2;FUT
-բեկանել	չենք բեկանել	V;PRF;IND;PL;1;NEG;PRS
+բեկանել	չենք բեկացել	V;PRF;IND;PL;1;NEG;PRS
 հավաքույթ	հավաքույթներին	N;DAT;DEF;PL
 գերդաստան	գերդաստանումդ	N;LOC;SG;PSS2S
 ցուցանել	չցուցանեցինք	V;IND;PL;1;NEG;PST
 քաք	քաքից	N;ABL;SG
-ծուլանալ	ծուլացել էի	V;PRF;IND;SG;1;PST
+ծուլանալ	ծուլանացել էի	V;PRF;IND;SG;1;PST
 սկեսուր	սկեսուրիս	N;DAT;SG;PSS1S
 ամբոխ	ամբոխներիս	N;DAT;PL;PSS1S
-աբսուրդ	աբսուրդը	ADJ;NOM;DEF;SG
+աբսուրդ	աբսուրդ	ADJ;NOM;DEF;SG
 կոռներեն	կոռներենների	ADJ;DAT;PL
 մատենագիտություն	մատենագիտություններին	N;DAT;DEF;PL
 խնծիղ	խնծիղ	N;NOM;SG
 արմանալ	արմացել եմ	V;PRF;IND;SG;1;PRS
 ողջույն	ողջույններին	N;DAT;DEF;PL
-արգավանդ	արգավանդս	ADJ;NOM;SG;PSS1S
+արգավանդ	արգավանդ	ADJ;NOM;SG;PSS1S
 տերբիում	տերբիումիդ	N;DAT;SG;PSS2S
 սադրել	սադրելու	V.CVB;FUT;LGSPEC02
 կքել	չէի կքելու	V;PRF;IND;SG;1;NEG;FUT
 ափսե	ափսեներս	N;NOM;PL;PSS1S
 աջակցել	աջակցել ես	V;PRF;IND;SG;2;PRS
-հաղարջենի	հաղարջենուդ	N;DAT;SG;PSS2S
+հաղարջենի	հաղարջենիդ	N;DAT;SG;PSS2S
 հոյաշեն	հոյաշեններիս	ADJ;DAT;PL;PSS1S
 շահավետ	շահավետներիս	ADJ;DAT;PL;PSS1S
 մոխիր	մոխիրումդ	N;LOC;SG;PSS2S
@@ -619,7 +619,7 @@
 կորել	չենք կորել	V;PRF;IND;PL;1;NEG;PRS
 բադմինտոն	բադմինտոնից	N;ABL;SG
 կիրառվել	կիրառվելու էի	V;PRF;IND;SG;1;FUT
-էղնել	չէր էղնելու	V;PRF;IND;SG;3;NEG;FUT
+էղնել	չէր էղելու	V;PRF;IND;SG;3;NEG;FUT
 վարսակաշիլա	վարսակաշիլաներովդ	N;INS;PL;PSS2S
 արձագանքել	չէի արձագանքում	V;IPFV;IND;SG;1;NEG
 ալեբաստրե	ալեբաստրեումդ	ADJ;LOC;SG;PSS2S
@@ -642,9 +642,9 @@
 փչանալ	չէիր փչացել	V;PRF;IND;SG;2;NEG;PST
 վուվուզելա	վուվուզելաներին	N;DAT;DEF;PL
 հատուցել	չէինք հատուցի	V;PRF;COND;PL;1;NEG;FUT
-եղծանել	եղծանվել	V;PASS
+եղծանել	եղծանել	V;PASS
 իտալական	իտալականը	ADJ;NOM;DEF;SG
-տոհմածառ	տոհմածառներս	N;NOM;PL;PSS1S
+տոհմածառ	տոհմածառերս	N;NOM;PL;PSS1S
 բդկել	չբդկեիր	V;PRF;SBJV;SG;2;NEG;FUT
 տունդրա	տունդրաներովս	N;INS;PL;PSS1S
 ֆիլիպինական	ֆիլիպինականը	ADJ;NOM;DEF;SG
@@ -656,7 +656,7 @@
 կոնֆետ	կոնֆետիդ	N;DAT;SG;PSS2S
 ընկղմել	չընկղմած	V.PTCP;NEG;LGSPEC01
 կաշառել	չէի կաշառում	V;IPFV;IND;SG;1;NEG
-բլբլալ	չեն բլբլալ	V;PRF;IND;PL;3;NEG;PRS
+բլբլալ	չեն բլբլացել	V;PRF;IND;PL;3;NEG;PRS
 խոթություն	խոթությունից	N;ABL;SG
 ուրանալ	չէր ուրանում	V;IPFV;IND;SG;3;NEG
 բառգիրք	բառգիրքներովդ	N;INS;PL;PSS2S
@@ -680,7 +680,7 @@
 բաժանվել	բաժանվեմ	V;SBJV;SG;1;FUT
 դիվերգենցիա	դիվերգենցիա	N;NOM;SG
 դատապարտել	չենք դատապարտել	V;PRF;IND;PL;1;NEG;PRS
-գիտակարգ	գիտակարգներովս	N;INS;PL;PSS1S
+գիտակարգ	գիտակարգերովս	N;INS;PL;PSS1S
 բնորոշել	չէիք բնորոշելու	V;PRF;IND;PL;2;NEG;FUT
 խնկել	չխնկեցին	V;IND;PL;3;NEG;PST
 տորթ	տորթովս	N;INS;SG;PSS1S
@@ -688,22 +688,22 @@
 ծավալ	ծավալիս	N;DAT;SG;PSS1S
 բրիչ	բրիչումս	N;LOC;SG;PSS1S
 ջրեղեն	ջրեղենիդ	N;DAT;SG;PSS2S
-ընկճել	ընկճվել	V;PASS
+ընկճել	ընկճել	V;PASS
 հեղեղել	չէիր հեղեղել	V;PRF;IND;SG;2;NEG;PST
-արեւելահայերեն	արեւելահայերենովս	N;INS;SG;PSS1S
+արեւելահայերեն	արևելահայերենովս	N;INS;SG;PSS1S
 ծովատառեխ	ծովատառեխով	N;INS;SG
 դողալ	կդողայինք	V;PRF;COND;PL;1;FUT
 մանվածք	մանվածքներին	N;DAT;DEF;PL
 շրջվել	չէր շրջվում	V;IPFV;IND;SG;3;NEG
 քյանդրբազություն	քյանդրբազություններում	N;LOC;PL
 անարխիզմ	անարխիզմիդ	N;DAT;SG;PSS2S
-սփռել	կսփռենք	V;COND;PL;1;FUT
+սփռել	կսփռինք	V;COND;PL;1;FUT
 յոգուրտ	յոգուրտներ	N;NOM;PL
 անձնյա	անձնյայիս	ADJ;DAT;SG;PSS1S
 ապստամբել	չապստամբեիր	V;PRF;SBJV;SG;2;NEG;FUT
 գեղեցիկ	գեղեցիկումդ	ADJ;LOC;SG;PSS2S
 իռլանդերեն	իռլանդերենների	ADJ;DAT;PL
-թաքցնել	թաքցնել էի	V;PRF;IND;SG;1;PST
+թաքցնել	թաքցել էի	V;PRF;IND;SG;1;PST
 պոլիմեր	պոլիմերներին	N;DAT;DEF;PL
 վերջին	վերջինների	ADJ;DAT;PL
 հասցնել	կհասցնեք	V;COND;PL;2;FUT
@@ -712,7 +712,7 @@
 որբություն	որբությունները	N;NOM;DEF;PL
 գոհանալ	գոհանում է	V;IND;SG;3;PRS
 թքել	չէիր թքում	V;IPFV;IND;SG;2;NEG
-դիել	չէիր դիի	V;PRF;COND;SG;2;NEG;FUT
+դիել	չէիր դի	V;PRF;COND;SG;2;NEG;FUT
 կարեկցել	կարեկցելու էի	V;PRF;IND;SG;1;FUT
 կապտուկ	կապտուկներս	N;NOM;PL;PSS1S
 լոլիկ	լոլիկումս	N;LOC;SG;PSS1S
@@ -725,7 +725,7 @@
 ընձուղտ	ընձուղտներիս	N;DAT;PL;PSS1S
 ստվարագլուխ	ստվարագլուխ	ADJ;NOM;SG
 ենթակառուցվածք	ենթակառուցվածքներում	N;LOC;PL
-կկել	չէի կկում	V;IPFV;IND;SG;1;NEG
+կկել	չէի կկկում	V;IPFV;IND;SG;1;NEG
 վագոն	վագոնովս	N;INS;SG;PSS1S
 շրջվել	չեք շրջվելու	V;IND;PL;2;NEG;FUT
 միջակետ	միջակետներ	N;NOM;PL
@@ -738,7 +738,7 @@
 հյուրանոց	հյուրանոցներիցս	N;ABL;PL;PSS1S
 մայտներիում	մայտներիումումս	N;LOC;SG;PSS1S
 ործկալ	չէիր ործկա	V;PRF;COND;SG;2;NEG;FUT
-ռեակցիա	ռեակցիայումդ	N;LOC;SG;PSS2S
+ռեակցիա	ռեակցիաումդ	N;LOC;SG;PSS2S
 կանխամտածվել	կանխամտածվեմ	V;SBJV;SG;1;FUT
 քորել	չէիք քորելու	V;PRF;IND;PL;2;NEG;FUT
 հատել	չի հատի	V;COND;SG;3;NEG;FUT
@@ -748,18 +748,18 @@
 անթեղ	անթեղ	N;NOM;SG
 պարույկ	պարույկներ	N;NOM;PL
 լատիներեն	լատիներեններիս	ADJ;DAT;PL;PSS1S
-անթացուպ	անթացուպները	N;NOM;DEF;PL
+անթացուպ	անթացուպերը	N;NOM;DEF;PL
 նպաստել	նպաստող	V;V.PTCP;SUB
 արհամարհել	չենք արհամարհի	V;COND;PL;1;NEG;FUT
 խուլիգան	խուլիգանիս	N;DAT;SG;PSS1S
 բոպիկ	բոպիկը	ADJ;NOM;DEF;SG
 թուրմ	թուրմումս	N;LOC;SG;PSS1S
-հունդ	հունդերիցս	N;ABL;PL;PSS1S
+հունդ	հունդներիցս	N;ABL;PL;PSS1S
 աստղադիտակ	աստղադիտակներիդ	N;DAT;PL;PSS2S
 լերդ	լերդերիս	N;DAT;PL;PSS1S
 աղավաղել	չաղավաղեիր	V;PRF;SBJV;SG;2;NEG;FUT
 աղոթել	աղոթելու էր	V;PRF;IND;SG;3;FUT
-երկայնանալ	երկայնանալիք	V.CVB;FUT;LGSPEC03
+երկայնանալ	երկայնանալու	V.CVB;FUT;LGSPEC03
 հեգնել	կհեգնեին	V;PRF;COND;PL;3;FUT
 եկեղեցական	եկեղեցականովդ	ADJ;INS;SG;PSS2S
 անկարելի	անկարելիներովդ	ADJ;INS;PL;PSS2S
@@ -775,13 +775,13 @@
 կանխամտածվել	չենք կանխամտածվել	V;PRF;IND;PL;1;NEG;PRS
 տռզել	չենք տռզի	V;COND;PL;1;NEG;FUT
 կիսել	կիսեմ	V;SBJV;SG;1;FUT
-քեռի	քեռով	N;INS;SG
+քեռի	քեռիով	N;INS;SG
 կեղտ	կեղտերս	N;NOM;PL;PSS1S
 հայացք	հայացք	N;NOM;SG
 ճկել	չէինք ճկել	V;PRF;IND;PL;1;NEG;PST
 բերիլիում	բերիլիումով	N;INS;SG
 դարպասապահ	դարպասապահ	N;NOM;SG
-սվահիլի	սվահիլիիդ	N;DAT;SG;PSS2S
+սվահիլի	սվահիլիդ	N;DAT;SG;PSS2S
 շրջվել	չշրջվող	V;V.PTCP;SUB;NEG
 մայիսյան	մայիսյանս	ADJ;NOM;SG;PSS1S
 տժվժիկ	տժվժիկներիս	N;DAT;PL;PSS1S
@@ -794,7 +794,7 @@
 թրջել	չի թրջել	V;PRF;IND;SG;3;NEG;PRS
 մանգան	մանգանումդ	N;LOC;SG;PSS2S
 լեպտոն	լեպտոնով	N;INS;SG
-կենտ	կենտերիցս	N;ABL;PL;PSS1S
+կենտ	կենտներիցս	N;ABL;PL;PSS1S
 գանգրացնել	չէր գանգրացնելու	V;PRF;IND;SG;3;NEG;FUT
 մազդեզն	մազդեզններ	N;NOM;PL
 գանդոն	գանդոններիս	N;DAT;PL;PSS1S
@@ -821,7 +821,7 @@
 չեզոք	չեզոքի	ADJ;DAT;SG
 վաճառասեղան	վաճառասեղանների	N;DAT;PL
 երկանք	երկանքների	N;DAT;PL
-բարեւել	չէինք բարեւի	V;PRF;COND;PL;1;NEG;FUT
+բարեւել	չէինք բարի	V;PRF;COND;PL;1;NEG;FUT
 կռնչալ	կռնչալու էիք	V;PRF;IND;PL;2;FUT
 հավասար	հավասարների	ADJ;DAT;PL
 ինքնահավանել	չէիք ինքնահավանելու	V;PRF;IND;PL;2;NEG;FUT
@@ -829,8 +829,8 @@
 կիճ	կիճերովս	N;INS;PL;PSS1S
 փոխանակել	չեմ փոխանակել	V;PRF;IND;SG;1;NEG;PRS
 գագաթաժողով	գագաթաժողովներովս	N;INS;PL;PSS1S
-տվյալների_բազա	տվյալներիբազաներում	N;LOC;PL
-կրիա	կրիաով	N;INS;SG
+տվյալների բազա	տվյալների բազաներում	N;LOC;PL
+կրիա	կրիայով	N;INS;SG
 խնձոր	խնձորներիդ	N;DAT;PL;PSS2S
 կատալիզատոր	կատալիզատորով	N;INS;SG
 փրփրել	փրփրեցին	V;IND;PL;3;PST
@@ -843,8 +843,8 @@
 ծառայել	չծառայեի	V;PRF;SBJV;SG;1;NEG;FUT
 դակուր	դակուրներում	N;LOC;PL
 կամավոր	կամավորներս	N;NOM;PL;PSS1S
-կոճկել	չեն կոճկե	V;COND;PL;3;NEG;FUT
-ամեոբա	ամեոբայումս	N;LOC;SG;PSS1S
+կոճկել	չեն կոճկի	V;COND;PL;3;NEG;FUT
+ամեոբա	ամեոբաումս	N;LOC;SG;PSS1S
 շնագայլ	շնագայլ	N;NOM;SG
 սովորել	չէիր սովորում	V;IPFV;IND;SG;2;NEG
 նիդեռլանդական	նիդեռլանդականների	ADJ;DAT;PL
@@ -856,7 +856,7 @@
 վռնդել	չէինք վռնդի	V;PRF;COND;PL;1;NEG;FUT
 անշարժ	անշարժումդ	ADJ;LOC;SG;PSS2S
 նեգր	նեգրներովս	N;INS;PL;PSS1S
-փուլ	փուլերս	N;NOM;PL;PSS1S
+փուլ	փուլներս	N;NOM;PL;PSS1S
 բարձրավանդակ	բարձրավանդակիս	N;DAT;SG;PSS1S
 ցեղ	ցեղերովդ	N;INS;PL;PSS2S
 ոչնչացում	ոչնչացումներում	N;LOC;PL
@@ -882,7 +882,7 @@
 ծոցագրպան	ծոցագրպաններին	N;DAT;DEF;PL
 անուր	անուր	N;NOM;SG
 ճշգրտել	ճշգրտում է	V;IND;SG;3;PRS
-աղիճ	աղիճները	N;NOM;DEF;PL
+աղիճ	աղիճերը	N;NOM;DEF;PL
 ծափահարելի	ծափահարելիս	ADJ;DAT;SG;PSS1S
 կռնակ	կռնակիդ	N;DAT;SG;PSS2S
 առած	առածներովդ	N;INS;PL;PSS2S
@@ -928,7 +928,7 @@
 հարսնաշոր	հարսնաշորներս	N;NOM;PL;PSS1S
 հոլաթեւել	չեմ հոլաթեւել	V;PRF;IND;SG;1;NEG;PRS
 աստղագուշակություն	աստղագուշակությունումդ	N;LOC;SG;PSS2S
-պատատուկ	պատատկներիս	N;DAT;PL;PSS1S
+պատատուկ	պատատուկներիս	N;DAT;PL;PSS1S
 չարաշահել	չեն չարաշահել	V;PRF;IND;PL;3;NEG;PRS
 շեկել	շեկել	N;NOM;SG
 պուլսար	պուլսարներիցս	N;ABL;PL;PSS1S
@@ -936,7 +936,7 @@
 գուղձ	գուղձիդ	N;DAT;SG;PSS2S
 ակնածելի	ակնածելիովդ	ADJ;INS;SG;PSS2S
 համբուրել	չէր համբուրի	V;PRF;COND;SG;3;NEG;FUT
-կոկո	կոկոյումդ	N;LOC;SG;PSS2S
+կոկո	կոկումդ	N;LOC;SG;PSS2S
 իրավազուրկ	իրավազուրկովդ	ADJ;INS;SG;PSS2S
 առու	առուով	N;INS;SG
 մալել	չէր մալում	V;IPFV;IND;SG;3;NEG
@@ -971,8 +971,8 @@
 ձնծաղիկ	ձնծաղիկումս	N;LOC;SG;PSS1S
 սպուտնիկ	սպուտնիկներ	N;NOM;PL
 մաքրել	չես մաքրելու	V;IND;SG;2;NEG;FUT
-վկա	վկաերիս	N;DAT;PL;PSS1S
-ֆինլանդուհի	ֆինլանդուհիցս	N;ABL;PL;PSS1S
+վկա	վկաներիս	N;DAT;PL;PSS1S
+ֆինլանդուհի	ֆինլանդուհիներիցս	N;ABL;PL;PSS1S
 անթարշամ	անթարշամներիցդ	ADJ;ABL;PL;PSS2S
 ընկճել	ընկճե՛ք	V;IMP;PL;2
 մլուկ	մլուկներ	N;NOM;PL
@@ -1015,15 +1015,15 @@
 կարեկցել	չկարեկցի	V;SBJV;SG;3;NEG;FUT
 թոխարերեն	թոխարերենը	N;NOM;DEF;SG
 ռեցենզիա	ռեցենզիաներդ	N;NOM;PL;PSS2S
-կլանել	չկլանեցիր	V;IND;SG;2;NEG;PST
+կլանել	չկլացեցիր	V;IND;SG;2;NEG;PST
 կազմություն	կազմություններդ	N;NOM;PL;PSS2S
 քոր	քորերով	N;INS;PL
-փչել	մի՛ փչեք	V;IMP;PL;2;NEG
+փչել	չփչե՛ք	V;IMP;PL;2;NEG
 հայրանուն	հայրանուններդ	N;NOM;PL;PSS2S
 պարապել	չէինք պարապելու	V;PRF;IND;PL;1;NEG;FUT
 աղբյուս	աղբյուսիցս	N;ABL;SG;PSS1S
-արժեք	արժեքդ	N;NOM;SG;PSS2S
-հրշեջ_պահպանություն	հրշեջ պահպանություններումս	N;LOC;PL;PSS1S
+արժեք	արժեք	N;NOM;SG;PSS2S
+հրշեջ պահպանություն	հրշեջ պահպանություներումս	N;LOC;PL;PSS1S
 հմայել	չհմայենք	V;SBJV;PL;1;NEG;FUT
 ապահովեցնել	չէին ապահովեցնի	V;PRF;COND;PL;3;NEG;FUT
 հատակել	չէինք հատակելու	V;PRF;IND;PL;1;NEG;FUT
@@ -1034,51 +1034,51 @@
 առանցք	առանցքներումդ	N;LOC;PL;PSS2S
 խոպոպիքավոր	խոպոպիքավորումս	ADJ;LOC;SG;PSS1S
 փափկամորթ	փափկամորթիցս	ADJ;ABL;SG;PSS1S
-փչանալ	փչանա	V.CVB;LGSPEC04
+փչանալ	փչանալք	V.CVB;LGSPEC04
 ավետ	ավետիցդ	N;ABL;SG;PSS2S
 ընդգծել	ընդգծել է	V;PRF;IND;SG;3;PRS
 արտաքսել	արտաքսում եմ	V;IND;SG;1;PRS
-երերալ	երերալիս	V.CVB;SIM
+երերալ	երերալք	V.CVB;SIM
 խոնավ	խոնավներս	ADJ;NOM;PL;PSS1S
 փրթել	չփրթենք	V;SBJV;PL;1;NEG;FUT
 համբուրվել	չէինք համբուրվում	V;IPFV;IND;PL;1;NEG
 կրել	չես կրում	V;IND;SG;2;NEG;PRS
 հայրենյաց	հայրենյացից	ADJ;ABL;SG
-հանվել	հանվի	V.CVB;LGSPEC04
+հանվել	հանվելք	V.CVB;LGSPEC04
 հաղբք	հաղբքին	N;DAT;DEF;SG
 սկեսրար	սկեսրարովդ	N;INS;SG;PSS2S
 գոլանալ	չգոլանայիք	V;PRF;SBJV;PL;2;NEG;FUT
 կռվախնձոր	կռվախնձորներից	N;ABL;PL
 թաղանթ	թաղանթներով	N;INS;PL
-արկել	արկեց	V;IND;SG;3;PST
+արկել	արկեցի	V;IND;SG;3;PST
 ներգաղթել	կներգաղթես	V;COND;SG;2;FUT
-քերել	քերել	V;NFIN
+քերել	քերե	V;NFIN
 քայլ	քայլերով	N;INS;PL
-սեզոն	սեզոնդ	N;NOM;SG;PSS2S
+սեզոն	սեզոն	N;NOM;SG;PSS2S
 նախադպրոցական	նախադպրոցականից	ADJ;ABL;SG
 մատչել	չմատչեմ	V;SBJV;SG;1;NEG;FUT
 կուլտուրա	կուլտուրաս	N;NOM;SG;PSS1S
 ահահար	ահահարներ	ADJ;NOM;PL
 անօթեւան	անօթեւանին	N;DAT;DEF;SG
-ձաղել	կձաղեմ	V;COND;SG;1;FUT
+ձաղել	կձաղի	V;COND;SG;1;FUT
 համաձայն	համաձայնները	ADJ;NOM;DEF;PL
 հաղթու	հաղթուիդ	ADJ;DAT;SG;PSS2S
 պոպոք	պոպոքս	N;NOM;SG;PSS1S
 ածեր	ածերս	N;NOM;SG;PSS1S
 հավաքական	հավաքականումս	ADJ;LOC;SG;PSS1S
 երկնչել	չեմ երկնչելու	V;IND;SG;1;NEG;FUT
-եփել	մի՛ եփեք	V;IMP;PL;2;NEG
+եփել	չեփե՛ք	V;IMP;PL;2;NEG
 դասակ	դասակներումդ	N;LOC;PL;PSS2S
 վալիզ	վալիզներումս	N;LOC;PL;PSS1S
-հեղուկ	հեղուկդ	ADJ;NOM;SG;PSS2S
+հեղուկ	հեղուկ	ADJ;NOM;SG;PSS2S
 լիմուզին	լիմուզինդ	N;NOM;SG;PSS2S
 հետամուտ	հետամուտներս	ADJ;NOM;PL;PSS1S
 զխկտել	զխկտեին	V;PRF;SBJV;PL;3;FUT
 պրոլետար	պրոլետարի	N;DAT;SG
 փութացնել	փութացնեն	V;SBJV;PL;3;FUT
-խաղաղություն	խաղաղությունիցդ	N;ABL;SG;PSS2S
+խաղաղություն	խաղաղությանիցդ	N;ABL;SG;PSS2S
 կիզել	կիզես	V;SBJV;SG;2;FUT
-սիրւել	մի՛ սիրւիր	V;IMP;SG;2;NEG
+սիրւել	չսիր սիրւե՛	V;IMP;SG;2;NEG
 ամորձի	ամորձիը	N;NOM;DEF;SG
 մույկ	մույկերիցդ	N;ABL;PL;PSS2S
 ծծակ	ծծակներով	N;INS;PL
@@ -1089,23 +1089,23 @@
 երգիծաբան	երգիծաբանի	N;DAT;SG
 խավարասեր	խավարասերներովս	ADJ;INS;PL;PSS1S
 անորոշություն	անորոշություններումս	N;LOC;PL;PSS1S
-անծանոթ	անծանոթդ	ADJ;NOM;SG;PSS2S
+անծանոթ	անծանոթ	ADJ;NOM;SG;PSS2S
 ծիծաղաշարժ	ծիծաղաշարժից	ADJ;ABL;SG
 ցել	ցելում	N;LOC;SG
 պատվոգիր	պատվոգիրներով	N;INS;PL
 փքել	փքում էիք	V;IPFV;IND;PL;2
 սփոփել	չէին սփոփում	V;IPFV;IND;PL;3;NEG
-վհատեցնել	չվհատեցնել	V;NFIN;NEG
+վհատեցնել	չեն վհատեցնել	V;NFIN;NEG
 կալնել	կալնում ես	V;IND;SG;2;PRS
 սլովակերեն	սլովակերենդ	N;NOM;SG;PSS2S
 մարգարեություն	մարգարեությունը	N;NOM;DEF;SG
 ջերմ	ջերմով	ADJ;INS;SG
-զարթնել	զարթնում էի	V;IPFV;IND;SG;1
+զարթնել	զարթնում	V;IPFV;IND;SG;1
 յոդ	յոդիցս	N;ABL;SG;PSS1S
 զուգարան	զուգարաններիցդ	N;ABL;PL;PSS2S
-ընգնել	չեն ընգնում	V;IND;PL;3;NEG;PRS
-ընդգծել	մի՛ ընդգծեք	V;IMP;PL;2;NEG
-մոտեցնել	մոտեցնում եմ	V;IND;SG;1;PRS
+ընգնել	չեն էնգնում	V;IND;PL;3;NEG;PRS
+ընդգծել	չընդգծե՛ք	V;IMP;PL;2;NEG
+մոտեցնել	մոտեցնում	V;IND;SG;1;PRS
 առյուծ	առյուծս	N;NOM;SG;PSS1S
 քաջ	քաջովդ	N;INS;SG;PSS2S
 մղել	մղել էինք	V;PRF;IND;PL;1;PST
@@ -1118,11 +1118,11 @@
 տեռորիստական	տեռորիստականումս	ADJ;LOC;SG;PSS1S
 սերմնածորան	սերմնածորանիցդ	N;ABL;SG;PSS2S
 բարբանջել	բարբանջում էիք	V;IPFV;IND;PL;2
-ավելացնել	ավելացրիվ	V;IND;SG;3;PST
+ավելացնել	ավելացրի	V;IND;SG;3;PST
 սազալ	սազում էիր	V;IPFV;IND;SG;2
 ձառ	ձառով	ADJ;INS;SG
 խուճապ	խուճապներումդ	N;LOC;PL;PSS2S
-կատակերգություն	կատակերգությունդ	N;NOM;SG;PSS2S
+կատակերգություն	կատակերգություն	N;NOM;SG;PSS2S
 տենչալ	չտենչայիք	V;PRF;SBJV;PL;2;NEG;FUT
 կռկռալ	չեն կռկռում	V;IND;PL;3;NEG;PRS
 շփոթվել	շփոթվում էր	V;IPFV;IND;SG;3
@@ -1140,7 +1140,7 @@
 արքա	արքայիցս	N;ABL;SG;PSS1S
 բաղբաջանք	բաղբաջանքովդ	N;INS;SG;PSS2S
 փրփրալ	փրփրացիք	V;IND;PL;2;PST
-ամանակ	ամանակդ	N;NOM;SG;PSS2S
+ամանակ	ամանակ	N;NOM;SG;PSS2S
 ջրկոտեմ	ջրկոտեմը	N;NOM;DEF;SG
 ռնգական	ռնգականներումս	N;LOC;PL;PSS1S
 չարաշահել	չարաշահելու է	V;IND;SG;3;FUT
@@ -1148,25 +1148,25 @@
 փշուր	փշուրիցդ	N;ABL;SG;PSS2S
 սլովակերեն	սլովակերենումս	ADJ;LOC;SG;PSS1S
 երկբայանալ	երկբայանալու էիր	V;PRF;IND;SG;2;FUT
-ոստիկանություն	ոստիկանության	N;DAT;DEF;SG
+ոստիկանություն	ոստիկանությանը	N;DAT;DEF;SG
 խնձոր	խնձորը	N;NOM;DEF;SG
 ծափահարել	չէիք ծափահարում	V;IPFV;IND;PL;2;NEG
 նորեկ	նորեկս	N;NOM;SG;PSS1S
 մեծամասնություն	մեծամասնություններիցդ	N;ABL;PL;PSS2S
 կտակել	չէինք կտակելու	V;PRF;IND;PL;1;NEG;FUT
-համբուրվել	համբուրվում էր	V;IPFV;IND;SG;3
+համբուրվել	համբուրվում	V;IPFV;IND;SG;3
 կորել	չէին կորելու	V;PRF;IND;PL;3;NEG;FUT
 կահույք	կահույքում	N;LOC;SG
 աղեբեկ	աղեբեկներ	ADJ;NOM;PL
 ճոռոմ	ճոռոմները	ADJ;NOM;DEF;PL
 հիասթափ	հիասթափով	ADJ;INS;SG
-նվագել	նվագել	V;NFIN
+նվագել	նվագե	V;NFIN
 գլտորել	չէինք գլտորելու	V;PRF;IND;PL;1;NEG;FUT
 ձայնադարձ	ձայնադարձովդ	N;INS;SG;PSS2S
-վարձ	վարձդ	N;NOM;SG;PSS2S
-քշել	քշում էի	V;IPFV;IND;SG;1
-աղորի	աղորում	N;LOC;SG
-գնահատել	գնահատել	V;NFIN
+վարձ	վարձ	N;NOM;SG;PSS2S
+քշել	քշում	V;IPFV;IND;SG;1
+աղորի	աղորիում	N;LOC;SG
+գնահատել	գնահատե	V;NFIN
 թանկ	թանկիդ	ADJ;DAT;SG;PSS2S
 գանգրահեր	գանգրահերներիդ	ADJ;DAT;PL;PSS2S
 յակ	յակը	N;NOM;DEF;SG
@@ -1185,7 +1185,7 @@
 կարողանալ	կարողանանք	V;SBJV;PL;1;FUT
 կոկիկ	կոկիկիցդ	ADJ;ABL;SG;PSS2S
 տնակ	տնակը	N;NOM;DEF;SG
-պապանձվել	պապանձվելիս	V.CVB;SIM
+պապանձվել	պապանձվելու	V.CVB;SIM
 եփել	եփեցի	V;IND;SG;1;PST
 բոքս	բոքսովդ	N;INS;SG;PSS2S
 վանդակ	վանդակներից	N;ABL;PL
@@ -1196,10 +1196,10 @@
 գլտորել	չգլտորեմ	V;SBJV;SG;1;NEG;FUT
 անժաժ	անժաժին	ADJ;DAT;DEF;SG
 արմավ	արմավովդ	N;INS;SG;PSS2S
-ծծել	չէին ծծում	V;IPFV;IND;PL;3;NEG
+ծծել	չէին ծծծում	V;IPFV;IND;PL;3;NEG
 կարուսել	կարուսելներով	N;INS;PL
 դրդել	չդրդեիք	V;PRF;SBJV;PL;2;NEG;FUT
-թրել	թրելիս	V.CVB;SIM
+թրել	թրել	V.CVB;SIM
 չափել	չէինք չափելու	V;PRF;IND;PL;1;NEG;FUT
 աղջություն	աղջություններումդ	N;LOC;PL;PSS2S
 գռուզ	գռուզիցդ	ADJ;ABL;SG;PSS2S
@@ -1207,12 +1207,12 @@
 քարափ	քարափի	N;DAT;SG
 բռնաբարել	բռնաբարել էինք	V;PRF;IND;PL;1;PST
 ագուցավորել	չէինք ագուցավորելու	V;PRF;IND;PL;1;NEG;FUT
-խոպոպել	խոպոպում էի	V;IPFV;IND;SG;1
+խոպոպել	խոպոպում	V;IPFV;IND;SG;1
 շտկել	չէինք շտկելու	V;PRF;IND;PL;1;NEG;FUT
 ավանդել	ավանդում էիր	V;IPFV;IND;SG;2
 մերսում	մերսումի	N;DAT;SG
 ճվատել	ճվատես	V;SBJV;SG;2;FUT
-հարել	չհարեր	V;PRF;SBJV;SG;3;NEG;FUT
+հարել	չհարեի	V;PRF;SBJV;SG;3;NEG;FUT
 համատիրություն	համատիրությունիցս	N;ABL;SG;PSS1S
 արքայազն	արքայազնը	N;NOM;DEF;SG
 կառավարել	կառավարել էինք	V;PRF;IND;PL;1;PST
@@ -1223,52 +1223,52 @@
 պատկանել	չէին պատկանելու	V;PRF;IND;PL;3;NEG;FUT
 զրույց	զրույցներդ	N;NOM;PL;PSS2S
 խածել	խածում էինք	V;IPFV;IND;PL;1
-կաննադա	կաննադադ	N;NOM;SG;PSS2S
+կաննադա	կաննադա	N;NOM;SG;PSS2S
 ալեկոծել	ալեկոծում ես	V;IND;SG;2;PRS
 թարգմանել	չեմ թարգմանի	V;COND;SG;1;NEG;FUT
 կաշկանդել	կաշկանդում ես	V;IND;SG;2;PRS
-հատուցել	չես հատուցում	V;IND;SG;2;NEG;PRS
-ֆլամինգո	ֆլամինգոյիցս	N;ABL;SG;PSS1S
+հատուցել	չես հատուցել	V;IND;SG;2;NEG;PRS
+ֆլամինգո	ֆլամինգոիցս	N;ABL;SG;PSS1S
 խոպոպվել	խոպոպվել էինք	V;PRF;IND;PL;1;PST
-խիթալ	խիթաց	V;IND;SG;3;PST
+խիթալ	խիթացի	V;IND;SG;3;PST
 բուծել	կբուծեիք	V;PRF;COND;PL;2;FUT
-պետք	պետքդ	ADJ;NOM;SG;PSS2S
-առաջադիմել	առաջադիմում էի	V;IPFV;IND;SG;1
+պետք	պետք	ADJ;NOM;SG;PSS2S
+առաջադիմել	առաջադիմում	V;IPFV;IND;SG;1
 զենիթ	զենիթներիցդ	N;ABL;PL;PSS2S
 բրուցելոզ	բրուցելոզիցդ	N;ABL;SG;PSS2S
 մակերիկամ	մակերիկամին	N;DAT;DEF;SG
 նանի	նանիս	N;NOM;SG;PSS1S
-ֆիլիպինուհի	ֆիլիպինուհուցդ	N;ABL;SG;PSS2S
+ֆիլիպինուհի	ֆիլիպինուհիցդ	N;ABL;SG;PSS2S
 վնասվածք	վնասվածքիցս	N;ABL;SG;PSS1S
 խափանել	խափանելու են	V;IND;PL;3;FUT
 ճոռոմախոս	ճոռոմախոսներից	N;ABL;PL
-վարչապետ	վարչապետդ	N;NOM;SG;PSS2S
+վարչապետ	վարչապետ	N;NOM;SG;PSS2S
 աթլետիկա	աթլետիկաը	N;NOM;DEF;SG
 մրջյուն	մրջյունովդ	N;INS;SG;PSS2S
 պանթուրքիստ	պանթուրքիստներիցդ	N;ABL;PL;PSS2S
-համաստեղություն	համաստեղության	N;DAT;DEF;SG
-երդվել	երդվում էի	V;IPFV;IND;SG;1
+համաստեղություն	համաստեղությանս	N;DAT;DEF;SG
+երդվել	երդվում	V;IPFV;IND;SG;1
 թույլ	թույլովս	ADJ;INS;SG;PSS1S
 ձետ	ձետովդ	N;INS;SG;PSS2S
 շնորհել	չէինք շնորհելու	V;PRF;IND;PL;1;NEG;FUT
 տոկալ	չտոկամ	V;SBJV;SG;1;NEG;FUT
 կաշկանդել	կաշկանդում էին	V;IPFV;IND;PL;3
 ամբարտավան	ամբարտավաններովս	ADJ;INS;PL;PSS1S
-կոփածո	կոփածոյումս	ADJ;LOC;SG;PSS1S
+կոփածո	կոփածոումս	ADJ;LOC;SG;PSS1S
 վավերացում	վավերացումներդ	N;NOM;PL;PSS2S
 լերդ	լերդին	N;DAT;DEF;SG
-հորս	հորսդ	N;NOM;SG;PSS2S
+հորս	հորս	N;NOM;SG;PSS2S
 հռոմեական	հռոմեականներիդ	ADJ;DAT;PL;PSS2S
 ամհարերեն	ամհարերենիցս	N;ABL;SG;PSS1S
 վախել	կվախես	V;COND;SG;2;FUT
 փայլունակություն	փայլունակություններդ	N;NOM;PL;PSS2S
-ստորագրել	ստորագրում էր	V;IPFV;IND;SG;3
+ստորագրել	ստորագրում	V;IPFV;IND;SG;3
 փայլունակ	փայլունակիցս	ADJ;ABL;SG;PSS1S
 փլել	չփլեիք	V;PRF;SBJV;PL;2;NEG;FUT
 արածեցնել	չէինք արածեցնում	V;IPFV;IND;PL;1;NEG
 խեթում	խեթումս	N;NOM;SG;PSS1S
 կեր	կերովդ	N;INS;SG;PSS2S
-նախահայր	նախահորս	N;NOM;SG;PSS1S
+նախահայր	նախահայրս	N;NOM;SG;PSS1S
 փութաջան	փութաջաններումդ	ADJ;LOC;PL;PSS2S
 սիկղ	սիկղդ	N;NOM;SG;PSS2S
 կոշկոճել	կոշկոճեր	V;PRF;SBJV;SG;3;FUT
@@ -1276,32 +1276,32 @@
 հորդորեցուցիչ	հորդորեցուցիչները	ADJ;NOM;DEF;PL
 գահավանդակ	գահավանդակին	N;DAT;DEF;SG
 երկայնաբան	երկայնաբաններովս	ADJ;INS;PL;PSS1S
-ուզենալ	ուզեցել ենք	V;PRF;IND;PL;1;PRS
+ուզենալ	ուզենացել ենք	V;PRF;IND;PL;1;PRS
 հրաշք	հրաշքովդ	N;INS;SG;PSS2S
-զետեղել	զետեղած	V;V.PTCP;LGSPEC01
+զետեղել	զետեղոծ	V;V.PTCP;LGSPEC01
 խրթել	խրթում	V.CVB;IPFV
-ընկղմել	չընկղմեց	V;IND;SG;3;NEG;PST
-խանձատել	խանձատում էր	V;IPFV;IND;SG;3
+ընկղմել	չընկղմեցիր	V;IND;SG;3;NEG;PST
+խանձատել	խանձատում է	V;IPFV;IND;SG;3
 սադրել	կսադրես	V;COND;SG;2;FUT
 լկստվել	լկստվես	V;SBJV;SG;2;FUT
 հու	հուիցս	N;ABL;SG;PSS1S
 համառոտ	համառոտներ	ADJ;NOM;PL
 նազել	նազելու էիր	V;PRF;IND;SG;2;FUT
-հերքվել	հերքվեց	V;IND;SG;3;PST
+հերքվել	հերքվեցիր	V;IND;SG;3;PST
 ձիթապտուղ	ձիթապտուղներումդ	N;LOC;PL;PSS2S
 խեթում	խեթումներից	N;ABL;PL
-խափանել	չխափանեց	V;IND;SG;3;NEG;PST
+խափանել	չխափանեցի	V;IND;SG;3;NEG;PST
 վեճ	վեճովդ	N;INS;SG;PSS2S
 արամբի	արամբիները	ADJ;NOM;DEF;PL
 գծիկ	գծիկին	N;DAT;DEF;SG
-ծույլ	ծույլներդ	ADJ;NOM;PL;PSS2S
-արեւմտահայերեն	արեւմտահայերենի	N;DAT;SG
+ծույլ	ծույլերդ	ADJ;NOM;PL;PSS2S
+արեւմտահայերեն	արեւմտահայերեն	N;DAT;SG
 երեւալ	երեւալ	V;NFIN
-խռիկ	խռիկդ	N;NOM;SG;PSS2S
+խռիկ	խռիկ	N;NOM;SG;PSS2S
 տգեղ	տգեղից	ADJ;ABL;SG
 հնանալ	չհնանամ	V;SBJV;SG;1;NEG;FUT
 ճկել	ճկել են	V;PRF;IND;PL;3;PRS
-հրել	չհրեր	V;PRF;SBJV;SG;3;NEG;FUT
+հրել	չհրեի	V;PRF;SBJV;SG;3;NEG;FUT
 տաղտկոտ	տաղտկոտները	ADJ;NOM;DEF;PL
 պուլսար	պուլսարիցդ	N;ABL;SG;PSS2S
 բարեսեր	բարեսերով	ADJ;INS;SG
@@ -1316,14 +1316,14 @@
 կենտ	կենտս	N;NOM;SG;PSS1S
 երեսնամյա	երեսնամյայից	ADJ;ABL;SG
 ռադոն	ռադոնին	N;DAT;DEF;SG
-ծիծաղալ	ծիծաղալ	V;CAUS
+ծիծաղալ	ծիծաղա	V;CAUS
 տնատիրուհի	տնատիրուհիներիցդ	N;ABL;PL;PSS2S
 շողալ	շողում ես	V;IND;SG;2;PRS
 սլանալ	սլանալու եք	V;IND;PL;2;FUT
 սադրել	չէիք սադրի	V;PRF;COND;PL;2;NEG;FUT
 պոպոք	պոպոքիցս	N;ABL;SG;PSS1S
 հանրապետություն	հանրապետությունիցս	N;ABL;SG;PSS1S
-կախարդվել	մի՛ կախարդվիր	V;IMP;SG;2;NEG
+կախարդվել	չէիր կախարդվե՛	V;IMP;SG;2;NEG
 ջինջիլ	ջինջիլը	N;NOM;DEF;SG
 պուպուլ	պուպուլդ	N;NOM;SG;PSS2S
 խեղդ	խեղդին	N;DAT;DEF;SG
@@ -1343,12 +1343,12 @@
 սաղացնել	կսաղացնեի	V;PRF;COND;SG;1;FUT
 քուրչ	քուրչը	N;NOM;DEF;SG
 դալարուտ	դալարուտից	ADJ;ABL;SG
-չարաշահել	չէինք չարաշահելու	V;PRF;IND;PL;1;NEG;FUT
+չարաշահել	չէինք չարաշելու	V;PRF;IND;PL;1;NEG;FUT
 պարապել	չպարապեիք	V;PRF;SBJV;PL;2;NEG;FUT
-հպատակվել	հպատակվել	V.CVB;PFV
-զխկտել	զխկտել	V.CVB;PFV
+հպատակվել	հպատակվելք	V.CVB;PFV
+զխկտել	զխկտելք	V.CVB;PFV
 ուզենալ	ուզենալ	V;NFIN
-ֆլեշմոբ	ֆլեշմոբդ	N;NOM;SG;PSS2S
+ֆլեշմոբ	ֆլեշմոբ	N;NOM;SG;PSS2S
 ծածկել	չծածկեն	V;SBJV;PL;3;NEG;FUT
 նիդեռլանդական	նիդեռլանդականդ	ADJ;NOM;SG;PSS2S
 էթալ	կէթաս	V;COND;SG;2;FUT
@@ -1356,10 +1356,10 @@
 աքսորել	աքսորեիր	V;PRF;SBJV;SG;2;FUT
 թուրինջ	թուրինջին	N;DAT;DEF;SG
 պոռոտաբան	պոռոտաբանով	ADJ;INS;SG
-թարթել	թարթելիս	V.CVB;SIM
+թարթել	թարթելու	V.CVB;SIM
 կոպեկ	կոպեկը	N;NOM;DEF;SG
 զվարճացնել	չեն զվարճացնում	V;IND;PL;3;NEG;PRS
-ցանկանալ	չեք ցանկանում	V;IND;PL;2;NEG;PRS
+ցանկանալ	չեք ցանկացում	V;IND;PL;2;NEG;PRS
 փախստական	փախստականներով	N;INS;PL
 բաղխել	բաղխելու եք	V;IND;PL;2;FUT
 ռեխ	ռեխերումս	N;LOC;PL;PSS1S
@@ -1367,7 +1367,7 @@
 գլոր	գլորս	N;NOM;SG;PSS1S
 խմած	խմածներիդ	ADJ;DAT;PL;PSS2S
 բառադի	բառադիովս	ADJ;INS;SG;PSS1S
-կոգի	կոգուցս	N;ABL;SG;PSS1S
+կոգի	կոգիիցս	N;ABL;SG;PSS1S
 փռշտալ	կփռշտաս	V;COND;SG;2;FUT
 խաչակիր	խաչակիրներիցդ	N;ABL;PL;PSS2S
 երիկամ	երիկամներիցդ	N;ABL;PL;PSS2S
@@ -1376,7 +1376,7 @@
 ագուցվել	չեք ագուցվում	V;IND;PL;2;NEG;PRS
 լրջմտություն	լրջմտություններից	N;ABL;PL
 հմայել	հմայել է	V;PRF;IND;SG;3;PRS
-լահմաջու	լահմաջում	N;LOC;SG
+լահմաջու	լահմաջուում	N;LOC;SG
 կրիպտոն	կրիպտոնում	N;LOC;SG
 թովել	չթովենք	V;SBJV;PL;1;NEG;FUT
 թամբ	թամբերիցդ	N;ABL;PL;PSS2S
@@ -1385,13 +1385,13 @@
 բիբ	բիբերումդ	N;LOC;PL;PSS2S
 գիշատել	գիշատելու ես	V;IND;SG;2;FUT
 աղուն	աղունդ	N;NOM;SG;PSS2S
-մոտեցնել	մոտեցնում էր	V;IPFV;IND;SG;3
+մոտեցնել	մոտեցնում	V;IPFV;IND;SG;3
 կոտորակ	կոտորակս	N;NOM;SG;PSS1S
-կախել	չկախեր	V;PRF;SBJV;SG;3;NEG;FUT
+կախել	չկախեի	V;PRF;SBJV;SG;3;NEG;FUT
 կերակուր	կերակուրներումս	N;LOC;PL;PSS1S
 մեծ	մեծերս	ADJ;NOM;PL;PSS1S
-հոշոտել	հոշոտում եմ	V;IND;SG;1;PRS
-ռինգ	ռինգներից	N;ABL;PL
+հոշոտել	հոշոտոմ եմ	V;IND;SG;1;PRS
+ռինգ	ռինգերից	N;ABL;PL
 քարփինջ	քարփինջիցդ	N;ABL;SG;PSS2S
 ֆոյե	ֆոյեի	N;DAT;SG
 հագագ	հագագիցս	N;ABL;SG;PSS1S
@@ -1404,44 +1404,44 @@
 համբուրվել	չեմ համբուրվելու	V;IND;SG;1;NEG;FUT
 կասպ	կասպս	N;NOM;SG;PSS1S
 նկար	նկարս	N;NOM;SG;PSS1S
-քաջ	քաջդ	N;NOM;SG;PSS2S
+քաջ	քաջ	N;NOM;SG;PSS2S
 ածել	ածելու էին	V;PRF;IND;PL;3;FUT
 նախազգուշացում	նախազգուշացումներիցդ	N;ABL;PL;PSS2S
 զորահավաք	զորահավաքներով	N;INS;PL
-հաստել	հաստի	V.CVB;LGSPEC04
+հաստել	հաստելք	V.CVB;LGSPEC04
 տրամագիծ	տրամագիծովդ	N;INS;SG;PSS2S
 հնչյունաբան	հնչյունաբանդ	N;NOM;SG;PSS2S
 փլվել	փլվես	V;SBJV;SG;2;FUT
 բխել	բխելու էիր	V;PRF;IND;SG;2;FUT
 լյուքսեմբուրգերեն	լյուքսեմբուրգերենումս	ADJ;LOC;SG;PSS1S
-ուռել	ուռեց	V;IND;SG;3;PST
+ուռել	ուռեցի	V;IND;SG;3;PST
 աշտանակ	աշտանակներումս	N;LOC;PL;PSS1S
 օթել	օթում	V.CVB;IPFV
-հանգել	մի՛ հանգիր	V;IMP;SG;2;NEG
+հանգել	չհանգե՛	V;IMP;SG;2;NEG
 պտղատու	պտղատուիցս	ADJ;ABL;SG;PSS1S
 հոշոտել	հոշոտելու ես	V;IND;SG;2;FUT
 գորովել	գորովել են	V;PRF;IND;PL;3;PRS
 կատարել	կատարեցինք	V;IND;PL;1;PST
-հիմարացնել	հիմարացնում էի	V;IPFV;IND;SG;1
-ակրոպոլիս	ակրոպոլիսդ	N;NOM;SG;PSS2S
+հիմարացնել	հիմարացնում	V;IPFV;IND;SG;1
+ակրոպոլիս	ակրոպոլիս	N;NOM;SG;PSS2S
 երկարաժամկետ	երկարաժամկետներիդ	ADJ;DAT;PL;PSS2S
 աշխարհագրական	աշխարհագրականներ	ADJ;NOM;PL
 աղյուսե	աղյուսեներովս	ADJ;INS;PL;PSS1S
 խօսալ	կխօսայիք	V;PRF;COND;PL;2;FUT
 ինքնաթիռ	ինքնաթիռում	N;LOC;SG
 առաջադիմել	առաջադիմելու էին	V;PRF;IND;PL;3;FUT
-պարգեւ	պարգեւի	N;DAT;SG
+պարգեւ	պարգեւ	N;DAT;SG
 սահմանական	սահմանականներին	ADJ;DAT;DEF;PL
-ծուլանալ	ծուլացավ	V;IND;SG;3;PST
+ծուլանալ	ծուլանացիր	V;IND;SG;3;PST
 եփել	կեփես	V;COND;SG;2;FUT
 կայանալ	չկայանամ	V;SBJV;SG;1;NEG;FUT
 հարձակում	հարձակումներից	N;ABL;PL
 չափել	չափել են	V;PRF;IND;PL;3;PRS
 խոհարար	խոհարարովդ	N;INS;SG;PSS2S
 հատկանիշ	հատկանիշում	ADJ;LOC;SG
-ցնորք	ցնորքերից	N;ABL;PL
+ցնորք	ցնորքներից	N;ABL;PL
 կիրառվել	կիրառվել ենք	V;PRF;IND;PL;1;PRS
-տեսք	տեսքերումս	N;LOC;PL;PSS1S
+տեսք	տեսքներումս	N;LOC;PL;PSS1S
 եղջյուր	եղջյուրս	N;NOM;SG;PSS1S
 կենարար	կենարարներումս	ADJ;LOC;PL;PSS1S
 մեծատառ	մեծատառերիցդ	N;ABL;PL;PSS2S
@@ -1451,13 +1451,13 @@
 պատմուճակ	պատմուճակիցս	N;ABL;SG;PSS1S
 ույղուրերեն	ույղուրերենումս	ADJ;LOC;SG;PSS1S
 հաճախել	հաճախել ենք	V;PRF;IND;PL;1;PRS
-հավաքածո	հավաքածոդ	N;NOM;SG;PSS2S
+հավաքածո	հավաքածո	N;NOM;SG;PSS2S
 գաղափար	գաղափարներիցդ	N;ABL;PL;PSS2S
-բութ_մատ	բութ մատիցս	N;ABL;SG;PSS1S
+բութ մատ	բութ մատիցս	N;ABL;SG;PSS1S
 թակարդ	թակարդիցդ	N;ABL;SG;PSS2S
 սառն	սառներ	ADJ;NOM;PL
 մանաթ	մանաթներդ	N;NOM;PL;PSS2S
-հոտել	չես հոտում	V;IND;SG;2;NEG;PRS
+հոտել	չես հոտոլ	V;IND;SG;2;NEG;PRS
 հառաչախառն	հառաչախառնիդ	ADJ;DAT;SG;PSS2S
 դոնորություն	դոնորության	N;DAT;SG
 կռիչք	կռիչքներումդ	N;LOC;PL;PSS2S
@@ -1468,7 +1468,7 @@
 պարբերություն	պարբերությունս	N;NOM;SG;PSS1S
 երկայնանալ	չեն երկայնանում	V;IND;PL;3;NEG;PRS
 մաքուր	մաքուրիցդ	ADJ;ABL;SG;PSS2S
-հորեղբայր	հորեղբայրդ	N;NOM;SG;PSS2S
+հորեղբայր	հորեղբայր	N;NOM;SG;PSS2S
 համաձայնել	համաձայնեիր	V;PRF;SBJV;SG;2;FUT
 փռթկացնել	փռթկացրինք	V;IND;PL;1;PST
 տարակուսել	տարակուսելու եմ	V;IND;SG;1;FUT
@@ -1476,24 +1476,24 @@
 հրկիզել	հրկիզեցիք	V;IND;PL;2;PST
 համբերել	համբերել են	V;PRF;IND;PL;3;PRS
 մռայլ	մռայլումս	ADJ;LOC;SG;PSS1S
-բիլիարդի_սեղան	բիլիարդիսեղաններից	N;ABL;PL
+բիլիարդի սեղան	բիլիարդի սեղաններից	N;ABL;PL
 աստուճ	աստուճիցդ	ADJ;ABL;SG;PSS2S
 փռթկացնել	չէին փռթկացնի	V;PRF;COND;PL;3;NEG;FUT
 սեղանատամ	սեղանատամը	N;NOM;DEF;SG
 վարանել	վարանելու ես	V;IND;SG;2;FUT
-սազալ	չսազալ	V;NFIN;NEG
+սազալ	չեն սազալ	V;NFIN;NEG
 խոխոջել	կխոխոջեն	V;COND;PL;3;FUT
 խաղասրահ	խաղասրահներիցդ	N;ABL;PL;PSS2S
-սովորել	սովորած	V;V.PTCP;LGSPEC01
+սովորել	սովորող	V;V.PTCP;LGSPEC01
 բոզոն	բոզոններով	N;INS;PL
 խիթ	խիթը	N;NOM;DEF;SG
 հուռթանալ	չեմ հուռթանա	V;COND;SG;1;NEG;FUT
-խոպոպացվել	չէր խոպոպացվել	V;PRF;IND;SG;3;NEG;PST
+խոպոպացվել	չէր խոպոպացրվել	V;PRF;IND;SG;3;NEG;PST
 հավատալ	հավատանք	V;SBJV;PL;1;FUT
-վառոդ	վառոդդ	N;NOM;SG;PSS2S
+վառոդ	վառոդ	N;NOM;SG;PSS2S
 հատուցում	հատուցումներումս	N;LOC;PL;PSS1S
 ծիծ	ծիծիցս	N;ABL;SG;PSS1S
-ազդվել	ազդվում	V.CVB;IPFV
+ազդվել	ազդվումում	V.CVB;IPFV
 տոմար	տոմարներով	N;INS;PL
 հեղել	չեմ հեղի	V;COND;SG;1;NEG;FUT
 թրծել	չթրծեն	V;SBJV;PL;3;NEG;FUT
@@ -1502,11 +1502,11 @@
 լվացվել	լվացվելու եմ	V;IND;SG;1;FUT
 գուրալ	չգուրայինք	V;PRF;SBJV;PL;1;NEG;FUT
 ենթակայական	ենթակայականներդ	ADJ;NOM;PL;PSS2S
-ճմռել	ճմռեցել էինք	V;PRF;IND;PL;1;PST
+ճմռել	ճմռել էինք	V;PRF;IND;PL;1;PST
 առավել	առավելը	N;NOM;DEF;SG
 լրջամիտ	լրջամիտներին	ADJ;DAT;DEF;PL
 ծնոտ	ծնոտում	N;LOC;SG
-ստորագրել	ստորագրեց	V;IND;SG;3;PST
+ստորագրել	ստորագրեցի	V;IND;SG;3;PST
 բամբաս	բամբասի	N;DAT;SG
 շողալ	շողալու է	V;IND;SG;3;FUT
 կռնչել	կկռնչեն	V;COND;PL;3;FUT
@@ -1517,25 +1517,25 @@
 հարաբերություն	հարաբերություններով	N;INS;PL
 թրջել	թրջում եմ	V;IND;SG;1;PRS
 մաթիլ	մաթիլը	N;NOM;DEF;SG
-հոգնակի	հոգնակնոջիցդ	N;ABL;SG;PSS2S
+հոգնակի	հոգնակիցդ	N;ABL;SG;PSS2S
 սեգ	սեգերդ	ADJ;NOM;PL;PSS2S
-աշխատել	աշխատելիս	V.CVB;SIM
+աշխատել	աշխատելք	V.CVB;SIM
 նոր	նորերին	ADJ;DAT;DEF;PL
-ծուլանալ	չես ծուլանում	V;IND;SG;2;NEG;PRS
-սսկվել	չէի սսկվել	V;PRF;IND;SG;1;NEG;PST
-բիզոն	բիզոններից	N;ABL;PL
+ծուլանալ	չես ծուլանու	V;IND;SG;2;NEG;PRS
+սսկվել	չէի սսսկվել	V;PRF;IND;SG;1;NEG;PST
+բիզոն	բիզոննեից	N;ABL;PL
 ճվատել	ճվատեցիք	V;IND;PL;2;PST
 ագահել	կագահեի	V;PRF;COND;SG;1;FUT
-մտադրել	մտադրի՛ր	V;IMP;SG;2
-կղզիախումբ	կղզիախմբներումդ	N;LOC;PL;PSS2S
+մտադրել	մտադրե՛ր	V;IMP;SG;2
+կղզիախումբ	կղզիախումբներումդ	N;LOC;PL;PSS2S
 վանադիում	վանադիումներումս	N;LOC;PL;PSS1S
 ապահով	ապահովներումս	ADJ;LOC;PL;PSS1S
 թռնել	թռնելու է	V;IND;SG;3;FUT
 ճաճանչոսկր	ճաճանչոսկրիցդ	N;ABL;SG;PSS2S
 ակնոց	ակնոցիցս	N;ABL;SG;PSS1S
 որոճել	որոճում ենք	V;IND;PL;1;PRS
-ուժեղանալ	չուժեղանար	V;PRF;SBJV;SG;3;NEG;FUT
-երիցուկ	երիցկիցդ	N;ABL;SG;PSS2S
+ուժեղանալ	չուժեղանայի	V;PRF;SBJV;SG;3;NEG;FUT
+երիցուկ	երիցուկիցդ	N;ABL;SG;PSS2S
 երդում	երդումում	N;LOC;SG
 տափաստանային	տափաստանայիններս	ADJ;NOM;PL;PSS1S
 գանգրվել	գանգրվել	V;NFIN
@@ -1550,17 +1550,17 @@
 հանվել	հանվեիր	V;PRF;SBJV;SG;2;FUT
 հանվել	հանվեն	V;SBJV;PL;3;FUT
 արոտ	արոտիցս	N;ABL;SG;PSS1S
-ջինս	ջինսերդ	N;NOM;PL;PSS2S
+ջինս	ջինսներդ	N;NOM;PL;PSS2S
 վարդապետ	վարդապետներից	N;ABL;PL
 ապստամբել	ապստամբում էինք	V;IPFV;IND;PL;1
 հիմարացնել	հիմարացնելու էիր	V;PRF;IND;SG;2;FUT
 բորբոքում	բորբոքումի	N;DAT;SG
-ահ	ահսս	N;NOM;SG;PSS1S
+ահ	ահս	N;NOM;SG;PSS1S
 ուզել	ուզելու են	V;IND;PL;3;FUT
 բդկել	բդկելու ես	V;IND;SG;2;FUT
 սանձահարել	սանձահարեցինք	V;IND;PL;1;PST
 սերմնաբուշտ	սերմնաբուշտներումս	N;LOC;PL;PSS1S
-վառվել	վառվել	V;NFIN
+վառվել	վառվե	V;NFIN
 մարզ	մարզիցդ	N;ABL;SG;PSS2S
 երկար	երկարում	ADJ;LOC;SG
 կիսել	կիսելու էին	V;PRF;IND;PL;3;FUT
@@ -1573,18 +1573,18 @@
 կից	կիցի	N;DAT;SG
 կուրչատովիում	կուրչատովիումի	N;DAT;SG
 արթնանալ	արթնանալու են	V;IND;PL;3;FUT
-կղզի	կղզուցս	N;ABL;SG;PSS1S
+կղզի	կղզիիցս	N;ABL;SG;PSS1S
 ձաղել	ձաղել էինք	V;PRF;IND;PL;1;PST
 կանխամտածել	չէիք կանխամտածի	V;PRF;COND;PL;2;NEG;FUT
 կեղտոտել	չէինք կեղտոտելու	V;PRF;IND;PL;1;NEG;FUT
 ստուգել	չէր ստուգել	V;PRF;IND;SG;3;NEG;PST
 վախ	վախս	N;NOM;SG;PSS1S
-հարցազրույց	հարցազրույցիցս	N;ABL;SG;PSS1S
+հարցազրույց	հարցազրույցս	N;ABL;SG;PSS1S
 անպատրաստ	անպատրաստներովս	ADJ;INS;PL;PSS1S
 արքայախնձոր	արքայախնձորիցս	N;ABL;SG;PSS1S
 ավել	ավելներդ	N;NOM;PL;PSS2S
 մարսողություն	մարսողություններից	N;ABL;PL
-խաչապուրի	խաչապուրուցդ	N;ABL;SG;PSS2S
+խաչապուրի	խաչապուրիիցդ	N;ABL;SG;PSS2S
 օրհնել	չէինք օրհնում	V;IPFV;IND;PL;1;NEG
 ֆրիզերեն	ֆրիզերեններումդ	ADJ;LOC;PL;PSS2S
 շնչել	շնչում ենք	V;IND;PL;1;PRS
@@ -1599,8 +1599,8 @@
 փապար	փապարներումս	N;LOC;PL;PSS1S
 պտկունք	պտկունքներումս	N;LOC;PL;PSS1S
 այծյա	այծյաներ	ADJ;NOM;PL
-ուսանել	չէի ուսանել	V;PRF;IND;SG;1;NEG;PST
-լվացվել	լվացվել	V.CVB;PFV
+ուսանել	չէի ուսացել	V;PRF;IND;SG;1;NEG;PST
+լվացվել	լվացվելք	V.CVB;PFV
 հղփանալ	չի հղփանալու	V;IND;SG;3;NEG;FUT
 խարխլել	խարխլում ենք	V;IND;PL;1;PRS
 խաբար	խաբարիցդ	N;ABL;SG;PSS2S
@@ -1613,7 +1613,7 @@
 ախտորոշել	չէի ախտորոշի	V;PRF;COND;SG;1;NEG;FUT
 մեղկ	մեղկերիդ	ADJ;DAT;PL;PSS2S
 տառապեցնել	չտառապեցնենք	V;SBJV;PL;1;NEG;FUT
-ճամփել	չճամփեց	V;IND;SG;3;NEG;PST
+ճամփել	չճամփեցիր	V;IND;SG;3;NEG;PST
 խորհուրդ	խորհուրդներից	N;ABL;PL
 աննկուն	աննկունում	ADJ;LOC;SG
 ծլել	ծլում էր	V;IPFV;IND;SG;3
@@ -1625,9 +1625,9 @@
 դրվատել	չէինք դրվատելու	V;PRF;IND;PL;1;NEG;FUT
 ճոռոմախոս	ճոռոմախոսիցդ	ADJ;ABL;SG;PSS2S
 թեշիկ	թեշիկներումս	N;LOC;PL;PSS1S
-սպա	սպաին	N;DAT;DEF;SG
+սպա	սպային	N;DAT;DEF;SG
 ծպտել	չի ծպտելու	V;IND;SG;3;NEG;FUT
-կազմակերպել	կազմակերպում էի	V;IPFV;IND;SG;1
+կազմակերպել	կազմակերպում	V;IPFV;IND;SG;1
 խղճալ	խղճալու է	V;IND;SG;3;FUT
 հեռել	չհեռենք	V;SBJV;PL;1;NEG;FUT
 հանգել	չհանգեցիր	V;IND;SG;2;NEG;PST
@@ -1643,12 +1643,12 @@
 հարս	հարսովդ	N;INS;SG;PSS2S
 գանգրվել	չգանգրվեինք	V;PRF;SBJV;PL;1;NEG;FUT
 ալեկոծել	չալեկոծենք	V;SBJV;PL;1;NEG;FUT
-բռի	բռիիդ	ADJ;DAT;SG;PSS2S
+բռի	բռիդ	ADJ;DAT;SG;PSS2S
 նոր	նորերիդ	ADJ;DAT;PL;PSS2S
-կռթնել	չկռթնել	V;NFIN;NEG
+կռթնել	չեն կռթնել	V;NFIN;NEG
 առոգանել	առոգանել էինք	V;PRF;IND;PL;1;PST
 սարավանդ	սարավանդում	N;LOC;SG
-երկայնել	երկայնում էի	V;IPFV;IND;SG;1
+երկայնել	երկայնում	V;IPFV;IND;SG;1
 մեծաբան	մեծաբաններին	ADJ;DAT;DEF;PL
 փոխվարչապետ	փոխվարչապետովդ	N;INS;SG;PSS2S
 կլարնետ	կլարնետներդ	N;NOM;PL;PSS2S
@@ -1659,16 +1659,16 @@
 աջարական	աջարականումս	ADJ;LOC;SG;PSS1S
 պատճառական	պատճառականիցս	ADJ;ABL;SG;PSS1S
 չարաչար	չարաչարներովս	ADJ;INS;PL;PSS1S
-անգլիացի	անգլիացուն	N;DAT;DEF;SG
-խրախուսանք	խրախուսանքդ	N;NOM;SG;PSS2S
+անգլիացի	անգլիացին	N;DAT;DEF;SG
+խրախուսանք	խրախուսանք	N;NOM;SG;PSS2S
 էլեկտրականություն	էլեկտրականություններդ	N;NOM;PL;PSS2S
 սառուցյալ	սառուցյալիդ	ADJ;DAT;SG;PSS2S
 ծեփել	կծեփես	V;COND;SG;2;FUT
 հուզել	չեն հուզում	V;IND;PL;3;NEG;PRS
 փոխառություն	փոխառությունս	N;NOM;SG;PSS1S
 երաժշտություն	երաժշտության	N;DAT;SG
-խանդել	խանդի՛ր	V;IMP;SG;2
-շտապել	շտապել	V.CVB;PFV
+խանդել	խանդե՛ր	V;IMP;SG;2
+շտապել	շտապելք	V.CVB;PFV
 սադրել	սադրում էինք	V;IPFV;IND;PL;1
 ձուլել	կձուլեիք	V;PRF;COND;PL;2;FUT
 ճահիճ	ճահիճը	N;NOM;DEF;SG
@@ -1676,12 +1676,12 @@
 ճոռոմաբան	ճոռոմաբաններովս	ADJ;INS;PL;PSS1S
 իրավ	իրավներս	ADJ;NOM;PL;PSS1S
 առողջացնել	չէին առողջացնելու	V;PRF;IND;PL;3;NEG;FUT
-գոռալ	գոռալիս	V.CVB;SIM
+գոռալ	գոռալք	V.CVB;SIM
 խորակ	խորակներումս	N;LOC;PL;PSS1S
 հրահրել	չհրահրենք	V;SBJV;PL;1;NEG;FUT
 բիլ	բիլերը	ADJ;NOM;DEF;PL
 մեծաշեն	մեծաշենիցս	ADJ;ABL;SG;PSS1S
-շողալ	շողում	V.CVB;IPFV
+շողալ	շողումք	V.CVB;IPFV
 բոսոր	բոսորներումս	ADJ;LOC;PL;PSS1S
 արհամարհել	չէր արհամարհել	V;PRF;IND;SG;3;NEG;PST
 բյուր	բյուրից	ADJ;ABL;SG
@@ -1694,7 +1694,7 @@
 սալյամի	սալյամիովդ	N;INS;SG;PSS2S
 կիրառվել	չկիրառվի	V;SBJV;SG;3;NEG;FUT
 լծակ	լծակներիցդ	N;ABL;PL;PSS2S
-վճիռ	վճիռներից	N;ABL;PL
+վճիռ	վճիռերից	N;ABL;PL
 իրավ	իրավներին	ADJ;DAT;DEF;PL
 զեյթուն	զեյթունիցդ	N;ABL;SG;PSS2S
 յոդ	յոդիցդ	N;ABL;SG;PSS2S
@@ -1704,9 +1704,9 @@
 փնտրել	չի փնտրում	V;IND;SG;3;NEG;PRS
 վարդապետ	վարդապետի	N;DAT;SG
 խոյանալ	խոյանաք	V;SBJV;PL;2;FUT
-ձիրք	ձիրքերումդ	N;LOC;PL;PSS2S
+ձիրք	ձիրքներումդ	N;LOC;PL;PSS2S
 քեռորդի	քեռորդիս	N;NOM;SG;PSS1S
-հաճել	հաճել	V;NFIN
+հաճել	հաճե	V;NFIN
 հաճախել	չհաճախեմ	V;SBJV;SG;1;NEG;FUT
 որյար	որյարիցդ	N;ABL;SG;PSS2S
 հայրենիք	հայրենիքներով	N;INS;PL
@@ -1715,13 +1715,13 @@
 կակալա	կակալաներումդ	N;LOC;PL;PSS2S
 որջ	որջիցդ	N;ABL;SG;PSS2S
 տրոհել	տրոհել է	V;PRF;IND;SG;3;PRS
-տկար_սեռ	տկարսեռիցս	N;ABL;SG;PSS1S
+տկար սեռ	տկար սեռիցս	N;ABL;SG;PSS1S
 աղբ	աղբիցդ	N;ABL;SG;PSS2S
 շփոթվել	չէին շփոթվում	V;IPFV;IND;PL;3;NEG
 ընդգծել	կընդգծեիք	V;PRF;COND;PL;2;FUT
 սրճագույն	սրճագույնիդ	ADJ;DAT;SG;PSS2S
 փայլյուն	փայլյունս	N;NOM;SG;PSS1S
-հավես	հավեսս	N;NOM;SG;PSS1S
+հավես	հավես	N;NOM;SG;PSS1S
 գոհացնել	գոհացնել են	V;PRF;IND;PL;3;PRS
 հափափել	հափափում էիր	V;IPFV;IND;SG;2
 պաշտել	չէի պաշտի	V;PRF;COND;SG;1;NEG;FUT
@@ -1733,18 +1733,18 @@
 լուտալ	չլուտացի	V;IND;SG;1;NEG;PST
 պեղել	պեղելու են	V;IND;PL;3;FUT
 մոտո	մոտոներումս	N;LOC;PL;PSS1S
-փոքր	փոքրներդ	ADJ;NOM;PL;PSS2S
+փոքր	փոքրերդ	ADJ;NOM;PL;PSS2S
 ճաղ	ճաղերով	N;INS;PL
 պոկեր	պոկերիցդ	N;ABL;SG;PSS2S
 վրաերթ	վրաերթում	N;LOC;SG
 թորշոմ	թորշոմով	ADJ;INS;SG
-զգուշանալ	զգուշացել է	V;PRF;IND;SG;3;PRS
+զգուշանալ	զգուշանում է	V;PRF;IND;SG;3;PRS
 հեշտ	հեշտիցդ	ADJ;ABL;SG;PSS2S
-հելնել	հելելէինք	V;PRF;IND;PL;1;PST
+հելնել	հելնել էինք	V;PRF;IND;PL;1;PST
 ձայնդարձ	ձայնդարձիցդ	N;ABL;SG;PSS2S
 ներքինացնել	ներքինացնեն	V;SBJV;PL;3;FUT
 ճկույթ	ճկույթի	N;DAT;SG
-մածնաբրդոշ	մածնաբրդոշը	N;NOM;DEF;SG
+մածնաբրդոշ	մածնաբրդոշ	N;NOM;DEF;SG
 էրկաթ	էրկաթովդ	N;INS;SG;PSS2S
 սիրվել	սիրվելու են	V;IND;PL;3;FUT
 ամերիկյան	ամերիկյանիդ	ADJ;DAT;SG;PSS2S
@@ -1752,7 +1752,7 @@
 հովազ	հովազին	N;DAT;DEF;SG
 վայրկենական	վայրկենականներումս	ADJ;LOC;PL;PSS1S
 ուրուկ	ուրուկիդ	ADJ;DAT;SG;PSS2S
-ստամբակել	չստամբակել	V;NFIN;NEG
+ստամբակել	չեն ստամբակել	V;NFIN;NEG
 ուղիղ	ուղիղովս	ADJ;INS;SG;PSS1S
 զարմանք	զարմանքներումս	N;LOC;PL;PSS1S
 վիճել	չվիճեցիր	V;IND;SG;2;NEG;PST
@@ -1771,8 +1771,8 @@
 լիզել	լիզեին	V;PRF;SBJV;PL;3;FUT
 խոպոպվել	խոպոպվեն	V;SBJV;PL;3;FUT
 զխկտել	զխկտելու եմ	V;IND;SG;1;FUT
-գոռ	գոռդ	ADJ;NOM;SG;PSS2S
-փարպեցի	փարպեցուցդ	N;ABL;SG;PSS2S
+գոռ	գոռ	ADJ;NOM;SG;PSS2S
+փարպեցի	փարպեցիցդ	N;ABL;SG;PSS2S
 բրուտ	բրուտներիցդ	N;ABL;PL;PSS2S
 էգ	էգովդ	N;INS;SG;PSS2S
 ժամացույց	ժամացույցին	N;DAT;DEF;SG
@@ -1784,45 +1784,45 @@
 հայտնի	հայտնիներս	ADJ;NOM;PL;PSS1S
 մաքրել	չէիք մաքրում	V;IPFV;IND;PL;2;NEG
 մեծաբանել	չէի մեծաբանի	V;PRF;COND;SG;1;NEG;FUT
-աղերսել	մի՛ աղերսեք	V;IMP;PL;2;NEG
+աղերսել	չաղերսե՛ք	V;IMP;PL;2;NEG
 ղիամաթ	ղիամաթում	N;LOC;SG
 հառնել	չհառնեցի	V;IND;SG;1;NEG;PST
 մորուք	մորուքներով	N;INS;PL
 հարված	հարվածներդ	N;NOM;PL;PSS2S
-վերծանել	վերծանում էի	V;IPFV;IND;SG;1
+վերծանել	վերծանում	V;IPFV;IND;SG;1
 ալեմաներեն	ալեմաներենին	ADJ;DAT;DEF;SG
 պահածոյացնել	պահածոյացնում ենք	V;IND;PL;1;PRS
 ալբատրոս	ալբատրոսովդ	N;INS;SG;PSS2S
 պատառել	պատառեք	V;SBJV;PL;2;FUT
-խրթել	չխրթեց	V;IND;SG;3;NEG;PST
+խրթել	չխրթեցի	V;IND;SG;3;NEG;PST
 վիետնամերեն	վիետնամերեններս	ADJ;NOM;PL;PSS1S
 հայտնել	հայտնում ենք	V;IND;PL;1;PRS
 գողոն	գողոններումս	N;LOC;PL;PSS1S
 եռանդալից	եռանդալիցներդ	ADJ;NOM;PL;PSS2S
 բացականչել	բացականչեր	V;PRF;SBJV;SG;3;FUT
-դաշնություն	դաշնությանս	N;DAT;DEF;SG
+դաշնություն	դաշնությանին	N;DAT;DEF;SG
 աշխատել	աշխատում էին	V;IPFV;IND;PL;3
 սադրիչ	սադրիչները	ADJ;NOM;DEF;PL
 մատիտ	մատիտում	N;LOC;SG
 զայրուց	զայրուցս	N;NOM;SG;PSS1S
-աներկյուղանալ	չէիք աներկյուղանում	V;IPFV;IND;PL;2;NEG
-անզգայացվել	անզգայացվում էի	V;IPFV;IND;SG;1
+աներկյուղանալ	չէիք աներկյունում	V;IPFV;IND;PL;2;NEG
+անզգայացվել	անզգայացվում	V;IPFV;IND;SG;1
 մլաղաց	մլաղացներով	N;INS;PL
-եպերել	եպերում էիր	V;IPFV;IND;SG;2
-ոխ	ոխսս	N;NOM;SG;PSS1S
+եպերել	եպերում	V;IPFV;IND;SG;2
+ոխ	ոխս	N;NOM;SG;PSS1S
 քար	քարիցս	ADJ;ABL;SG;PSS1S
-թոթովել	թոթովի՛ր	V;IMP;SG;2
+թոթովել	թոթովե՛ր	V;IMP;SG;2
 անվճար	անվճարներումդ	ADJ;LOC;PL;PSS2S
 հարգել	հարգեին	V;PRF;SBJV;PL;3;FUT
-կոճապղպեղ	կոճապղպեղդ	N;NOM;SG;PSS2S
+կոճապղպեղ	կոճապղպեղ	N;NOM;SG;PSS2S
 ոստան	ոստանովդ	N;INS;SG;PSS2S
 նոբելիում	նոբելիումը	N;NOM;DEF;SG
 խոցել	խոցեցինք	V;IND;PL;1;PST
-բուծել	մի՛ բուծեք	V;IMP;PL;2;NEG
+բուծել	չբուծե՛ք	V;IMP;PL;2;NEG
 բազմոց	բազմոցս	N;NOM;SG;PSS1S
 հնավուն	հնավուններ	ADJ;NOM;PL
 ագուցահանել	ագուցահանեցինք	V;IND;PL;1;PST
-հոխորտալ	հոխորտած	V;V.PTCP;LGSPEC01
+հոխորտալ	հոխորտող	V;V.PTCP;LGSPEC01
 տոն	տոնը	N;NOM;DEF;SG
 վալս	վալսերդ	N;NOM;PL;PSS2S
 զղջալ	զղջալու է	V;IND;SG;3;FUT
@@ -1834,10 +1834,10 @@
 կոչել	կոչես	V;SBJV;SG;2;FUT
 ճանճ	ճանճերդ	N;NOM;PL;PSS2S
 ջին	ջինին	N;DAT;DEF;SG
-կոշկոճել	մի՛ կոշկոճիր	V;IMP;SG;2;NEG
-քնամուկ	քնամկներիցդ	N;ABL;PL;PSS2S
+կոշկոճել	չկոշկոճե՛	V;IMP;SG;2;NEG
+քնամուկ	քնամուկներիցդ	N;ABL;PL;PSS2S
 փոխհատուցել	փոխհատուցեիր	V;PRF;SBJV;SG;2;FUT
-զարմ	զարմերդ	N;NOM;PL;PSS2S
+զարմ	զարմներդ	N;NOM;PL;PSS2S
 թաքթաքուր	թաքթաքուրները	ADJ;NOM;DEF;PL
 հղիություն	հղիությունում	N;LOC;SG
 մկնիկ	մկնիկիցդ	N;ABL;SG;PSS2S
@@ -1849,17 +1849,17 @@
 որոշակի	որոշակիդ	ADJ;NOM;SG;PSS2S
 աստվածաշունչ	աստվածաշունչով	ADJ;INS;SG
 դալուկ	դալուկիցս	ADJ;ABL;SG;PSS1S
-դողալ	չեմ դողում	V;IND;SG;1;NEG;PRS
+դողալ	չեմ դողացում	V;IND;SG;1;NEG;PRS
 մանկապարտեզ	մանկապարտեզներումս	N;LOC;PL;PSS1S
 կճել	կճել էինք	V;PRF;IND;PL;1;PST
 մտադրական	մտադրականները	ADJ;NOM;DEF;PL
-հուռ	հուռերումս	N;LOC;PL;PSS1S
+հուռ	հուռներումս	N;LOC;PL;PSS1S
 ողողվել	չողողվեցիր	V;IND;SG;2;NEG;PST
 փորձ	փորձիդ	ADJ;DAT;SG;PSS2S
 խնչել	խնչեցիք	V;IND;PL;2;PST
 պառկել	չէինք պառկում	V;IPFV;IND;PL;1;NEG
 ծլել	չէինք ծլելու	V;PRF;IND;PL;1;NEG;FUT
-պոռոտաբանել	պոռոտաբանի	V.CVB;LGSPEC04
+պոռոտաբանել	պոռոտաբանելք	V.CVB;LGSPEC04
 պատկանել	պատկանում եմ	V;IND;SG;1;PRS
 խեթերեն	խեթերենը	N;NOM;DEF;SG
 բոպլիկ	բոպլիկով	ADJ;INS;SG
@@ -1869,10 +1869,10 @@
 անզգայացվել	չեմ անզգայացվի	V;COND;SG;1;NEG;FUT
 քարփիջ	քարփիջիցս	N;ABL;SG;PSS1S
 հրճվել	կհրճվեմ	V;COND;SG;1;FUT
-դատապարտել	դատապարտում էի	V;IPFV;IND;SG;1
-ընկճել	ընկճեց	V;IND;SG;3;PST
+դատապարտել	դատապարտում	V;IPFV;IND;SG;1
+ընկճել	ընկճեցի	V;IND;SG;3;PST
 ամուսնացնել	ամուսնացնելու եմ	V;IND;SG;1;FUT
-ներքինացնել	ներքինացնում էի	V;IPFV;IND;SG;1
+ներքինացնել	ներքինացնում	V;IPFV;IND;SG;1
 ուտիերեն	ուտիերենիցս	N;ABL;SG;PSS1S
 նավատորմ	նավատորմում	N;LOC;SG
 չինարի	չինարիում	N;LOC;SG
@@ -1896,7 +1896,7 @@
 թովել	չեմ թովում	V;IND;SG;1;NEG;PRS
 ոստիկան	ոստիկանս	N;NOM;SG;PSS1S
 թեփուկ	թեփուկս	N;NOM;SG;PSS1S
-ձելկվա_բոխատերեւ	ձելկվա բոխատերեիցդ	N;ABL;SG;PSS2S
+ձելկվա բոխատերեւ	ձելկվա բոխատերեւ	N;ABL;SG;PSS2S
 զանկապան	զանկապաններումդ	N;LOC;PL;PSS2S
 հարսնանալ	հարսնանալու եմ	V;IND;SG;1;FUT
 օկցիտանա	օկցիտանաը	N;NOM;DEF;SG
@@ -1907,49 +1907,49 @@
 սկզբունք	սկզբունքներից	N;ABL;PL
 կալված	կալվածիցդ	N;ABL;SG;PSS2S
 կործել	չի կործում	V;IND;SG;3;NEG;PRS
-կենդանանալ	կենդանացել	V;CAUS
+կենդանանալ	կենդանանա	V;CAUS
 ծնգցնել	չի ծնգցնում	V;IND;SG;3;NEG;PRS
 արագոներեն	արագոներենիցդ	N;ABL;SG;PSS2S
 օգտագործել	կօգտագործեմ	V;COND;SG;1;FUT
 ճողոպրել	ճողոպրում էիք	V;IPFV;IND;PL;2
 թեորեմ	թեորեմիցդ	N;ABL;SG;PSS2S
 պաղպաղակ	պաղպաղակներումդ	N;LOC;PL;PSS2S
-փաստ	փաստերդ	N;NOM;PL;PSS2S
+փաստ	փաստներդ	N;NOM;PL;PSS2S
 փողրակ	փողրակներով	N;INS;PL
 հասկանալ	հասկանային	V;PRF;SBJV;PL;3;FUT
 լրջանալ	չէին լրջանալու	V;PRF;IND;PL;3;NEG;FUT
 քննարկել	քննարկենք	V;SBJV;PL;1;FUT
-ցավալ	ցավալ	V;CAUS
+ցավալ	ցավա	V;CAUS
 կտղել	չկտղեմ	V;SBJV;SG;1;NEG;FUT
 կաֆե	կաֆեներդ	N;NOM;PL;PSS2S
-տաղտուկ	տաղտկներումս	N;LOC;PL;PSS1S
+տաղտուկ	տաղտուկներումս	N;LOC;PL;PSS1S
 ճապուկ	ճապուկներումդ	ADJ;LOC;PL;PSS2S
 նորություն	նորություններիցդ	N;ABL;PL;PSS2S
 զետեղել	զետեղելու եք	V;IND;PL;2;FUT
-առույգ	առույգդ	ADJ;NOM;SG;PSS2S
+առույգ	առույգ	ADJ;NOM;SG;PSS2S
 քծինք	քծինքը	N;NOM;DEF;SG
 իրականություն	իրականության	N;DAT;SG
 երեւելի	երեւելիովս	ADJ;INS;SG;PSS1S
 տնջրի	տնջրիովդ	N;INS;SG;PSS2S
 տրցակել	տրցակում էին	V;IPFV;IND;PL;3
-էֆենդի	էֆենդիիցդ	N;ABL;SG;PSS2S
+էֆենդի	էֆենդիցդ	N;ABL;SG;PSS2S
 խրոխտալ	խրոխտա՛ր	V;IMP;SG;2
 նվաղել	չէինք նվաղելու	V;PRF;IND;PL;1;NEG;FUT
 մաքուր	մաքուրիցս	ADJ;ABL;SG;PSS1S
 խափ	խափին	N;DAT;DEF;SG
 անրջային	անրջայիններին	ADJ;DAT;DEF;PL
-ապստամբել	ապստամբել	V.CVB;PFV
+ապստամբել	ապստամբելու	V.CVB;PFV
 փքունություն	փքունության	N;DAT;SG
 արծաթի	արծաթիներ	ADJ;NOM;PL
 կաղճին	կաղճինս	N;NOM;SG;PSS1S
 անդաստակ	անդաստակներդ	N;NOM;PL;PSS2S
 աղավաղել	չաղավաղեցիր	V;IND;SG;2;NEG;PST
 ակնածել	ակնածելու եք	V;IND;PL;2;FUT
-փայլունացնել	մի՛ փայլունացնիր	V;IMP;SG;2;NEG
+փայլունացնել	չփայլունացրե՛ր	V;IMP;SG;2;NEG
 փախնել	չեմ փախնում	V;IND;SG;1;NEG;PRS
 կռթնել	կռթնելու էիր	V;PRF;IND;SG;2;FUT
 խաչերկաթ	խաչերկաթներումդ	N;LOC;PL;PSS2S
-տաքսի	տաքսուցդ	N;ABL;SG;PSS2S
+տաքսի	տաքսիիցդ	N;ABL;SG;PSS2S
 նվաղել	չէի նվաղել	V;PRF;IND;SG;1;NEG;PST
 պոռնոգրաֆիա	պոռնոգրաֆիայի	N;DAT;SG
 ջղայնացնել	չջղայնացներ	V;PRF;SBJV;SG;3;NEG;FUT
@@ -1959,9 +1959,9 @@
 հավաստիք	հավաստիքներիցդ	N;ABL;PL;PSS2S
 բարբաջել	բարբաջելու ես	V;IND;SG;2;FUT
 ֆաշիստ	ֆաշիստներով	N;INS;PL
-խածել	չխածել	V;NFIN;NEG
+խածել	չեն խածել	V;NFIN;NEG
 գրենա	գրենաներից	N;ABL;PL
-խածատել	չխածատեց	V;IND;SG;3;NEG;PST
+խածատել	չխածատեցի	V;IND;SG;3;NEG;PST
 թարգմանել	թարգմանում էիք	V;IPFV;IND;PL;2
 տակնուվրա	տակնուվրայով	ADJ;INS;SG
 սավան	սավանի	N;DAT;SG
@@ -1986,7 +1986,7 @@
 սանձել	սանձել են	V;PRF;IND;PL;3;PRS
 քարոզել	կքարոզեն	V;COND;PL;3;FUT
 նվագել	նվագելու էին	V;PRF;IND;PL;3;FUT
-զորախումբ	զորախմբերուց	N;ABL;PL
+զորախումբ	զորախումբներից	N;ABL;PL
 լատվիերեն	լատվիերեններումս	ADJ;LOC;PL;PSS1S
 հոգեբանություն	հոգեբանություններումս	N;LOC;PL;PSS1S
 հաճար	հաճարիցդ	N;ABL;SG;PSS2S
@@ -1994,7 +1994,7 @@
 աստվածյան	աստվածյաններիդ	ADJ;DAT;PL;PSS2S
 մակեդոներեն	մակեդոներենովս	ADJ;INS;SG;PSS1S
 փարթամակյաց	փարթամակյացներդ	ADJ;NOM;PL;PSS2S
-թալմուդ	թալմուդդ	N;NOM;SG;PSS2S
-աղքատ	աղքատդ	ADJ;NOM;SG;PSS2S
+թալմուդ	թալմուդ	N;NOM;SG;PSS2S
+աղքատ	աղքատ	ADJ;NOM;SG;PSS2S
 խեղդել	խեղդելու եմ	V;IND;SG;1;FUT
 արդարացի	արդարացիներիդ	ADJ;DAT;PL;PSS2S
